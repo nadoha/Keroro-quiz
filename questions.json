@@ -1,0 +1,1997 @@
+[
+ {
+  "topic": "계급·소대",
+  "difficulty": "easy",
+  "question": "케로로 소대의 대장은 누구일까요?",
+  "explanation": "케로로는 케로로 소대를 이끄는 대장이에요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "도로로",
+   "케로로",
+   "쿠루루",
+   "기로로"
+  ],
+  "answerIndex": 1,
+  "id": 1
+ },
+ {
+  "topic": "계급·소대",
+  "difficulty": "easy",
+  "question": "케로로의 계급은?",
+  "explanation": "케로로 군조(軍曹) = 한국어 더빙명 '케로로 중사'.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "병장",
+   "하사",
+   "중사",
+   "상사"
+  ],
+  "answerIndex": 2,
+  "id": 2
+ },
+ {
+  "topic": "계급·소대",
+  "difficulty": "easy",
+  "question": "타마마의 계급은?",
+  "explanation": "타마마 이등병은 케로로 소대의 막내예요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "이등병",
+   "병장",
+   "상병",
+   "하사"
+  ],
+  "answerIndex": 0,
+  "id": 3
+ },
+ {
+  "topic": "계급·소대",
+  "difficulty": "easy",
+  "question": "기로로의 계급은?",
+  "explanation": "기로로 하사(ギロロ伍長).",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "중위",
+   "상사",
+   "하사",
+   "중사"
+  ],
+  "answerIndex": 2,
+  "id": 4
+ },
+ {
+  "topic": "계급·소대",
+  "difficulty": "medium",
+  "question": "쿠루루의 계급은?",
+  "explanation": "쿠루루 상사(クルル曹長). 원래 소령이었다가 강등됐어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "병장",
+   "중사",
+   "소령",
+   "상사"
+  ],
+  "answerIndex": 3,
+  "id": 5
+ },
+ {
+  "topic": "계급·소대",
+  "difficulty": "medium",
+  "question": "도로로의 계급은?",
+  "explanation": "도로로 병장(ドロロ兵長).",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "이등병",
+   "상병",
+   "하사",
+   "병장"
+  ],
+  "answerIndex": 3,
+  "id": 6
+ },
+ {
+  "topic": "계급·소대",
+  "difficulty": "medium",
+  "question": "쿠루루의 원래 계급은 무엇이었을까요?",
+  "explanation": "케론군 일급 기밀을 해킹해 소령에서 상사로 강등됐어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "대위",
+   "소령",
+   "대령",
+   "중위"
+  ],
+  "answerIndex": 1,
+  "id": 7
+ },
+ {
+  "topic": "계급·소대",
+  "difficulty": "hard",
+  "question": "케로로가 한때 진급했던 계급은?",
+  "explanation": "한때 대위로 진급해 케론스타와 케론볼을 받았지만 사고를 쳐 중사로 강등됐어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "중위",
+   "대령",
+   "소령",
+   "대위"
+  ],
+  "answerIndex": 3,
+  "id": 8
+ },
+ {
+  "topic": "계급·소대",
+  "difficulty": "medium",
+  "question": "케로로 소대의 소대원은 모두 몇 명일까요?",
+  "explanation": "케론별은 다섯 명으로 구성된 케로로 소대를 지구에 파견했어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "3명",
+   "7명",
+   "30명",
+   "5명"
+  ],
+  "answerIndex": 3,
+  "id": 9
+ },
+ {
+  "topic": "계급·소대",
+  "difficulty": "hard",
+  "question": "보통 소대는 30~40명인데 케로로 소대는 고작 몇 명?",
+  "explanation": "While most platoons contain thirty or forty soldiers, the Keroro Platoon only has a meager five.",
+  "source": "https://en.wikipedia.org/wiki/List_of_Sgt._Frog_characters",
+  "options": [
+   "10명",
+   "5명",
+   "8명",
+   "12명"
+  ],
+  "answerIndex": 1,
+  "id": 10
+ },
+ {
+  "topic": "계급·소대",
+  "difficulty": "medium",
+  "question": "가루루의 계급은?",
+  "explanation": "가루루 중위는 가루루 소대의 대장이에요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "대위",
+   "중위",
+   "소령",
+   "중사"
+  ],
+  "answerIndex": 1,
+  "id": 11
+ },
+ {
+  "topic": "계급·소대",
+  "difficulty": "medium",
+  "question": "타루루의 계급은?",
+  "explanation": "타루루 상병(タルル上等兵).",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "상병",
+   "병장",
+   "신병",
+   "이등병"
+  ],
+  "answerIndex": 0,
+  "id": 12
+ },
+ {
+  "topic": "계급·소대",
+  "difficulty": "medium",
+  "question": "조루루의 계급은?",
+  "explanation": "조루루 병장(ゾルル兵長).",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "하사",
+   "병장",
+   "신병",
+   "상병"
+  ],
+  "answerIndex": 1,
+  "id": 13
+ },
+ {
+  "topic": "계급·소대",
+  "difficulty": "medium",
+  "question": "토로로의 계급은?",
+  "explanation": "토로로 신병(トロロ新兵).",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "신병",
+   "상병",
+   "병장",
+   "이등병"
+  ],
+  "answerIndex": 0,
+  "id": 14
+ },
+ {
+  "topic": "계급·소대",
+  "difficulty": "medium",
+  "question": "푸루루의 직책은?",
+  "explanation": "푸루루 간호장교(プルル看護長).",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "통신병",
+   "정비병",
+   "작전참모",
+   "간호장교"
+  ],
+  "answerIndex": 3,
+  "id": 15
+ },
+ {
+  "topic": "계급·소대",
+  "difficulty": "easy",
+  "question": "케로로 소대의 작전참모는 누구?",
+  "explanation": "쿠루루는 발명품을 만드는 소대의 작전참모예요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "쿠루루",
+   "도로로",
+   "타마마",
+   "기로로"
+  ],
+  "answerIndex": 0,
+  "id": 16
+ },
+ {
+  "topic": "계급·소대",
+  "difficulty": "easy",
+  "question": "케로로 소대의 막내는?",
+  "explanation": "타마마 이등병이 막내예요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "기로로",
+   "도로로",
+   "쿠루루",
+   "타마마"
+  ],
+  "answerIndex": 3,
+  "id": 17
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "가루루 소대의 대장은?",
+  "explanation": "가루루 중위가 가루루 소대의 대장이에요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "타루루",
+   "가루루",
+   "조루루",
+   "토로로"
+  ],
+  "answerIndex": 1,
+  "id": 18
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "다음 중 가루루 소대원이 아닌 캐릭터는?",
+  "explanation": "가루루 소대: 가루루·타루루·조루루·토로로·푸루루.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "쿠루루",
+   "토로로",
+   "타루루",
+   "조루루"
+  ],
+  "answerIndex": 0,
+  "id": 19
+ },
+ {
+  "topic": "관계",
+  "difficulty": "easy",
+  "question": "가루루는 누구의 형일까요?",
+  "explanation": "가루루는 기로로의 형이에요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "케로로",
+   "기로로",
+   "도로로",
+   "쿠루루"
+  ],
+  "answerIndex": 1,
+  "id": 20
+ },
+ {
+  "topic": "관계",
+  "difficulty": "medium",
+  "question": "타루루가 '스승님'이라고 부르는 캐릭터는?",
+  "explanation": "타루루는 타마마의 후배로 그를 스승님이라 불러요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "기로로",
+   "케로로",
+   "타마마",
+   "가루루"
+  ],
+  "answerIndex": 2,
+  "id": 21
+ },
+ {
+  "topic": "관계",
+  "difficulty": "medium",
+  "question": "조루루가 지구에 온 진짜 목적은?",
+  "explanation": "침략이 아니라 도로로와 결투하기 위해서라고 해요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "지구 침략",
+   "도로로와 결투하기 위해",
+   "기로로를 데려가려고",
+   "건프라 수집"
+  ],
+  "answerIndex": 1,
+  "id": 22
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "조루루는 어떤 몸을 가진 케론인일까요?",
+  "explanation": "케론군 의학 기술로 풀메탈 사이보그화됐어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "풀메탈 사이보그",
+   "투명 인간",
+   "거대 로봇",
+   "올챙이"
+  ],
+  "answerIndex": 0,
+  "id": 23
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "토로로가 늘 먹고 있는 것은?",
+  "explanation": "토로로는 늘 인스턴트 식품을 먹고 있어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "스타 후르츠",
+   "주먹밥",
+   "카레",
+   "인스턴트 식품"
+  ],
+  "answerIndex": 3,
+  "id": 24
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "토로로가 바이러스를 심어 폭주시킨 케로로 소대의 기상위성 이름은?",
+  "explanation": "케로로 소대의 기상위성 '깍쟁이'(모티브 쿠루루)에 바이러스를 심었어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "깍쟁이",
+   "칼라박스",
+   "네브라",
+   "케론스타"
+  ],
+  "answerIndex": 0,
+  "id": 25
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "타루루의 필살기는?",
+  "explanation": "두 눈에서 발사하는 빔, 타루루 제로사이드EX·GX·DX.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "질투옥",
+   "타루루 제로사이드",
+   "타마마 임팩트",
+   "아마겟돈"
+  ],
+  "answerIndex": 1,
+  "id": 26
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "easy",
+  "question": "타마마의 주 필살기는?",
+  "explanation": "주 필살기는 타마마 임팩트, 질투가 심할 땐 질투옥.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "케론볼",
+   "아마겟돈",
+   "타마마 임팩트",
+   "제로사이드"
+  ],
+  "answerIndex": 2,
+  "id": 27
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "타마마가 질투심이 높을 때 쓰는 기술은?",
+  "explanation": "질투심이 조금 높을 때는 질투옥을 써요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "타마마 임팩트",
+   "질투옥",
+   "아마겟돈",
+   "케로로 빔"
+  ],
+  "answerIndex": 1,
+  "id": 28
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "타마마 임팩트는 어디에서 발사되는 에너지 빔일까요?",
+  "explanation": "a yellow energy beam from his mouth.",
+  "source": "https://en.wikipedia.org/wiki/List_of_Sgt._Frog_characters",
+  "options": [
+   "손",
+   "입",
+   "배꼽",
+   "눈"
+  ],
+  "answerIndex": 1,
+  "id": 29
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "easy",
+  "question": "케로로가 푹 빠진 지구 문물은?",
+  "explanation": "건담 프라모델에 빠져 프라모델 방까지 만들었어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "야구",
+   "라면",
+   "게임기",
+   "건담 프라모델"
+  ],
+  "answerIndex": 3,
+  "id": 30
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "케로로가 좋아하는 과일은?",
+  "explanation": "좋아하는 과일은 스타 후르츠(카람볼라).",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "스타 후르츠",
+   "수박",
+   "딸기",
+   "바나나"
+  ],
+  "answerIndex": 0,
+  "id": 31
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "쿠루루가 좋아하는 음식은?",
+  "explanation": "쿠루루는 카레를 좋아해요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "카레",
+   "주먹밥",
+   "해삼",
+   "라면"
+  ],
+  "answerIndex": 0,
+  "id": 32
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "기로로가 싫어하는 음식은?",
+  "explanation": "기로로는 해삼을 싫어해요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "당근",
+   "고구마",
+   "카레",
+   "해삼"
+  ],
+  "answerIndex": 3,
+  "id": 33
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "기로로가 어렸을 때 좋아했던 것은?",
+  "explanation": "어렸을 때 기차를 좋아했어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "공룡",
+   "기차",
+   "비행기",
+   "로봇"
+  ],
+  "answerIndex": 1,
+  "id": 34
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "쿠루루 특유의 웃음소리는?",
+  "explanation": "늘 기분 나쁜 웃음 '크크크크'를 내요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "케로케로",
+   "크크크크",
+   "하하하",
+   "호호호"
+  ],
+  "answerIndex": 1,
+  "id": 35
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "기로로가 1위를 차지한 대회는?",
+  "explanation": "케론군 사격대회 1위 명사수예요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "케론군 사격대회",
+   "요리대회",
+   "어쌔신 대회",
+   "해킹대회"
+  ],
+  "answerIndex": 0,
+  "id": 36
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "도로로는 어쌔신 대회에서 몇 회 연속 우승했을까요?",
+  "explanation": "어쌔신 대회 7회 연속 우승.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "5회",
+   "7회",
+   "3회",
+   "10회"
+  ],
+  "answerIndex": 1,
+  "id": 37
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "도로로가 항상 입을 가리고 있는 이유는?",
+  "explanation": "우주 천식 때문에 항상 입을 가리고 있어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "얼굴 흉터",
+   "우주 천식 때문",
+   "부끄러워서",
+   "닌자 규칙"
+  ],
+  "answerIndex": 1,
+  "id": 38
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "도로로의 원래 이름은?",
+  "explanation": "코유키를 만난 뒤 제로로에서 도로로로 개명했어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "코로로",
+   "제로로",
+   "조루루",
+   "도로로로"
+  ],
+  "answerIndex": 1,
+  "id": 39
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "도로로가 평소 쓰는 1인칭은?",
+  "explanation": "에도시대 사무라이 말투로 1인칭은 셋샤.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "보쿠",
+   "와타시",
+   "셋샤(拙者)",
+   "오레"
+  ],
+  "answerIndex": 2,
+  "id": 40
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "도로로는 어떤 부대 출신?",
+  "explanation": "케론군 최정예 특수부대 어쌔신 출신.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "작전참모부",
+   "포병부대",
+   "간호부대",
+   "최정예 특수부대 어쌔신"
+  ],
+  "answerIndex": 3,
+  "id": 41
+ },
+ {
+  "topic": "관계",
+  "difficulty": "medium",
+  "question": "케로로·기로로와 케론별에서 함께 지낸 소꿉친구가 아닌 것은?",
+  "explanation": "케로로, 기로로, 푸루루, 도로로는 소꿉친구였어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "푸루루",
+   "도로로",
+   "기로로",
+   "쿠루루"
+  ],
+  "answerIndex": 3,
+  "id": 42
+ },
+ {
+  "topic": "관계",
+  "difficulty": "easy",
+  "question": "도로로를 구출해 함께 사는 닌자 소녀는?",
+  "explanation": "닌자 마을에서 온 코유키가 도로로와 함께 살아요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "모모카(유나라)",
+   "아리사(리사)",
+   "나츠미(강한별)",
+   "코유키(권설화)"
+  ],
+  "answerIndex": 3,
+  "id": 43
+ },
+ {
+  "topic": "관계",
+  "difficulty": "easy",
+  "question": "기로로가 반해버린 인물은?",
+  "explanation": "대파 하나로 함정을 다 피한 나츠미에게 반했어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "코유키(권설화)",
+   "푸루루",
+   "나츠미(강한별)",
+   "모아"
+  ],
+  "answerIndex": 2,
+  "id": 44
+ },
+ {
+  "topic": "관계",
+  "difficulty": "medium",
+  "question": "기로로가 나츠미의 함정을 피할 때 나츠미가 든 물건은?",
+  "explanation": "대파 하나로 함정을 다 피해버렸어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "프라이팬",
+   "대파",
+   "빗자루",
+   "우산"
+  ],
+  "answerIndex": 1,
+  "id": 45
+ },
+ {
+  "topic": "관계",
+  "difficulty": "medium",
+  "question": "쿠루루와 뜻이 통하는 친구는?",
+  "explanation": "사부로와는 뜻이 통하는 친구예요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "폴",
+   "556",
+   "사부로(사빈)",
+   "후유키(강우주)"
+  ],
+  "answerIndex": 2,
+  "id": 46
+ },
+ {
+  "topic": "관계",
+  "difficulty": "medium",
+  "question": "쿠루루의 약점인 캐릭터는?",
+  "explanation": "성격이 밝은 앙골 모아가 약점이에요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "앙골 모아",
+   "라비",
+   "기로로",
+   "나츠미"
+  ],
+  "answerIndex": 0,
+  "id": 47
+ },
+ {
+  "topic": "관계",
+  "difficulty": "medium",
+  "question": "타마마가 질투하는 상대는?",
+  "explanation": "케로로를 아저씨라 부르며 따르는 모아를 질투해요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "앙골 모아",
+   "푸루루",
+   "나츠미",
+   "코유키"
+  ],
+  "answerIndex": 0,
+  "id": 48
+ },
+ {
+  "topic": "관계",
+  "difficulty": "easy",
+  "question": "앙골 모아가 케로로를 부르는 호칭은?",
+  "explanation": "모아는 케로로를 '아저씨'라고 불러요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "오빠",
+   "아저씨",
+   "대장님",
+   "선배"
+  ],
+  "answerIndex": 1,
+  "id": 49
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "앙골 모아는 누가 예언한 지구의 파괴자일까요?",
+  "explanation": "노스트라다무스가 예언한 지구의 파괴자.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "갈릴레이",
+   "아인슈타인",
+   "마야인",
+   "노스트라다무스"
+  ],
+  "answerIndex": 3,
+  "id": 50
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "앙골 모아의 주된 무기는?",
+  "explanation": "행성을 파괴하는 종족답게 주된 무기는 아마겟돈.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "대파",
+   "아마겟돈",
+   "케론볼",
+   "타마마 임팩트"
+  ],
+  "answerIndex": 1,
+  "id": 51
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "앙골 모아의 말버릇은?",
+  "explanation": "'말하자면 ○○○○' 식으로 사자성어를 붙여요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "'죄송해요' 남발",
+   "끝에 '케로' 붙이기",
+   "끝에 사자성어 붙이기",
+   "'크크크' 웃기"
+  ],
+  "answerIndex": 2,
+  "id": 52
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "앙골 모아를 구별하는 방법은?",
+  "explanation": "별 모양이 있는 초록색 헤어 밴드를 하고 있어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "별 모양 초록색 헤어밴드",
+   "안경",
+   "노란 모자",
+   "빨간 리본"
+  ],
+  "answerIndex": 0,
+  "id": 53
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "앙골 모아가 카피한 여고생의 이름은?",
+  "explanation": "아사미(다해)라는 여고생 모습으로 다녀요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "나츠미",
+   "코유키",
+   "모모카",
+   "아사미(다해)"
+  ],
+  "answerIndex": 3,
+  "id": 54
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "앙골 모아의 종족은?",
+  "explanation": "행성을 파괴하고 다니는 앙골족 출신.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "케론인",
+   "닌자족",
+   "앙골족",
+   "다크존인"
+  ],
+  "answerIndex": 2,
+  "id": 55
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "easy",
+  "question": "히나타 나츠미의 한국 더빙 이름은?",
+  "explanation": "히나타 나츠미 = 강한별.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "강한별",
+   "유나라",
+   "권설화",
+   "강우주"
+  ],
+  "answerIndex": 0,
+  "id": 56
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "easy",
+  "question": "히나타 후유키의 한국 더빙 이름은?",
+  "explanation": "히나타 후유키 = 강우주.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "강우주",
+   "유바우",
+   "사빈",
+   "강한별"
+  ],
+  "answerIndex": 0,
+  "id": 57
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "히나타 아키(엄마)의 한국 더빙 이름은?",
+  "explanation": "히나타 아키 = 홍미나.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "강한별",
+   "홍미나",
+   "권설화",
+   "백수선"
+  ],
+  "answerIndex": 1,
+  "id": 58
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "easy",
+  "question": "니시자와 모모카의 한국 더빙 이름은?",
+  "explanation": "니시자와 모모카 = 유나라.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "유나라",
+   "리사",
+   "권설화",
+   "홍미나"
+  ],
+  "answerIndex": 0,
+  "id": 59
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "아즈마야 코유키의 한국 더빙 이름은?",
+  "explanation": "코유키 = 권설화.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "강한별",
+   "유나라",
+   "권설화",
+   "리사"
+  ],
+  "answerIndex": 2,
+  "id": 60
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "사부로의 한국 더빙 이름은?",
+  "explanation": "사부로 = 사빈.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "폴",
+   "바우",
+   "사빈",
+   "우주"
+  ],
+  "answerIndex": 2,
+  "id": 61
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "니시자와 바이오의 한국 더빙 이름은?",
+  "explanation": "니시자와 바이오 = 유바우.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "폴 스미스",
+   "유나라",
+   "유바우",
+   "사빈"
+  ],
+  "answerIndex": 2,
+  "id": 62
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "니시자와 오우카(모모카 엄마)의 한국 더빙 이름은?",
+  "explanation": "니시자와 오우카 = 백수선.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "유나라",
+   "백수선",
+   "홍미나",
+   "권설화"
+  ],
+  "answerIndex": 1,
+  "id": 63
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "집사 폴 모리야마의 한국 이름은?",
+  "explanation": "폴 모리야마(한국명: 폴 스미스).",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "폴 스미스",
+   "폴 존스",
+   "폴 킴",
+   "폴 리"
+  ],
+  "answerIndex": 0,
+  "id": 64
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "아리사 서전크로스의 한국 더빙 이름은?",
+  "explanation": "아리사 = 리사.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "다해",
+   "모아",
+   "리사",
+   "라비"
+  ],
+  "answerIndex": 2,
+  "id": 65
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "easy",
+  "question": "나츠미는 중학교 몇 학년?",
+  "explanation": "나츠미는 중학교 2학년.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "2학년",
+   "고1",
+   "3학년",
+   "1학년"
+  ],
+  "answerIndex": 0,
+  "id": 66
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "easy",
+  "question": "후유키는 중학교 몇 학년?",
+  "explanation": "후유키는 중학교 1학년.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "초6",
+   "1학년",
+   "3학년",
+   "2학년"
+  ],
+  "answerIndex": 1,
+  "id": 67
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "히나타 아키의 직업은?",
+  "explanation": "홀로 만화잡지 편집자 일을 해요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "경찰",
+   "간호사",
+   "만화잡지 편집자",
+   "DJ"
+  ],
+  "answerIndex": 2,
+  "id": 68
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "히나타 아키가 평소 타고 다니는 것은?",
+  "explanation": "평소 늘 오토바이를 타고 다녀요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "리무진",
+   "자전거",
+   "스쿠터 없이 도보",
+   "오토바이"
+  ],
+  "answerIndex": 3,
+  "id": 69
+ },
+ {
+  "topic": "관계",
+  "difficulty": "medium",
+  "question": "케로로가 히나타 아키를 부르는 호칭은?",
+  "explanation": "케로로가 부르는 호칭은 마님.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "장군님",
+   "마님",
+   "엄마",
+   "아주머니"
+  ],
+  "answerIndex": 1,
+  "id": 70
+ },
+ {
+  "topic": "관계",
+  "difficulty": "hard",
+  "question": "케로로 소대원들이 할머니(히나타 아키나)를 부르는 호칭은?",
+  "explanation": "소대원들이 부르는 호칭은 장군님.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "장군님",
+   "대장님",
+   "마님",
+   "할멈"
+  ],
+  "answerIndex": 0,
+  "id": 71
+ },
+ {
+  "topic": "관계",
+  "difficulty": "medium",
+  "question": "투니버스판에서 케로로가 나츠미를 부르는 호칭은?",
+  "explanation": "한별이아씨(투니버스).",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "대장",
+   "누님",
+   "한별님",
+   "한별이아씨"
+  ],
+  "answerIndex": 3,
+  "id": 72
+ },
+ {
+  "topic": "관계",
+  "difficulty": "medium",
+  "question": "투니버스판에서 케로로가 후유키를 부르는 호칭은?",
+  "explanation": "그를 '우주 도령'(투니버스)이라 불러요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "우주 군",
+   "친구",
+   "우주 도령",
+   "우주님"
+  ],
+  "answerIndex": 2,
+  "id": 73
+ },
+ {
+  "topic": "관계",
+  "difficulty": "easy",
+  "question": "나츠미가 짝사랑하는 학교 선배는?",
+  "explanation": "같은 학교 선배 사빈을 짝사랑해요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "폴",
+   "사부로(사빈)",
+   "가루루",
+   "556"
+  ],
+  "answerIndex": 1,
+  "id": 74
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "사부로의 비밀 정체인 DJ 이름은?",
+  "explanation": "사부로 = 유명 DJ 623. 나츠미는 애니에서 이를 몰라요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "777",
+   "623",
+   "556",
+   "DJ 케로"
+  ],
+  "answerIndex": 1,
+  "id": 75
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "숫자로도 불리는 자칭 우주탐정은?",
+  "explanation": "코고로(556)는 자칭 우주탐정.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "623",
+   "코고로(556)",
+   "폴",
+   "쿠루루"
+  ],
+  "answerIndex": 1,
+  "id": 76
+ },
+ {
+  "topic": "관계",
+  "difficulty": "medium",
+  "question": "코고로(556)의 동생이자 조수는?",
+  "explanation": "동생 라비가 조수예요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "라비",
+   "모아",
+   "리사",
+   "푸루루"
+  ],
+  "answerIndex": 0,
+  "id": 77
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "라비가 입버릇처럼 남발하는 말은?",
+  "explanation": "'죄송해요'를 남발해요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "말하자면",
+   "죄송해요",
+   "크크크",
+   "게로"
+  ],
+  "answerIndex": 1,
+  "id": 78
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "아리사가 머리에 이고 다니는 어둠의 정령은?",
+  "explanation": "아버지격인 어둠의 정령 네브라.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "아마겟돈",
+   "케론볼",
+   "깍쟁이",
+   "네브라"
+  ],
+  "answerIndex": 3,
+  "id": 79
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "아리사가 자칭하는 직업은?",
+  "explanation": "'다크존'에서 온 다크 헌터라 자칭해요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "우주탐정",
+   "닌자",
+   "DJ",
+   "다크 헌터"
+  ],
+  "answerIndex": 3,
+  "id": 80
+ },
+ {
+  "topic": "관계",
+  "difficulty": "easy",
+  "question": "모모카가 좋아하는 사람은?",
+  "explanation": "평범한 여자애로 대해준 후유키에게 반했어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "폴",
+   "후유키(강우주)",
+   "사부로",
+   "케로로"
+  ],
+  "answerIndex": 1,
+  "id": 81
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "니시자와 바이오가 따로 지내는 고성은 어느 나라에?",
+  "explanation": "스코틀랜드의 고성에서 지내요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "스코틀랜드",
+   "영국 런던",
+   "프랑스",
+   "독일"
+  ],
+  "answerIndex": 0,
+  "id": 82
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "폴이 니시자와 바이오에게 충성을 맹세한 계기는?",
+  "explanation": "격투대회에서 바이오에게 패배한 뒤 충성을 맹세했어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "격투대회에서 패배",
+   "같은 고향이라서",
+   "목숨을 구해줘서",
+   "돈을 빌려줘서"
+  ],
+  "answerIndex": 0,
+  "id": 83
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "니시자와 바이오는 니시자와 가문의 무엇일까요?",
+  "explanation": "오우카가 니시자와 가문의 딸이고 바이오는 데릴사위예요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "양자",
+   "집사 출신",
+   "장남",
+   "데릴사위"
+  ],
+  "answerIndex": 3,
+  "id": 84
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "코유키가 철포환만큼 단단하게 만드는 것은?",
+  "explanation": "주먹밥을 철포환만큼 단단하게 만들어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "떡",
+   "만두",
+   "주먹밥",
+   "케이크"
+  ],
+  "answerIndex": 2,
+  "id": 85
+ },
+ {
+  "topic": "행성·설정",
+  "difficulty": "easy",
+  "question": "케로로 소대의 고향 행성은?",
+  "explanation": "케론별에서 지구정복을 위해 파견됐어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "다크존",
+   "앙골별",
+   "케론별",
+   "페코폰"
+  ],
+  "answerIndex": 2,
+  "id": 86
+ },
+ {
+  "topic": "행성·설정",
+  "difficulty": "medium",
+  "question": "케론인들이 지구를 부르는 이름은?",
+  "explanation": "They mean to conquer 'Pekopon' (their name for Earth).",
+  "source": "https://en.wikipedia.org/wiki/Sgt._Frog",
+  "options": [
+   "테라",
+   "앙골",
+   "케론",
+   "페코폰"
+  ],
+  "answerIndex": 3,
+  "id": 87
+ },
+ {
+  "topic": "행성·설정",
+  "difficulty": "medium",
+  "question": "케로로가 빼앗긴 궁극의 무기는?",
+  "explanation": "불시착 후 케론볼까지 빼앗겼어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "아마겟돈",
+   "케론볼",
+   "네브라",
+   "케론스타"
+  ],
+  "answerIndex": 1,
+  "id": 88
+ },
+ {
+  "topic": "행성·설정",
+  "difficulty": "hard",
+  "question": "매우 엄선된 대장에게만 지급되는 징표는?",
+  "explanation": "위대한 대장의 징표 케론스타.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "케론볼",
+   "케로메트",
+   "케론스타",
+   "와카바 마크"
+  ],
+  "answerIndex": 2,
+  "id": 89
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "케로로가 사실상 저지불가가 되는 환경은?",
+  "explanation": "습기 가득한 케론별과 비슷한 환경에선 전투모드로 회귀해요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "우주 공간",
+   "추운 겨울",
+   "건조한 사막",
+   "습기가 가득한 환경"
+  ],
+  "answerIndex": 3,
+  "id": 90
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "케로로의 몸 색깔은?",
+  "explanation": "He has a green body.",
+  "source": "https://en.wikipedia.org/wiki/List_of_Sgt._Frog_characters",
+  "options": [
+   "빨간색",
+   "초록색",
+   "파란색",
+   "노란색"
+  ],
+  "answerIndex": 1,
+  "id": 91
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "케로로 모자의 별 색깔은?",
+  "explanation": "yellow headgear with a red star in the middle, symbolizing that he is a leader.",
+  "source": "https://en.wikipedia.org/wiki/List_of_Sgt._Frog_characters",
+  "options": [
+   "초록색",
+   "빨간색",
+   "노란색",
+   "흰색"
+  ],
+  "answerIndex": 1,
+  "id": 92
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "쿠루루의 몸 색깔은?",
+  "explanation": "His body is yellow — 별명 'Yellow Devil'.",
+  "source": "https://en.wikipedia.org/wiki/List_of_Sgt._Frog_characters",
+  "options": [
+   "빨간색",
+   "보라색",
+   "초록색",
+   "노란색"
+  ],
+  "answerIndex": 3,
+  "id": 93
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "기로로의 몸 색깔은?",
+  "explanation": "His body is dark red, 모자엔 해골.",
+  "source": "https://en.wikipedia.org/wiki/List_of_Sgt._Frog_characters",
+  "options": [
+   "파란색",
+   "노란색",
+   "초록색",
+   "짙은 빨간색"
+  ],
+  "answerIndex": 3,
+  "id": 94
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "소대원 중 유일하게 배에 마크가 없는 캐릭터는?",
+  "explanation": "He is the only member of the platoon who doesn't wear a symbol on his belly.",
+  "source": "https://en.wikipedia.org/wiki/List_of_Sgt._Frog_characters",
+  "options": [
+   "케로로",
+   "타마마",
+   "쿠루루",
+   "기로로"
+  ],
+  "answerIndex": 3,
+  "id": 95
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "기로로가 올챙이 때 배에 있던 마크는?",
+  "explanation": "when he was a tadpole, he had a skull symbol on his belly.",
+  "source": "https://en.wikipedia.org/wiki/List_of_Sgt._Frog_characters",
+  "options": [
+   "해골",
+   "하트",
+   "나선",
+   "별"
+  ],
+  "answerIndex": 0,
+  "id": 96
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "타마마의 몸 색깔은?",
+  "explanation": "Tamama has a dark blue body.",
+  "source": "https://en.wikipedia.org/wiki/List_of_Sgt._Frog_characters",
+  "options": [
+   "빨간색",
+   "초록색",
+   "짙은 파란색",
+   "노란색"
+  ],
+  "answerIndex": 2,
+  "id": 97
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "쿠루루의 별명은?",
+  "explanation": "nickname of 'Yellow Devil'.",
+  "source": "https://en.wikipedia.org/wiki/List_of_Sgt._Frog_characters",
+  "options": [
+   "블루 닌자",
+   "옐로 데빌",
+   "그린 고스트",
+   "레드 데몬"
+  ],
+  "answerIndex": 1,
+  "id": 98
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "만화판에서 도로로의 몸은 어떻게 칠해져 있을까요?",
+  "explanation": "medium blue (although painted completely black in the manga).",
+  "source": "https://en.wikipedia.org/wiki/List_of_Sgt._Frog_characters",
+  "options": [
+   "회색",
+   "완전히 검은색",
+   "하늘색",
+   "흰색"
+  ],
+  "answerIndex": 1,
+  "id": 99
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "easy",
+  "question": "케로로 원작자는?",
+  "explanation": "원작 요시자키 미네.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "요시자키 미네",
+   "토리야마 아키라",
+   "오다 에이치로",
+   "사토 준이치"
+  ],
+  "answerIndex": 0,
+  "id": 100
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "medium",
+  "question": "원작 만화가 연재된 잡지는?",
+  "explanation": "Monthly Shōnen Ace since April 1999.",
+  "source": "https://en.wikipedia.org/wiki/Sgt._Frog",
+  "options": [
+   "월간 소년 에이스",
+   "주간 소년 점프",
+   "월간 선데이",
+   "코로코로 코믹"
+  ],
+  "answerIndex": 0,
+  "id": 101
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "medium",
+  "question": "원작 만화 연재 시작 시기는?",
+  "explanation": "Serialized since April 1999.",
+  "source": "https://en.wikipedia.org/wiki/Sgt._Frog",
+  "options": [
+   "2004년 4월",
+   "2001년 7월",
+   "1999년 4월",
+   "1995년 1월"
+  ],
+  "answerIndex": 2,
+  "id": 102
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "medium",
+  "question": "원작 만화의 출판사는?",
+  "explanation": "Kadokawa Shoten.",
+  "source": "https://en.wikipedia.org/wiki/Sgt._Frog",
+  "options": [
+   "슈에이샤",
+   "고단샤",
+   "카도카와 쇼텐",
+   "쇼가쿠칸"
+  ],
+  "answerIndex": 2,
+  "id": 103
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "easy",
+  "question": "TV 애니메이션 제작사(스튜디오)는?",
+  "explanation": "애니메이션 제작 선라이즈.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "지브리",
+   "교토 애니메이션",
+   "토에이",
+   "선라이즈"
+  ],
+  "answerIndex": 3,
+  "id": 104
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "medium",
+  "question": "일본에서 방영한 방송사는?",
+  "explanation": "TV 도쿄에서 방영.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "TV 도쿄",
+   "NHK",
+   "후지TV",
+   "니혼TV"
+  ],
+  "answerIndex": 0,
+  "id": 105
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "medium",
+  "question": "일본 첫 방영일은?",
+  "explanation": "2004년 4월 3일 ~ 2011년 4월 3일.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "2005년 9월 12일",
+   "1999년 4월 1일",
+   "2004년 4월 3일",
+   "2006년 3월 31일"
+  ],
+  "answerIndex": 2,
+  "id": 106
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "medium",
+  "question": "1기 TV 애니메이션의 총 화수는?",
+  "explanation": "화수 358화.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "358화",
+   "205화",
+   "500화",
+   "103화"
+  ],
+  "answerIndex": 0,
+  "id": 107
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "easy",
+  "question": "한국에서 처음 방영한 채널은?",
+  "explanation": "투니버스에서 2005년 9월 12일 방영 시작.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "재능TV",
+   "애니맥스",
+   "KBS 키즈",
+   "투니버스"
+  ],
+  "answerIndex": 3,
+  "id": 108
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "hard",
+  "question": "투니버스 한국 첫 방영일은?",
+  "explanation": "2005년 9월 12일부터 방영.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "2005년 9월 12일",
+   "2004년 4월 3일",
+   "2006년 1월 1일",
+   "2005년 3월 26일"
+  ],
+  "answerIndex": 0,
+  "id": 109
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "hard",
+  "question": "TV 애니메이션은 TV 도쿄 개국 몇 주년 기념 작품?",
+  "explanation": "TV 도쿄 개국 40주년 기념 작품.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "30주년",
+   "20주년",
+   "40주년",
+   "50주년"
+  ],
+  "answerIndex": 2,
+  "id": 110
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "hard",
+  "question": "1~103화 총감독은?",
+  "explanation": "총감독 사토 준이치(1~103화).",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "콘도 노부히로",
+   "스즈키 사에코",
+   "사토 준이치",
+   "요시자키 미네"
+  ],
+  "answerIndex": 2,
+  "id": 111
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "hard",
+  "question": "TV 애니메이션 음악 담당은?",
+  "explanation": "음악 스즈키 사에코.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "가게야마 히로노부",
+   "사와다 간",
+   "스즈키 사에코",
+   "고무로 데쓰야"
+  ],
+  "answerIndex": 2,
+  "id": 112
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "medium",
+  "question": "첫 극장판(2006) 제목은?",
+  "explanation": "《개구리 중사 케로로 - 최종병기 키루루입니다》.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "용사 케로로",
+   "케론볼의 비밀",
+   "천공대결전",
+   "최종병기 키루루입니다"
+  ],
+  "answerIndex": 3,
+  "id": 113
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "medium",
+  "question": "2014년 단편 시리즈 《케로로》의 화수는?",
+  "explanation": "2014.3.22~9.6, 23화.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "358화",
+   "51화",
+   "23화",
+   "12화"
+  ],
+  "answerIndex": 2,
+  "id": 114
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "medium",
+  "question": "2026년 10월부터 방영 예정인 신작 제목은?",
+  "explanation": "종영 13년 만의 신작 《개구리 중사 케로로☆》.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "케로로 2026",
+   "케로로 리턴즈",
+   "개구리 중사 케로로☆",
+   "슈퍼 케로로"
+  ],
+  "answerIndex": 2,
+  "id": 115
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "hard",
+  "question": "2008년 5월 구름인터렉티브가 서비스한 3D 대전액션게임은?",
+  "explanation": "《개구리 중사 케로로 파이터》.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "개구리 중사 케로로 파이터",
+   "케로로 RPG",
+   "케로로 퍼즐",
+   "케로로 카트"
+  ],
+  "answerIndex": 0,
+  "id": 116
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "hard",
+  "question": "원작자 요시자키 미네가 컨셉 디자이너를 맡은 다른 프랜차이즈는?",
+  "explanation": "concept designer of the Kemono Friends franchise.",
+  "source": "https://en.wikipedia.org/wiki/Sgt._Frog",
+  "options": [
+   "디지몬",
+   "케모노 프렌즈",
+   "요괴워치",
+   "포켓몬"
+  ],
+  "answerIndex": 1,
+  "id": 117
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "hard",
+  "question": "북미에서 원작 만화를 처음 출간한 회사는?",
+  "explanation": "Tokyopop from March 9, 2004, to May 10, 2011.",
+  "source": "https://en.wikipedia.org/wiki/Sgt._Frog",
+  "options": [
+   "Viz Media",
+   "Funimation",
+   "Yen Press",
+   "Tokyopop"
+  ],
+  "answerIndex": 3,
+  "id": 118
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "hard",
+  "question": "Funimation 영어 더빙판은 몇 화?",
+  "explanation": "a second 78-episode English dubbed version.",
+  "source": "https://en.wikipedia.org/wiki/Sgt._Frog",
+  "options": [
+   "103화",
+   "51화",
+   "358화",
+   "78화"
+  ],
+  "answerIndex": 3,
+  "id": 119
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "hard",
+  "question": "2019년 성우진 다수를 교체해 재더빙 방영한 채널은?",
+  "explanation": "2019년 6월 7일 카툰네트워크 재더빙판.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "KBS 키즈",
+   "재능TV",
+   "투니버스",
+   "카툰네트워크"
+  ],
+  "answerIndex": 3,
+  "id": 120
+ },
+ {
+  "topic": "주제가",
+  "difficulty": "medium",
+  "question": "1기 오프닝 곡은?",
+  "explanation": "1기 오프닝 '케롯! 행진곡'.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "전국무책임시대",
+   "You-You-You",
+   "귀찮아 별 행진곡",
+   "케롯! 행진곡"
+  ],
+  "answerIndex": 3,
+  "id": 121
+ },
+ {
+  "topic": "주제가",
+  "difficulty": "medium",
+  "question": "1기 첫 엔딩 곡은?",
+  "explanation": "(1기) '파마머리 중사'(アフロ軍曹), 노래 댄스☆맨.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "파마머리 중사",
+   "마음의 문제",
+   "지구침략타령",
+   "멋대로 침략자"
+  ],
+  "answerIndex": 0,
+  "id": 122
+ },
+ {
+  "topic": "주제가",
+  "difficulty": "hard",
+  "question": "5기 오프닝 '헬로 다윈!'을 부른 그룹은?",
+  "explanation": "노래 잼 프로젝트, 란티스.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "폴리식스",
+   "가가가SP",
+   "잼 프로젝트",
+   "NON STYLE"
+  ],
+  "answerIndex": 2,
+  "id": 123
+ },
+ {
+  "topic": "주제가",
+  "difficulty": "hard",
+  "question": "7기 오프닝 곡은?",
+  "explanation": "(7기) 귀찮아 별 행진곡, 노래 케로로 소대.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "정말 멋진 토요일",
+   "인생 펴는 길",
+   "귀찮아 별 행진곡",
+   "케롯! 행진곡"
+  ],
+  "answerIndex": 2,
+  "id": 124
+ },
+ {
+  "topic": "주제가",
+  "difficulty": "hard",
+  "question": "3기 오프닝 '인생 펴는 길'의 작곡가는?",
+  "explanation": "작곡·편곡 고무로 데쓰야.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "스즈키 사에코",
+   "가게야마 히로노부",
+   "고무로 데쓰야",
+   "사와다 간"
+  ],
+  "answerIndex": 2,
+  "id": 125
+ },
+ {
+  "topic": "성우",
+  "difficulty": "medium",
+  "question": "한국판 케로로 성우는?",
+  "explanation": "양정화 : 케로로.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "이용신",
+   "양정화",
+   "정미숙",
+   "시영준"
+  ],
+  "answerIndex": 1,
+  "id": 126
+ },
+ {
+  "topic": "성우",
+  "difficulty": "hard",
+  "question": "한국판 기로로 성우는?",
+  "explanation": "시영준 : 기로로.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "양정화",
+   "신용우",
+   "시영준",
+   "강수진"
+  ],
+  "answerIndex": 2,
+  "id": 127
+ },
+ {
+  "topic": "성우",
+  "difficulty": "hard",
+  "question": "한국판 앙골 모아 성우(초기)는?",
+  "explanation": "이용신, 박지윤 : 앙골 모아.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "이미자",
+   "이용신",
+   "김보영",
+   "정미숙"
+  ],
+  "answerIndex": 1,
+  "id": 128
+ },
+ {
+  "topic": "성우",
+  "difficulty": "hard",
+  "question": "일본판 쿠루루 성우는?",
+  "explanation": "쿠루루 - 코야스 타케히토.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "나카타 죠지",
+   "코야스 타케히토",
+   "오오츠카 아키오",
+   "쿠사오 타케시"
+  ],
+  "answerIndex": 1,
+  "id": 129
+ },
+ {
+  "topic": "성우",
+  "difficulty": "hard",
+  "question": "일본판 케로로 성우는?",
+  "explanation": "케로로 - 와타나베 쿠미코.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "와타나베 쿠미코",
+   "노토 마미코",
+   "고자쿠라 에쓰코",
+   "사이토 치와"
+  ],
+  "answerIndex": 0,
+  "id": 130
+ },
+ {
+  "topic": "관계",
+  "difficulty": "medium",
+  "question": "타마마가 지구 생활을 배운 집은?",
+  "explanation": "니시자와 가에서 배워서 모든 집이 대저택인 줄 알았어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "사부로의 집",
+   "코유키의 오두막",
+   "니시자와 가",
+   "히나타 가"
+  ],
+  "answerIndex": 2,
+  "id": 131
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "easy",
+  "question": "히나타 남매의 엄마가 케로로를 어떻게 여겼을까요?",
+  "explanation": "우주개구리 케로로를 귀여운 애완동물로 여기고 받아줬어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "손님",
+   "침략자",
+   "귀여운 애완동물",
+   "적"
+  ],
+  "answerIndex": 2,
+  "id": 132
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "푸루루가 '아주머니'라는 말에 트라우마가 생긴 이유는?",
+  "explanation": "인간 나이로 환산하면 마흔이 넘어요.",
+  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "인간 나이로 마흔이 넘어서",
+   "원래 남자라서",
+   "키가 작아서",
+   "목소리가 낮아서"
+  ],
+  "answerIndex": 0,
+  "id": 133
+ }
+]

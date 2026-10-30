@@ -1,0 +1,30 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>케로로 퀴즈 🐸 | 너 케로로 좀 알아?</title>
+<meta name="description" content="개구리 중사 케로로 팬 퀴즈! 10문제 중 몇 개 맞힐 수 있을까? 연습 모드 & 이벤트 모드">
+<meta property="og:type" content="website"><meta property="og:title" content="케로로 퀴즈 🐸 너 케로로 좀 알아?">
+<meta property="og:description" content="10문제 랜덤 출제! 5개 이상 맞히면 이벤트 인증코드 발급 게로~">
+<meta property="og:locale" content="ko_KR"><meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#3fa34d">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🐸</text></svg>">
+<link rel="stylesheet" href="style.css"></head><body>
+<main id="app">
+<section id="home" class="card">
+ <div class="frog"><span class="eye"></span><span class="eye"></span><span class="star">★</span></div>
+ <h1>케로로 퀴즈</h1><p class="sub">너 케로로 좀 알아? 게로게로~</p>
+ <button class="btn" data-mode="practice">📚 연습 모드</button>
+ <p class="hint">10문제 · 매 문제 정답과 해설 공개</p>
+ <button class="btn alt" data-mode="event">🎁 이벤트 모드</button>
+ <p class="hint">10문제 · 끝날 때까지 정답 비공개 · 5개 이상 맞히면 인증코드!</p>
+ <p class="foot">문제 출처: 위키백과(한국어·영어) · 팬메이드 비공식 퀴즈</p>
+</section>
+<section id="quiz" class="card hidden">
+ <div class="bar"><span id="prog"></span><span id="tag"></span></div>
+ <div class="pbar"><i id="pfill"></i></div>
+ <h2 id="qtext"></h2><div id="opts"></div>
+ <div id="fb" class="hidden"></div>
+ <button id="next" class="btn hidden">다음 ▶</button>
+</section>
+<section id="result" class="card hidden"></section>
+</main>
+<script src="app.js"></script></body></html>
