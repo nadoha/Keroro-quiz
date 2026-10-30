@@ -1,7 +1,7 @@
 const EVENT_OPEN = false;
 (()=>{const $=s=>document.querySelector(s);let ALL=[],qs=[],i=0,mode="practice",picks=[],score=0,locked=false;
 const DL={easy:"쉬움",medium:"보통",hard:"어려움"};const URL0=location.href.split(/[?#]/)[0];
-const COMMENTS=["아직 지구인이시군요…","케론별 인사부터 시작해볼까요?","침략은 아직 먼 이야기예요","신병 훈련이 조금 더 필요해요","매뉴얼을 한 번만 더 읽어 봐요","케로로 소대 견습 대원","꽤 아는데요? 게로게로~","소대 배식은 맡겨도 되겠어요","진정한 케로로 소대원이에요","거의 케론성 주민","뇌 속은 이미 침략 당하셨군요"];
+const COMMENTS=["아직 퍼렁별인이시군요…","케론별 인사부터 시작해볼까요?","침략은 아직 먼 이야기예요","신병 훈련이 조금 더 필요해요","매뉴얼을 한 번만 더 읽어 봐요","케로로 소대 견습 대원","꽤 아는데요? 게로게로~","소대 배식은 맡겨도 되겠어요","진정한 케로로 소대원이에요","거의 케론성 주민","뇌 속은 이미 침략 당하셨군요"];
 const show=id=>["home","quiz","result"].forEach(s=>$("#"+s).classList.toggle("hidden",s!==id));
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const toast=m=>{const t=document.createElement("div");t.className="toast";t.textContent=m;document.body.appendChild(t);setTimeout(()=>t.remove(),1800)};
