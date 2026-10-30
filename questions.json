@@ -513,7 +513,7 @@
   "topic": "능력·특징",
   "difficulty": "medium",
   "question": "쿠루루 특유의 웃음소리는?",
-  "explanation": "늘 기분 나쁜 웃음 '크크크크'를 내요.",
+  "explanation": "늘 기분 나쁜 웃음 '크크크크'를 내요. (나무위키 표기는 '끄끄끄')",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "케로케로",
@@ -1292,8 +1292,8 @@
  {
   "topic": "행성·설정",
   "difficulty": "medium",
-  "question": "케론인들이 지구를 부르는 이름은?",
-  "explanation": "They mean to conquer 'Pekopon' (their name for Earth).",
+  "question": "일본 원작에서 케론인들이 지구를 부르는 이름은?",
+  "explanation": "They mean to conquer 'Pekopon' (their name for Earth). (한국 투니버스판에서는 '퍼렁별')",
   "source": "https://en.wikipedia.org/wiki/Sgt._Frog",
   "options": [
    "테라",
@@ -1993,5 +1993,2750 @@
   ],
   "answerIndex": 0,
   "id": 133
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "원작자가 처음에 생각했던 케로로의 나이는? (나중에 철회)",
+  "explanation": "요시자키 미네는 처음에 케로로가 40살이라고 생각했다가 철회했어요.",
+  "source": "https://keroro.fandom.com/wiki/Keroro",
+  "options": [
+   "20살",
+   "10살",
+   "40살",
+   "100살"
+  ],
+  "answerIndex": 2,
+  "id": 134
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "케로로가 10년 동안 면도를 안 하면 생기는 것은?",
+  "explanation": "234화 B파트: 10년 뒤 하얀 수염이 자라요.",
+  "source": "https://keroro.fandom.com/wiki/Keroro",
+  "options": [
+   "대머리",
+   "초록 수염",
+   "뿔",
+   "하얀 수염"
+  ],
+  "answerIndex": 3,
+  "id": 135
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "케로로가 우승했다고 주장한 대회는?",
+  "explanation": "95화에서 556회 우주 수수께끼 대회 우승을 주장하지만 거짓말인 듯해요.",
+  "source": "https://keroro.fandom.com/wiki/Keroro",
+  "options": [
+   "우주 요리 대회",
+   "제556회 우주 수수께끼 대회",
+   "우주 노래자랑",
+   "케론 사격대회"
+  ],
+  "answerIndex": 1,
+  "id": 136
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "원작 만화에서 케로로가 장마철에 착용해야 하는 것은?",
+  "explanation": "습도가 높은 장마철엔 '파워 리미터'를 차야 해요(9권).",
+  "source": "https://keroro.fandom.com/wiki/Keroro",
+  "options": [
+   "헤드폰",
+   "케론볼",
+   "파워 리미터",
+   "우비"
+  ],
+  "answerIndex": 2,
+  "id": 137
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "케로로의 체지방률은?",
+  "explanation": "혈액형 O형, 체지방률 30%.",
+  "source": "https://keroro.fandom.com/wiki/Keroro",
+  "options": [
+   "50%",
+   "30%",
+   "10%",
+   "5%"
+  ],
+  "answerIndex": 1,
+  "id": 138
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "만화에서 케로로가 즐겨 쓰는 컴퓨터는?",
+  "explanation": "케로로는 Mac 컴퓨터를 좋아해요.",
+  "source": "https://keroro.fandom.com/wiki/Keroro",
+  "options": [
+   "게임보이",
+   "슈퍼컴퓨터",
+   "Mac(맥)",
+   "윈도우 PC"
+  ],
+  "answerIndex": 2,
+  "id": 139
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "DS 게임에서 케로로가 좋아하는 음식으로 나온 원작자 고향(구마모토)의 간식은?",
+  "explanation": "3·4번째 DS 게임에서 이키나리 당고로 나와요.",
+  "source": "https://keroro.fandom.com/wiki/Keroro",
+  "options": [
+   "다코야키",
+   "카스텔라",
+   "모찌 아이스",
+   "이키나리 당고"
+  ],
+  "answerIndex": 3,
+  "id": 140
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "케로로·도로로·기로로가 1등을 한 댄스 대회는?",
+  "explanation": "Kerorobics Dancing 1위.",
+  "source": "https://keroro.fandom.com/wiki/Keroro",
+  "options": [
+   "건프라 댄스",
+   "케로로빅스",
+   "우주 디스코",
+   "케론 탱고"
+  ],
+  "answerIndex": 1,
+  "id": 141
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "케로로가 버릴 소년 알파 잡지에 붓는 것은?",
+  "explanation": "남이 주워 읽지 못하게 캔커피를 부어요.",
+  "source": "https://keroro.fandom.com/wiki/Keroro",
+  "options": [
+   "카레",
+   "물",
+   "캔커피",
+   "간장"
+  ],
+  "answerIndex": 2,
+  "id": 142
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "ADV판 영어 더빙에서 원래 케로로 역으로 캐스팅된 성우는?",
+  "explanation": "Vic Mignogna가 15화를 녹음했지만 미공개, Funimation판은 Todd Haberkorn.",
+  "source": "https://keroro.fandom.com/wiki/Keroro",
+  "options": [
+   "토드 하버콘",
+   "루크 쇼",
+   "크리스 패튼",
+   "빅 미뇨냐"
+  ],
+  "answerIndex": 3,
+  "id": 143
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "Funimation 영어판 케로로 성우는?",
+  "explanation": "Funimation이 Todd Haberkorn으로 재캐스팅했어요.",
+  "source": "https://keroro.fandom.com/wiki/Keroro",
+  "options": [
+   "J. 마이클 테이텀",
+   "토드 하버콘",
+   "빅 미뇨냐",
+   "크리스 패튼"
+  ],
+  "answerIndex": 1,
+  "id": 144
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "2화에서 케로로가 보여준 특기는?",
+  "explanation": "완벽한 공 모양으로 말려 빠르게 굴러요(2화).",
+  "source": "https://keroro.fandom.com/wiki/Keroro",
+  "options": [
+   "분신술",
+   "순간이동",
+   "투명화",
+   "공처럼 몸을 말아 고속 이동"
+  ],
+  "answerIndex": 3,
+  "id": 145
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "기로로가 89화에서 몇 명으로 분열했을까요?",
+  "explanation": "89화에서 7명으로 분열했고 군인다운 건 한 명뿐이었어요.",
+  "source": "https://keroro.fandom.com/wiki/Giroro",
+  "options": [
+   "10명",
+   "5명",
+   "7명",
+   "3명"
+  ],
+  "answerIndex": 2,
+  "id": 146
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "기로로의 첫 키스 상대는? (265화)",
+  "explanation": "265화에서 사부로와 첫 키스.",
+  "source": "https://keroro.fandom.com/wiki/Giroro",
+  "options": [
+   "나츠미",
+   "푸루루",
+   "사부로",
+   "케로로"
+  ],
+  "answerIndex": 2,
+  "id": 147
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "기로로가 어릴 때부터 싫어하는 벌레는?",
+  "explanation": "어릴 때부터 바퀴벌레를 싫어해요(애니에선 'G').",
+  "source": "https://keroro.fandom.com/wiki/Giroro",
+  "options": [
+   "모기",
+   "파리",
+   "거미",
+   "바퀴벌레"
+  ],
+  "answerIndex": 3,
+  "id": 148
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "기로로가 할 줄 아는 신호법은?",
+  "explanation": "Giroro knows semaphore.",
+  "source": "https://keroro.fandom.com/wiki/Giroro",
+  "options": [
+   "수기신호(세마포어)",
+   "모스 부호만",
+   "봉화",
+   "휘파람 신호"
+  ],
+  "answerIndex": 0,
+  "id": 149
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "기로로가 잘 키우고 잘 굽는 작물은?",
+  "explanation": "고구마 농사 달인(131화).",
+  "source": "https://keroro.fandom.com/wiki/Giroro",
+  "options": [
+   "고구마",
+   "당근",
+   "감자",
+   "옥수수"
+  ],
+  "answerIndex": 0,
+  "id": 150
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "원작 만화에서 기로로의 술 실력은?",
+  "explanation": "만화에서 기로로는 술 한 방울에 혼수상태에 빠져요.",
+  "source": "https://keroro.fandom.com/wiki/Giroro",
+  "options": [
+   "술을 좋아함",
+   "한 방울에 혼수상태",
+   "말술",
+   "보통"
+  ],
+  "answerIndex": 1,
+  "id": 151
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "케로로 소대원 중 일본판에서 특별한 어미 없이 말하는 유일한 대원은?",
+  "explanation": "케로로 '데아리마스', 타마마 '데스', 쿠루루 '다제', 도로로 '데고자루'.",
+  "source": "https://keroro.fandom.com/wiki/Giroro",
+  "options": [
+   "도로로",
+   "기로로",
+   "타마마",
+   "케로로"
+  ],
+  "answerIndex": 1,
+  "id": 152
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "일본판 도로로의 말끝 어미는?",
+  "explanation": "도로로는 'degozaru'로 끝나요.",
+  "source": "https://keroro.fandom.com/wiki/Giroro",
+  "options": [
+   "~데스",
+   "~데아리마스",
+   "~다제",
+   "~데고자루"
+  ],
+  "answerIndex": 3,
+  "id": 153
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "원작 만화에 따른 기로로의 몸무게는?",
+  "explanation": "만화 기준 55.5cm, 5.555kg.",
+  "source": "https://keroro.fandom.com/wiki/Giroro",
+  "options": [
+   "5.555kg",
+   "55.5kg",
+   "7kg",
+   "3.3kg"
+  ],
+  "answerIndex": 0,
+  "id": 154
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "기로로 아프로 머리의 색은?",
+  "explanation": "기로로의 아프로는 금발이에요.",
+  "source": "https://keroro.fandom.com/wiki/Giroro",
+  "options": [
+   "빨간색",
+   "금발",
+   "갈색",
+   "검은색"
+  ],
+  "answerIndex": 1,
+  "id": 155
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "원작자 초기 설정에서 타마마 모자 색은?",
+  "explanation": "원래 노란색이 아니라 분홍색이었어요.",
+  "source": "https://keroro.fandom.com/wiki/Tamama",
+  "options": [
+   "초록색",
+   "빨간색",
+   "하얀색",
+   "분홍색"
+  ],
+  "answerIndex": 3,
+  "id": 156
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "타마마의 추정 나이는?",
+  "explanation": "3000살 이상으로 추정돼요.",
+  "source": "https://keroro.fandom.com/wiki/Tamama",
+  "options": [
+   "30살",
+   "3000살 이상",
+   "1만 살",
+   "300살"
+  ],
+  "answerIndex": 1,
+  "id": 157
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "10년 뒤의 타마마에게 남아 있는 것은?",
+  "explanation": "234화 B: 10년 뒤에도 꼬리가 남아 있어요.",
+  "source": "https://keroro.fandom.com/wiki/Tamama",
+  "options": [
+   "뿔",
+   "꼬리",
+   "올챙이 얼굴 없음",
+   "날개"
+  ],
+  "answerIndex": 1,
+  "id": 158
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "타마마가 카메오로 나온 다른 애니메이션은?",
+  "explanation": "츠카사 휴대폰 키홀더로 등장해요.",
+  "source": "https://keroro.fandom.com/wiki/Tamama",
+  "options": [
+   "나루토",
+   "케이온!",
+   "원피스",
+   "러키☆스타"
+  ],
+  "answerIndex": 3,
+  "id": 159
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "medium",
+  "question": "타마마가 강해질 때 닮는 '북두의 권' 캐릭터는?",
+  "explanation": "근육이 커져 켄시로처럼 보여요.",
+  "source": "https://keroro.fandom.com/wiki/Tamama",
+  "options": [
+   "켄시로",
+   "라오우",
+   "루피",
+   "손오공"
+  ],
+  "answerIndex": 0,
+  "id": 160
+ },
+ {
+  "topic": "관계",
+  "difficulty": "hard",
+  "question": "카라라가 처음 반한 케로로 소대원은?",
+  "explanation": "Tamama is the first member Karara falls in love with.",
+  "source": "https://keroro.fandom.com/wiki/Tamama",
+  "options": [
+   "타마마",
+   "케로로",
+   "기로로",
+   "쿠루루"
+  ],
+  "answerIndex": 0,
+  "id": 161
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "타마마의 방귀는 평균 케론인보다 몇 배 독할까요? (애니 2화)",
+  "explanation": "애니 2화에서 5배라고 해요.",
+  "source": "https://keroro.fandom.com/wiki/Tamama",
+  "options": [
+   "10배",
+   "2배",
+   "100배",
+   "5배"
+  ],
+  "answerIndex": 3,
+  "id": 162
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "원작자 초기 설정에서 쿠루루 모자의 색은?",
+  "explanation": "주황 대신 크고 흰 모자였어요.",
+  "source": "https://keroro.fandom.com/wiki/Kururu",
+  "options": [
+   "작고 검은 모자",
+   "크고 하얀 모자",
+   "빨간 모자",
+   "파란 모자"
+  ],
+  "answerIndex": 1,
+  "id": 163
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "쿠루루가 카레 말고 관심을 보인 음식은?",
+  "explanation": "Salmon에도 관심을 보여요.",
+  "source": "https://keroro.fandom.com/wiki/Kururu",
+  "options": [
+   "고구마",
+   "낫토",
+   "해삼",
+   "연어"
+  ],
+  "answerIndex": 3,
+  "id": 164
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "쿠루루가 연주할 수 있는 악기는?",
+  "explanation": "He can play the recorder.",
+  "source": "https://keroro.fandom.com/wiki/Kururu",
+  "options": [
+   "리코더",
+   "기타",
+   "피아노",
+   "드럼"
+  ],
+  "answerIndex": 0,
+  "id": 165
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "쿠루루가 버튼을 누를 때 외치는 말은?",
+  "explanation": "'ポチト!' 개그.",
+  "source": "https://keroro.fandom.com/wiki/Kururu",
+  "options": [
+   "발사!",
+   "게로!",
+   "포치토!",
+   "크크!"
+  ],
+  "answerIndex": 2,
+  "id": 166
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "쿠루루가 즐겨 듣는 노래는?",
+  "explanation": "The Idol Master 노래와 CD를 갖고 있어요.",
+  "source": "https://keroro.fandom.com/wiki/Kururu",
+  "options": [
+   "건담 OST",
+   "트로트",
+   "아이돌마스터",
+   "록"
+  ],
+  "answerIndex": 2,
+  "id": 167
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "쿠루루 성우 코야스 타케히토가 맡은 죠죠의 기묘한 모험 캐릭터는?",
+  "explanation": "2012 애니 죠죠에서 DIO.",
+  "source": "https://keroro.fandom.com/wiki/Kururu",
+  "options": [
+   "죠타로",
+   "카즈",
+   "디오 브란도",
+   "요시카게"
+  ],
+  "answerIndex": 2,
+  "id": 168
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "쿠루루가 몸이 노래진 계기는? (쇼트 무비)",
+  "explanation": "Secret of the Kero Ball에서 거대한 카레 접시에 빠져 노래졌어요.",
+  "source": "https://en.wikipedia.org/wiki/List_of_Sgt._Frog_characters",
+  "options": [
+   "햇볕에 타서",
+   "병에 걸려서",
+   "거대한 카레 접시에 빠져서",
+   "페인트를 뒤집어써서"
+  ],
+  "answerIndex": 2,
+  "id": 169
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "원작자 초기 디자인에서 도로로는 어떤 모습이었나요?",
+  "explanation": "잠수부 같은 슈트에 눈이 완전히 하얬어요.",
+  "source": "https://keroro.fandom.com/wiki/Dororo",
+  "options": [
+   "잠수부 같은 어두운 수트",
+   "하얀 망토",
+   "사무라이 갑옷",
+   "해적 복장"
+  ],
+  "answerIndex": 0,
+  "id": 170
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "도로로라는 닌자 이름이 참고했을 수 있는 작품의 작가는?",
+  "explanation": "데즈카 오사무의 1960년대 작품 '도로로'.",
+  "source": "https://keroro.fandom.com/wiki/Dororo",
+  "options": [
+   "오다 에이치로",
+   "토리야마 아키라",
+   "후지코 F 후지오",
+   "데즈카 오사무"
+  ],
+  "answerIndex": 3,
+  "id": 171
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "2024년 도로로가 콜라보한 산리오 캐릭터는?",
+  "explanation": "2024 한교동, 2025 턱시도샘.",
+  "source": "https://keroro.fandom.com/wiki/Dororo",
+  "options": [
+   "한교동",
+   "헬로키티",
+   "시나모롤",
+   "폼폼푸린"
+  ],
+  "answerIndex": 0,
+  "id": 172
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "medium",
+  "question": "도로로가 즐겨 마시는 것으로 자주 그려지는 음료는?",
+  "explanation": "무릎 꿇고 녹차를 마시는 모습이 자주 나와요.",
+  "source": "https://keroro.fandom.com/wiki/Dororo",
+  "options": [
+   "녹차",
+   "커피",
+   "우유",
+   "콜라"
+  ],
+  "answerIndex": 0,
+  "id": 173
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "도로로의 일본 성우가 주인공을 맡은 농구 애니메이션은?",
+  "explanation": "쿠사오 타케시 = 강백호(사쿠라기) 성우.",
+  "source": "https://keroro.fandom.com/wiki/Dororo",
+  "options": [
+   "슬램덩크",
+   "하이큐",
+   "쿠로코의 농구",
+   "테니스의 왕자"
+  ],
+  "answerIndex": 0,
+  "id": 174
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "318화에서 도로로가 마스크를 벗었을 때 결과는?",
+  "explanation": "벗었지만 아무도 보지 못해 미스터리로 남았어요.",
+  "source": "https://keroro.fandom.com/wiki/Dororo",
+  "options": [
+   "잘생겨서 인기",
+   "케로로와 똑같았다",
+   "아무도 얼굴을 못 봤다",
+   "모두 기절했다"
+  ],
+  "answerIndex": 2,
+  "id": 175
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "후유키 대신 원래 기획에 있던 캐릭터의 이름은?",
+  "explanation": "1998년 기획 때 나츠미의 원래 이름이 야마토 준이기도 해요.",
+  "source": "https://keroro.fandom.com/wiki/Natsumi_Hinata",
+  "options": [
+   "코유키",
+   "하루나",
+   "야마토 준",
+   "아사미"
+  ],
+  "answerIndex": 2,
+  "id": 176
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "애니에서 후유키가 케론볼을 보관하는 곳은?",
+  "explanation": "후유키는 케론볼을 서랍에 보관해요.",
+  "source": "https://keroro.fandom.com/wiki/Fuyuki_Hinata",
+  "options": [
+   "냉장고",
+   "정원",
+   "서랍",
+   "금고"
+  ],
+  "answerIndex": 2,
+  "id": 177
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "324화 침략 성공률 테스트에서 후유키의 점수는?",
+  "explanation": "후유키 100%, 나츠미 75%.",
+  "source": "https://keroro.fandom.com/wiki/Fuyuki_Hinata",
+  "options": [
+   "100%",
+   "50%",
+   "10%",
+   "75%"
+  ],
+  "answerIndex": 0,
+  "id": 178
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "후유키의 일본 성우는 몇 화부터 쿠와시마 호코로 바뀌었을까요?",
+  "explanation": "232화부터 교체.",
+  "source": "https://keroro.fandom.com/wiki/Fuyuki_Hinata",
+  "options": [
+   "200화",
+   "104화",
+   "300화",
+   "232화"
+  ],
+  "answerIndex": 3,
+  "id": 179
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "medium",
+  "question": "후유키가 밤늦게까지 하는 게임기는?",
+  "explanation": "Nintendo DS.",
+  "source": "https://keroro.fandom.com/wiki/Fuyuki_Hinata",
+  "options": [
+   "닌텐도 DS",
+   "PSP",
+   "플레이스테이션",
+   "게임보이"
+  ],
+  "answerIndex": 0,
+  "id": 180
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "나츠미의 별자리는?",
+  "explanation": "Sagittarius.",
+  "source": "https://keroro.fandom.com/wiki/Natsumi_Hinata",
+  "options": [
+   "전갈자리",
+   "사수자리",
+   "양자리",
+   "처녀자리"
+  ],
+  "answerIndex": 1,
+  "id": 181
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "나츠미의 전투력은?",
+  "explanation": "Natsumi's combat power is over 400.",
+  "source": "https://keroro.fandom.com/wiki/Natsumi_Hinata",
+  "options": [
+   "400 이상",
+   "100",
+   "53만",
+   "9000"
+  ],
+  "answerIndex": 0,
+  "id": 182
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "초등학생 시절 나츠미의 별명은?",
+  "explanation": "후유키를 괴롭히는 애들을 때려 'Devil Summer'.",
+  "source": "https://keroro.fandom.com/wiki/Natsumi_Hinata",
+  "options": [
+   "데빌 서머",
+   "바보 나츠",
+   "핑크 데빌",
+   "레드 코멧"
+  ],
+  "answerIndex": 0,
+  "id": 183
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "2026 리메이크에서 원작 나츠미 성우 사이토 치와가 맡은 역은?",
+  "explanation": "엄마 아키 역을 맡았어요.",
+  "source": "https://keroro.fandom.com/wiki/Natsumi_Hinata",
+  "options": [
+   "코유키",
+   "모아",
+   "나츠미",
+   "히나타 아키(엄마)"
+  ],
+  "answerIndex": 3,
+  "id": 184
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "medium",
+  "question": "모모카와 후유키가 둘이서만 활동하는 킷쇼학원 동아리는?",
+  "explanation": "Kissho Academy Occult Club.",
+  "source": "https://keroro.fandom.com/wiki/Momoka_Nishizawa",
+  "options": [
+   "만화부",
+   "축구부",
+   "방송부",
+   "오컬트 동아리"
+  ],
+  "answerIndex": 3,
+  "id": 185
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "모모카의 혈액형은?",
+  "explanation": "Momoka's blood type is A.",
+  "source": "https://keroro.fandom.com/wiki/Momoka_Nishizawa",
+  "options": [
+   "O형",
+   "A형",
+   "AB형",
+   "B형"
+  ],
+  "answerIndex": 1,
+  "id": 186
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "영어판 만화에서 모모카의 원래 이름은?",
+  "explanation": "Momoko로 번역됐어요.",
+  "source": "https://keroro.fandom.com/wiki/Momoka_Nishizawa",
+  "options": [
+   "피치",
+   "모모미",
+   "모모",
+   "모모코"
+  ],
+  "answerIndex": 3,
+  "id": 187
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "모모카가 유창하게 하는 언어가 아닌 것은?",
+  "explanation": "일본어·프랑스어·영어.",
+  "source": "https://keroro.fandom.com/wiki/Momoka_Nishizawa",
+  "options": [
+   "일본어",
+   "프랑스어",
+   "영어",
+   "중국어"
+  ],
+  "answerIndex": 3,
+  "id": 188
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "모아의 휴대폰으로 루시퍼 스피어를 꺼내는 입력 커맨드는?",
+  "explanation": "1999년 7월 예언을 뜻해요.",
+  "source": "https://keroro.fandom.com/wiki/Angol_Mois",
+  "options": [
+   "55555",
+   "20040",
+   "12345",
+   "19997"
+  ],
+  "answerIndex": 3,
+  "id": 189
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "모아가 루시퍼 스피어로만 열 수 있는 물건은?",
+  "explanation": "거대 일기장은 루시퍼 스피어로만 열려요.",
+  "source": "https://keroro.fandom.com/wiki/Angol_Mois",
+  "options": [
+   "보물상자",
+   "금고",
+   "케론볼",
+   "거대한 일기장"
+  ],
+  "answerIndex": 3,
+  "id": 190
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "소울칼리버 IV에 나온 모아와 닮은 캐릭터는?",
+  "explanation": "요시자키 미네가 디자인한 Angol Fear.",
+  "source": "https://keroro.fandom.com/wiki/Angol_Mois",
+  "options": [
+   "앙골 피어",
+   "타키",
+   "소피티아",
+   "앙골 모아 2"
+  ],
+  "answerIndex": 0,
+  "id": 191
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "74화에서 모아가 운세를 보려고 파괴한 행성 수는?",
+  "explanation": "hundred planets only for fortune reading.",
+  "source": "https://keroro.fandom.com/wiki/Angol_Mois",
+  "options": [
+   "수백 개",
+   "1개",
+   "10개",
+   "3개"
+  ],
+  "answerIndex": 0,
+  "id": 192
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "가루루 성우 오오츠카 아키오가 연기한 건담 0083 캐릭터는?",
+  "explanation": "Anavel Gato.",
+  "source": "https://keroro.fandom.com/wiki/Garuru",
+  "options": [
+   "샤아",
+   "아무로",
+   "아나벨 가토",
+   "카미유"
+  ],
+  "answerIndex": 2,
+  "id": 193
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "어린 가루루가 차고 있던, 훗날 기로로가 물려받은 것은?",
+  "explanation": "가문의 가보 같은 벨트를 기로로가 물려받아요.",
+  "source": "https://keroro.fandom.com/wiki/Garuru",
+  "options": [
+   "벨트",
+   "총",
+   "모자",
+   "헤드폰"
+  ],
+  "answerIndex": 0,
+  "id": 194
+ },
+ {
+  "topic": "행성·설정",
+  "difficulty": "hard",
+  "question": "케론군에서 그룹 계급을 정하는 기준은? (107화)",
+  "explanation": "Group Rankings are determined by the number of soldiers per group.",
+  "source": "https://keroro.fandom.com/wiki/Keron_Army",
+  "options": [
+   "대장의 나이",
+   "그룹당 병사 수",
+   "침략 성공 횟수",
+   "무기 개수"
+  ],
+  "answerIndex": 1,
+  "id": 195
+ },
+ {
+  "topic": "악당·적",
+  "difficulty": "medium",
+  "question": "케론인의 숙적으로 불리는 코브라 모습의 종족은?",
+  "explanation": "Viper는 케론인의 궁극의 적이에요.",
+  "source": "https://keroro.fandom.com/wiki/Viper",
+  "options": [
+   "앙골족",
+   "시라라",
+   "바이퍼",
+   "뇨로로"
+  ],
+  "answerIndex": 2,
+  "id": 196
+ },
+ {
+  "topic": "악당·적",
+  "difficulty": "hard",
+  "question": "바이퍼의 모티브가 된 작품은?",
+  "explanation": "Cobra the Space Pirate.",
+  "source": "https://keroro.fandom.com/wiki/Viper",
+  "options": [
+   "울트라맨",
+   "스페이스 코브라",
+   "건담",
+   "드래곤볼"
+  ],
+  "answerIndex": 1,
+  "id": 197
+ },
+ {
+  "topic": "악당·적",
+  "difficulty": "hard",
+  "question": "바이퍼가 웃을 때 반복하는 말은?",
+  "explanation": "'가라'를 반복해요.",
+  "source": "https://keroro.fandom.com/wiki/Viper",
+  "options": [
+   "크크",
+   "게로",
+   "푸푸",
+   "가라(ガラ)"
+  ],
+  "answerIndex": 3,
+  "id": 198
+ },
+ {
+  "topic": "악당·적",
+  "difficulty": "hard",
+  "question": "343화에서 밝혀진 바이퍼의 식성은?",
+  "explanation": "현실의 코브라가 개구리를 먹듯.",
+  "source": "https://keroro.fandom.com/wiki/Viper",
+  "options": [
+   "돌을 먹는다",
+   "케론인을 먹는다",
+   "카레를 먹는다",
+   "풀만 먹는다"
+  ],
+  "answerIndex": 1,
+  "id": 199
+ },
+ {
+  "topic": "악당·적",
+  "difficulty": "medium",
+  "question": "습기를 좋아하고 케론인을 삼키는 노란 우주 식물은?",
+  "explanation": "Nyororo는 노란 우주 식물이에요.",
+  "source": "https://keroro.fandom.com/wiki/Nyororo",
+  "options": [
+   "바이퍼",
+   "뇨로로",
+   "니로로",
+   "키루루"
+  ],
+  "answerIndex": 1,
+  "id": 200
+ },
+ {
+  "topic": "악당·적",
+  "difficulty": "hard",
+  "question": "뇨로로가 변이하기 전의 무해한 식물 이름은?",
+  "explanation": "10만 년 전 니로로가 변이.",
+  "source": "https://keroro.fandom.com/wiki/Nyororo",
+  "options": [
+   "니로로",
+   "뇨뇨",
+   "뉴로로",
+   "로로"
+  ],
+  "answerIndex": 0,
+  "id": 201
+ },
+ {
+  "topic": "악당·적",
+  "difficulty": "hard",
+  "question": "164화에서 밝혀진 뇨로로의 비밀은?",
+  "explanation": "꼬리가 입이에요.",
+  "source": "https://keroro.fandom.com/wiki/Nyororo",
+  "options": [
+   "케론인 친척",
+   "꼬리가 입, 얼굴은 엉덩이",
+   "눈이 3개",
+   "사실 로봇"
+  ],
+  "answerIndex": 1,
+  "id": 202
+ },
+ {
+  "topic": "악당·적",
+  "difficulty": "hard",
+  "question": "뇨로로의 실제 생물 모티브는?",
+  "explanation": "Lamprey.",
+  "source": "https://keroro.fandom.com/wiki/Nyororo",
+  "options": [
+   "뱀",
+   "칠성장어",
+   "해파리",
+   "지렁이"
+  ],
+  "answerIndex": 1,
+  "id": 203
+ },
+ {
+  "topic": "무기·아이템",
+  "difficulty": "medium",
+  "question": "케론볼은 원래 누구에게 지급되는 무기일까요?",
+  "explanation": "설계도는 일급비밀, 소대장에게 지급돼요.",
+  "source": "https://keroro.fandom.com/wiki/Kero_Ball",
+  "options": [
+   "간호장교",
+   "작전참모",
+   "각 소대의 대장",
+   "모든 병사"
+  ],
+  "answerIndex": 2,
+  "id": 204
+ },
+ {
+  "topic": "무기·아이템",
+  "difficulty": "medium",
+  "question": "케론볼 꼭대기 안테나 끝 모양은?",
+  "explanation": "antenna with a red circular tip.",
+  "source": "https://keroro.fandom.com/wiki/Kero_Ball",
+  "options": [
+   "해골",
+   "하트",
+   "빨간 동그라미",
+   "노란 별"
+  ],
+  "answerIndex": 2,
+  "id": 205
+ },
+ {
+  "topic": "무기·아이템",
+  "difficulty": "hard",
+  "question": "생각한 것을 실체화하는 케론볼 버튼은?",
+  "explanation": "Realization 버튼.",
+  "source": "https://keroro.fandom.com/wiki/Kero_Ball",
+  "options": [
+   "전기 버튼",
+   "실체화 버튼",
+   "메가폰 버튼",
+   "포획 버튼"
+  ],
+  "answerIndex": 1,
+  "id": 206
+ },
+ {
+  "topic": "악당·적",
+  "difficulty": "hard",
+  "question": "슈라라의 원래 이름은?",
+  "explanation": "203화에서 정체는 동급생 시라라.",
+  "source": "https://keroro.fandom.com/wiki/Shurara",
+  "options": [
+   "카라라",
+   "미라라",
+   "키루루",
+   "시라라"
+  ],
+  "answerIndex": 3,
+  "id": 207
+ },
+ {
+  "topic": "악당·적",
+  "difficulty": "hard",
+  "question": "시라라가 케로로에게 원한을 품은 이유는?",
+  "explanation": "반창고를 케로로가 떼어버렸어요.",
+  "source": "https://keroro.fandom.com/wiki/Shurara",
+  "options": [
+   "케론볼을 뺏어서",
+   "건프라를 부숴서",
+   "푸루루가 붙여준 별 반창고를 떼서",
+   "시험을 망쳐서"
+  ],
+  "answerIndex": 2,
+  "id": 208
+ },
+ {
+  "topic": "무기·아이템",
+  "difficulty": "hard",
+  "question": "시라라가 써서 힘을 얻은 금은색 헬멧은?",
+  "explanation": "Keromet.",
+  "source": "https://keroro.fandom.com/wiki/Shurara",
+  "options": [
+   "케로메트",
+   "케론스타",
+   "루시퍼 스피어",
+   "파워 리미터"
+  ],
+  "answerIndex": 0,
+  "id": 209
+ },
+ {
+  "topic": "악당·적",
+  "difficulty": "hard",
+  "question": "슈라라 군단은 대장 포함 몇 명?",
+  "explanation": "슈라라 + 부하 9명.",
+  "source": "https://en.wikipedia.org/wiki/List_of_Sgt._Frog_characters",
+  "options": [
+   "5명",
+   "12명",
+   "10명",
+   "7명"
+  ],
+  "answerIndex": 2,
+  "id": 210
+ },
+ {
+  "topic": "극장판",
+  "difficulty": "medium",
+  "question": "케론군 최강의 파괴병기로 불리는 극장판 1편 캐릭터는?",
+  "explanation": "Keroro Gunso the Super Movie의 키루루.",
+  "source": "https://keroro.fandom.com/wiki/Kiruru",
+  "options": [
+   "바이퍼",
+   "시라라",
+   "뇨로로",
+   "키루루"
+  ],
+  "answerIndex": 3,
+  "id": 211
+ },
+ {
+  "topic": "극장판",
+  "difficulty": "hard",
+  "question": "키루루 이마의 X 마크 색은?",
+  "explanation": "이마 초록 X, 배 빨간 X.",
+  "source": "https://keroro.fandom.com/wiki/Kiruru",
+  "options": [
+   "노란색",
+   "초록색",
+   "파란색",
+   "빨간색"
+  ],
+  "answerIndex": 1,
+  "id": 212
+ },
+ {
+  "topic": "극장판",
+  "difficulty": "hard",
+  "question": "아리사가 등장한 유일한 극장판은?",
+  "explanation": "Movie 5 only.",
+  "source": "https://keroro.fandom.com/wiki/Alisa_Southerncross",
+  "options": [
+   "극장판 1편",
+   "극장판 5편",
+   "극장판 3편",
+   "극장판 2편"
+  ],
+  "answerIndex": 1,
+  "id": 213
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "아리사의 실제 나이는?",
+  "explanation": "겉모습 12~14세, 실제 300살 이상.",
+  "source": "https://keroro.fandom.com/wiki/Alisa_Southerncross",
+  "options": [
+   "300살 이상",
+   "13살",
+   "30살",
+   "3000살"
+  ],
+  "answerIndex": 0,
+  "id": 214
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "애니에서 아리사의 정체는?",
+  "explanation": "species: Doll (anime).",
+  "source": "https://keroro.fandom.com/wiki/Alisa_Southerncross",
+  "options": [
+   "유령",
+   "뱀파이어",
+   "케론인",
+   "인형"
+  ],
+  "answerIndex": 3,
+  "id": 215
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "첫 등장에서 후유키가 말한 아리사의 냄새는?",
+  "explanation": "osmanthus.",
+  "source": "https://keroro.fandom.com/wiki/Alisa_Southerncross",
+  "options": [
+   "카레 냄새",
+   "금목서 향",
+   "장미 향",
+   "비 냄새"
+  ],
+  "answerIndex": 1,
+  "id": 216
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "푸루루가 차를 자주 마시는 이유는?",
+  "explanation": "차가 젊어 보이게 한다는 소문.",
+  "source": "https://keroro.fandom.com/wiki/Pururu",
+  "options": [
+   "도로로 따라해서",
+   "카페인 중독",
+   "젊어 보인다는 소문 때문",
+   "약이라서"
+  ],
+  "answerIndex": 2,
+  "id": 217
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "어린 시절 푸루루 모자에 달려 있던 것은?",
+  "explanation": "cap was flat and had a flower on it.",
+  "source": "https://keroro.fandom.com/wiki/Pururu",
+  "options": [
+   "리본",
+   "별",
+   "꽃",
+   "해골"
+  ],
+  "answerIndex": 2,
+  "id": 218
+ },
+ {
+  "topic": "관계",
+  "difficulty": "hard",
+  "question": "어린 케로로 일행을 지켜준 형 같은 친구는?",
+  "explanation": "elder friend Joriri.",
+  "source": "https://keroro.fandom.com/wiki/Pururu",
+  "options": [
+   "쿠루루",
+   "조리리",
+   "가루루",
+   "시라라"
+  ],
+  "answerIndex": 1,
+  "id": 219
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "토로로의 몸 색은?",
+  "explanation": "salmon-colored tadpole.",
+  "source": "https://keroro.fandom.com/wiki/Tororo",
+  "options": [
+   "보라색",
+   "초록색",
+   "연어색(살구색)",
+   "노란색"
+  ],
+  "answerIndex": 2,
+  "id": 220
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "토로로의 웃음소리는?",
+  "explanation": "pu pu pu.",
+  "source": "https://keroro.fandom.com/wiki/Tororo",
+  "options": [
+   "가라가라",
+   "크크크",
+   "하하하",
+   "푸푸푸"
+  ],
+  "answerIndex": 3,
+  "id": 221
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "토로로의 '눈'의 정체는?",
+  "explanation": "103화에서 안경이 깨져요.",
+  "source": "https://keroro.fandom.com/wiki/Tororo",
+  "options": [
+   "안경",
+   "렌즈 카메라",
+   "진짜 눈",
+   "고글형 로봇"
+  ],
+  "answerIndex": 0,
+  "id": 222
+ },
+ {
+  "topic": "관계",
+  "difficulty": "hard",
+  "question": "어린 시절 조루루가 친구가 되려 했던 케론인은?",
+  "explanation": "그 순간 제로로는 케로로와 친구가 됐어요.",
+  "source": "https://keroro.fandom.com/wiki/Zoruru",
+  "options": [
+   "케로로",
+   "쿠루루",
+   "제로로(도로로)",
+   "기로로"
+  ],
+  "answerIndex": 2,
+  "id": 223
+ },
+ {
+  "topic": "계급·소대",
+  "difficulty": "hard",
+  "question": "조루루와 도로로가 함께 속했던 암살 부대는?",
+  "explanation": "X1 assassin group.",
+  "source": "https://keroro.fandom.com/wiki/Zoruru",
+  "options": [
+   "가루루 소대",
+   "슈라라 군단",
+   "케로로 소대",
+   "X1"
+  ],
+  "answerIndex": 3,
+  "id": 224
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "조루루가 도로로와 정식 대결한 애니 화수는?",
+  "explanation": "만화 17권, 애니 336화.",
+  "source": "https://keroro.fandom.com/wiki/Zoruru",
+  "options": [
+   "130화",
+   "336화",
+   "296화",
+   "103화"
+  ],
+  "answerIndex": 1,
+  "id": 225
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "타루루 제노사이드 빔의 색은?",
+  "explanation": "light blue beams from his eyes.",
+  "source": "https://keroro.fandom.com/wiki/Taruru",
+  "options": [
+   "빨간색",
+   "보라색",
+   "하늘색",
+   "노란색"
+  ],
+  "answerIndex": 2,
+  "id": 226
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "코유키의 혈액형은?",
+  "explanation": "Koyuki's blood type is B.",
+  "source": "https://keroro.fandom.com/wiki/Koyuki_Azumaya",
+  "options": [
+   "O형",
+   "B형",
+   "AB형",
+   "A형"
+  ],
+  "answerIndex": 1,
+  "id": 227
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "코유키가 330화에서 카레에 넣은 것은?",
+  "explanation": "slugs and newts.",
+  "source": "https://keroro.fandom.com/wiki/Koyuki_Azumaya",
+  "options": [
+   "민달팽이와 도롱뇽",
+   "고구마",
+   "초콜릿",
+   "낫토"
+  ],
+  "answerIndex": 0,
+  "id": 228
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "코유키가 처음 피자를 먹은 화는?",
+  "explanation": "episode 317.",
+  "source": "https://keroro.fandom.com/wiki/Koyuki_Azumaya",
+  "options": [
+   "100화",
+   "200화",
+   "317화",
+   "1화"
+  ],
+  "answerIndex": 2,
+  "id": 229
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "사부로가 처음 TV에 나온 작품은?",
+  "explanation": "Seven of Seven에서 라디오 진행자로.",
+  "source": "https://keroro.fandom.com/wiki/Saburo",
+  "options": [
+   "세븐 오브 세븐",
+   "건담",
+   "러키스타",
+   "에반게리온"
+  ],
+  "answerIndex": 0,
+  "id": 230
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "사부로가 163~190화 동안 몇 번 나왔을까요?",
+  "explanation": "163~190화 완전 결장.",
+  "source": "https://keroro.fandom.com/wiki/Saburo",
+  "options": [
+   "3번",
+   "한 번도 안 나옴",
+   "10번",
+   "매화"
+  ],
+  "answerIndex": 1,
+  "id": 231
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "난폭 운전으로 생긴 아키의 별명은?",
+  "explanation": "샤아 아즈나블 패러디 'The Red Comet'.",
+  "source": "https://keroro.fandom.com/wiki/Aki_Hinata",
+  "options": [
+   "옐로 데빌",
+   "다이너마이트 걸",
+   "데빌 서머",
+   "붉은 혜성"
+  ],
+  "answerIndex": 3,
+  "id": 232
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "아키라는 이름의 뜻은?",
+  "explanation": "Aki = Autumn.",
+  "source": "https://keroro.fandom.com/wiki/Aki_Hinata",
+  "options": [
+   "봄",
+   "여름",
+   "겨울",
+   "가을"
+  ],
+  "answerIndex": 3,
+  "id": 233
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "아키가 편집하는 잡지는?",
+  "explanation": "Editor of Shonen Alpha.",
+  "source": "https://keroro.fandom.com/wiki/Aki_Hinata",
+  "options": [
+   "월간 선데이",
+   "소년 알파",
+   "코로코로",
+   "소년 점프"
+  ],
+  "answerIndex": 1,
+  "id": 234
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "원작 설정상 폴이 참전한 실제 전투는?",
+  "explanation": "Battle of Jangil Gol(1939).",
+  "source": "https://keroro.fandom.com/wiki/Paul_Moriyama",
+  "options": [
+   "이오지마",
+   "진주만",
+   "미드웨이 해전",
+   "할힌골(노몬한) 전투"
+  ],
+  "answerIndex": 3,
+  "id": 235
+ },
+ {
+  "topic": "관계",
+  "difficulty": "medium",
+  "question": "폴과 친근한 라이벌 관계인 소대원은?",
+  "explanation": "Giroro - Rival.",
+  "source": "https://keroro.fandom.com/wiki/Paul_Moriyama",
+  "options": [
+   "케로로",
+   "타마마",
+   "쿠루루",
+   "기로로"
+  ],
+  "answerIndex": 3,
+  "id": 236
+ },
+ {
+  "topic": "행성·설정",
+  "difficulty": "easy",
+  "question": "한국 투니버스판에서 지구를 부르는 이름은?",
+  "explanation": "한국판은 지구를 '퍼렁별'이라 불러요.",
+  "source": "https://namu.wiki/w/%EC%BC%80%EB%A1%A0%EC%9D%B8",
+  "options": [
+   "페코별",
+   "케론별",
+   "퍼렁별",
+   "초록별"
+  ],
+  "answerIndex": 2,
+  "id": 237
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "medium",
+  "question": "케로로의 생일은?",
+  "explanation": "케로로 생일 12월 9일.",
+  "source": "https://namu.wiki/w/%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "1월 1일",
+   "3월 21일",
+   "4월 3일",
+   "12월 9일"
+  ],
+  "answerIndex": 3,
+  "id": 238
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "medium",
+  "question": "기로로의 생일은?",
+  "explanation": "기로로 생일 3월 21일.",
+  "source": "https://namu.wiki/w/%EA%B8%B0%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "7월 7일",
+   "12월 9일",
+   "5월 5일",
+   "3월 21일"
+  ],
+  "answerIndex": 3,
+  "id": 239
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "케로로의 나이는?",
+  "explanation": "10500살 이상.",
+  "source": "https://namu.wiki/w/%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "40살",
+   "10500살 이상",
+   "6000살",
+   "3000살"
+  ],
+  "answerIndex": 1,
+  "id": 240
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "medium",
+  "question": "케로로의 키는?",
+  "explanation": "55.5cm 5.555kg.",
+  "source": "https://namu.wiki/w/%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "55.5cm",
+   "70cm",
+   "30cm",
+   "1m"
+  ],
+  "answerIndex": 0,
+  "id": 241
+ },
+ {
+  "topic": "행성·설정",
+  "difficulty": "hard",
+  "question": "작가 공인 케론인의 공통 키·몸무게는?",
+  "explanation": "케론인은 모두 55.5cm 5.555kg.",
+  "source": "https://namu.wiki/w/%EC%BC%80%EB%A1%A0%EC%9D%B8",
+  "options": [
+   "55.5cm · 5.555kg",
+   "55cm · 5.5kg",
+   "60cm · 6kg",
+   "50cm · 5kg"
+  ],
+  "answerIndex": 0,
+  "id": 242
+ },
+ {
+  "topic": "행성·설정",
+  "difficulty": "hard",
+  "question": "케론별의 위치는?",
+  "explanation": "두꺼비 성운 제58번 행성.",
+  "source": "https://namu.wiki/w/%EC%BC%80%EB%A1%A0%EC%9D%B8",
+  "options": [
+   "올챙이 은하 7번 행성",
+   "두꺼비 성운 제58번 행성",
+   "M78 성운",
+   "개구리 성운 제1행성"
+  ],
+  "answerIndex": 1,
+  "id": 243
+ },
+ {
+  "topic": "행성·설정",
+  "difficulty": "hard",
+  "question": "케론인 모자에 달린 심볼의 역할은?",
+  "explanation": "모자 심볼은 안티베리어.",
+  "source": "https://namu.wiki/w/%EC%BC%80%EB%A1%A0%EC%9D%B8",
+  "options": [
+   "무기",
+   "통신기",
+   "안티베리어",
+   "장식"
+  ],
+  "answerIndex": 2,
+  "id": 244
+ },
+ {
+  "topic": "행성·설정",
+  "difficulty": "hard",
+  "question": "만화 156화에서 밝혀진 케론인의 신기한 능력은?",
+  "explanation": "케론인이 불면 비눗방울이 안 터져요.",
+  "source": "https://namu.wiki/w/%EC%BC%80%EB%A1%A0%EC%9D%B8",
+  "options": [
+   "하늘을 남",
+   "비눗방울이 터지지 않음",
+   "물 위를 걸음",
+   "투명해짐"
+  ],
+  "answerIndex": 1,
+  "id": 245
+ },
+ {
+  "topic": "행성·설정",
+  "difficulty": "medium",
+  "question": "케론인이 좋아하는 환경은?",
+  "explanation": "장마철 습도가 케론별 평균, 건조하면 전투력 저하.",
+  "source": "https://namu.wiki/w/%EC%BC%80%EB%A1%A0%EC%9D%B8",
+  "options": [
+   "추운 곳",
+   "습한 곳",
+   "더운 사막",
+   "건조한 곳"
+  ],
+  "answerIndex": 1,
+  "id": 246
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "케로로 배에 있는 마크는?",
+  "explanation": "마크 노란 별(케론스타).",
+  "source": "https://namu.wiki/w/%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "노란 별",
+   "빙글빙글",
+   "수리검",
+   "해골"
+  ],
+  "answerIndex": 0,
+  "id": 247
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "도로로의 마크는?",
+  "explanation": "도로로 마크 수리검.",
+  "source": "https://namu.wiki/w/%EB%8F%84%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "별",
+   "해골",
+   "와카바",
+   "수리검"
+  ],
+  "answerIndex": 3,
+  "id": 248
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "쿠루루의 마크는?",
+  "explanation": "마크 빙글빙글.",
+  "source": "https://namu.wiki/w/%EC%BF%A0%EB%A3%A8%EB%A3%A8(%EA%B0%9C%EA%B5%AC%EB%A6%AC%20%EC%A4%91%EC%82%AC%20%EC%BC%80%EB%A1%9C%EB%A1%9C)",
+  "options": [
+   "해골",
+   "빙글빙글(소용돌이)",
+   "수리검",
+   "별"
+  ],
+  "answerIndex": 1,
+  "id": 249
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "타마마의 마크는?",
+  "explanation": "와카바 마크 좌우반전.",
+  "source": "https://namu.wiki/w/%ED%83%80%EB%A7%88%EB%A7%88",
+  "options": [
+   "별",
+   "하트",
+   "초보운전 와카바 마크 좌우반전",
+   "소용돌이"
+  ],
+  "answerIndex": 2,
+  "id": 250
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "가루루의 문양은?",
+  "explanation": "문양 늑대 머리.",
+  "source": "https://namu.wiki/w/%EA%B0%80%EB%A3%A8%EB%A3%A8",
+  "options": [
+   "별",
+   "늑대 머리",
+   "해골",
+   "독수리"
+  ],
+  "answerIndex": 1,
+  "id": 251
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "기로로의 이명은?",
+  "explanation": "'전장의 붉은 악마'.",
+  "source": "https://namu.wiki/w/%EA%B8%B0%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "퍼렁별 최종 방어 라인",
+   "케로몬의 악몽",
+   "전장의 붉은 악마",
+   "옐로 데빌"
+  ],
+  "answerIndex": 2,
+  "id": 252
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "가루루의 별명은?",
+  "explanation": "'케로몬의 악몽'.",
+  "source": "https://namu.wiki/w/%EA%B0%80%EB%A3%A8%EB%A3%A8",
+  "options": [
+   "케로몬의 악몽",
+   "X-1 암살자",
+   "전장의 붉은 악마",
+   "붉은 혜성"
+  ],
+  "answerIndex": 0,
+  "id": 253
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "나츠미의 이명은?",
+  "explanation": "'퍼렁별 최종 방어 라인'.",
+  "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%EB%82%98%EC%B8%A0%EB%AF%B8",
+  "options": [
+   "퍼렁별 최종 방어 라인",
+   "케론 킬러",
+   "강철 소녀",
+   "데빌 레이디"
+  ],
+  "answerIndex": 0,
+  "id": 254
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "도로로의 이명은?",
+  "explanation": "'X-1 흡혈부대 암살자'.",
+  "source": "https://namu.wiki/w/%EB%8F%84%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "케로몬의 악몽",
+   "전장의 붉은 악마",
+   "그림자 닌자",
+   "X-1 흡혈부대 암살자"
+  ],
+  "answerIndex": 3,
+  "id": 255
+ },
+ {
+  "topic": "성우",
+  "difficulty": "medium",
+  "question": "한국판 쿠루루 성우는?",
+  "explanation": "한국 성우 김장.",
+  "source": "https://namu.wiki/w/%EC%BF%A0%EB%A3%A8%EB%A3%A8(%EA%B0%9C%EA%B5%AC%EB%A6%AC%20%EC%A4%91%EC%82%AC%20%EC%BC%80%EB%A1%9C%EB%A1%9C)",
+  "options": [
+   "강수진",
+   "양정화",
+   "시영준",
+   "김장"
+  ],
+  "answerIndex": 3,
+  "id": 256
+ },
+ {
+  "topic": "성우",
+  "difficulty": "medium",
+  "question": "한국판 도로로 성우는?",
+  "explanation": "한국 강수진.",
+  "source": "https://namu.wiki/w/%EB%8F%84%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "김장",
+   "강수진",
+   "신용우",
+   "정승욱"
+  ],
+  "answerIndex": 1,
+  "id": 257
+ },
+ {
+  "topic": "성우",
+  "difficulty": "medium",
+  "question": "한국판 타마마 성우는?",
+  "explanation": "한국 류점희.",
+  "source": "https://namu.wiki/w/%ED%83%80%EB%A7%88%EB%A7%88",
+  "options": [
+   "류점희",
+   "정미숙",
+   "이미자",
+   "이현진"
+  ],
+  "answerIndex": 0,
+  "id": 258
+ },
+ {
+  "topic": "성우",
+  "difficulty": "medium",
+  "question": "투니버스판 강한별(나츠미) 성우는?",
+  "explanation": "투니버스 정미숙, 카툰네트워크 정혜원.",
+  "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%EB%82%98%EC%B8%A0%EB%AF%B8",
+  "options": [
+   "정혜원",
+   "이용신",
+   "이미자",
+   "정미숙"
+  ],
+  "answerIndex": 3,
+  "id": 259
+ },
+ {
+  "topic": "성우",
+  "difficulty": "medium",
+  "question": "투니버스판 강우주(후유키) 성우는?",
+  "explanation": "투니버스 이미자, 카툰네트워크 김율.",
+  "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%ED%9B%84%EC%9C%A0%ED%82%A4",
+  "options": [
+   "류점희",
+   "김율",
+   "이현진",
+   "이미자"
+  ],
+  "answerIndex": 3,
+  "id": 260
+ },
+ {
+  "topic": "성우",
+  "difficulty": "hard",
+  "question": "카툰네트워크판 사빈(사부로) 성우는?",
+  "explanation": "투니버스 신용우, 카툰네트워크 최승훈.",
+  "source": "https://namu.wiki/w/%ED%98%B8%EC%A1%B0%20%EB%AC%B4%EC%B8%A0%EB%AF%B8",
+  "options": [
+   "신용우",
+   "시영준",
+   "최승훈",
+   "김장"
+  ],
+  "answerIndex": 2,
+  "id": 261
+ },
+ {
+  "topic": "성우",
+  "difficulty": "hard",
+  "question": "리메이크판 케로로 일본 성우는?",
+  "explanation": "구판 와타나베 쿠미코, 리메이크 코이치 마코토.",
+  "source": "https://namu.wiki/w/%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "카와카미 토모코",
+   "와타나베 쿠미코",
+   "코이치 마코토",
+   "사이토 치와"
+  ],
+  "answerIndex": 2,
+  "id": 262
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "medium",
+  "question": "케로로의 MBTI는?",
+  "explanation": "케로로 ENTP.",
+  "source": "https://namu.wiki/w/%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "INFP",
+   "ENTP",
+   "ISTJ",
+   "ESTJ"
+  ],
+  "answerIndex": 1,
+  "id": 263
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "medium",
+  "question": "기로로의 MBTI는?",
+  "explanation": "기로로 ESTJ.",
+  "source": "https://namu.wiki/w/%EA%B8%B0%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "ESTJ",
+   "ENTP",
+   "ISTP",
+   "ESFP"
+  ],
+  "answerIndex": 0,
+  "id": 264
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "medium",
+  "question": "타마마의 MBTI는?",
+  "explanation": "타마마 ESFP.",
+  "source": "https://namu.wiki/w/%ED%83%80%EB%A7%88%EB%A7%88",
+  "options": [
+   "ENTP",
+   "INTJ",
+   "ISTJ",
+   "ESFP"
+  ],
+  "answerIndex": 3,
+  "id": 265
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "medium",
+  "question": "쿠루루의 MBTI는?",
+  "explanation": "쿠루루 ISTP.",
+  "source": "https://namu.wiki/w/%EC%BF%A0%EB%A3%A8%EB%A3%A8(%EA%B0%9C%EA%B5%AC%EB%A6%AC%20%EC%A4%91%EC%82%AC%20%EC%BC%80%EB%A1%9C%EB%A1%9C)",
+  "options": [
+   "ESTJ",
+   "ISTP",
+   "ISFJ",
+   "ENFP"
+  ],
+  "answerIndex": 1,
+  "id": 266
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "medium",
+  "question": "도로로의 MBTI는?",
+  "explanation": "도로로 ISTJ.",
+  "source": "https://namu.wiki/w/%EB%8F%84%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "ESFP",
+   "ISTP",
+   "ISTJ",
+   "ENTP"
+  ],
+  "answerIndex": 2,
+  "id": 267
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "한국판 케로로의 말투 어미는?",
+  "explanation": "일본 であります, 한국 ~입니다.",
+  "source": "https://namu.wiki/w/%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "~예용",
+   "~게로",
+   "~입니다",
+   "~롱"
+  ],
+  "answerIndex": 2,
+  "id": 268
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "한국판 타마마의 말버릇은?",
+  "explanation": "말버릇 ~예용.",
+  "source": "https://namu.wiki/w/%ED%83%80%EB%A7%88%EB%A7%88",
+  "options": [
+   "~롱",
+   "~다제",
+   "~입니다",
+   "~예용"
+  ],
+  "answerIndex": 3,
+  "id": 269
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "투니버스판 쿠루루의 어미는?",
+  "explanation": "투니버스 어미 '~롱'.",
+  "source": "https://namu.wiki/w/%EC%BF%A0%EB%A3%A8%EB%A3%A8(%EA%B0%9C%EA%B5%AC%EB%A6%AC%20%EC%A4%91%EC%82%AC%20%EC%BC%80%EB%A1%9C%EB%A1%9C)",
+  "options": [
+   "~입니다",
+   "~예용",
+   "~롱",
+   "~냥"
+  ],
+  "answerIndex": 2,
+  "id": 270
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "타마마가 후유키를 부르는 애칭은?",
+  "explanation": "후유키 '훗키', 나츠미 '낫치', 모모카 '모못치'.",
+  "source": "https://namu.wiki/w/%ED%83%80%EB%A7%88%EB%A7%88",
+  "options": [
+   "우주군",
+   "훗키",
+   "후유땅",
+   "훗치"
+  ],
+  "answerIndex": 1,
+  "id": 271
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "타마마가 나츠미를 부르는 애칭은?",
+  "explanation": "나츠미 '낫치'.",
+  "source": "https://namu.wiki/w/%ED%83%80%EB%A7%88%EB%A7%88",
+  "options": [
+   "나츠땅",
+   "나츠뽀",
+   "한별이",
+   "낫치"
+  ],
+  "answerIndex": 3,
+  "id": 272
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "타마마라는 이름의 유래는?",
+  "explanation": "おたまじゃくし에서.",
+  "source": "https://namu.wiki/w/%ED%83%80%EB%A7%88%EB%A7%88",
+  "options": [
+   "구슬",
+   "달걀",
+   "탬버린",
+   "올챙이(오타마자쿠시)"
+  ],
+  "answerIndex": 3,
+  "id": 273
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "타마마 방귀 구린내 수치는? (평균 9900)",
+  "explanation": "방귀 50000 구린내.",
+  "source": "https://namu.wiki/w/%ED%83%80%EB%A7%88%EB%A7%88",
+  "options": [
+   "9900",
+   "100000",
+   "5000",
+   "50000"
+  ],
+  "answerIndex": 3,
+  "id": 274
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "쿠루루가 쓰고 있는 것은?",
+  "explanation": "뱅뱅이 안경+헤드폰.",
+  "source": "https://namu.wiki/w/%EC%BF%A0%EB%A3%A8%EB%A3%A8(%EA%B0%9C%EA%B5%AC%EB%A6%AC%20%EC%A4%91%EC%82%AC%20%EC%BC%80%EB%A1%9C%EB%A1%9C)",
+  "options": [
+   "뱅뱅이 안경과 헤드폰",
+   "가면과 망토",
+   "고글과 마스크",
+   "선글라스와 모자"
+  ],
+  "answerIndex": 0,
+  "id": 275
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "쿠루루의 혈액형은?",
+  "explanation": "AB형.",
+  "source": "https://namu.wiki/w/%EC%BF%A0%EB%A3%A8%EB%A3%A8(%EA%B0%9C%EA%B5%AC%EB%A6%AC%20%EC%A4%91%EC%82%AC%20%EC%BC%80%EB%A1%9C%EB%A1%9C)",
+  "options": [
+   "AB형",
+   "B형",
+   "O형",
+   "A형"
+  ],
+  "answerIndex": 0,
+  "id": 276
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "기로로의 좌우명은?",
+  "explanation": "좌우명 대함거포주의.",
+  "source": "https://namu.wiki/w/%EA%B8%B0%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "대함거포주의",
+   "즐겁게 살자",
+   "건프라 만세",
+   "평화제일"
+  ],
+  "answerIndex": 0,
+  "id": 277
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "기로로는 무엇이 없으면 전투력이 급감할까요?",
+  "explanation": "벨트가 없으면 전투력 급감.",
+  "source": "https://namu.wiki/w/%EA%B8%B0%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "총",
+   "헬멧",
+   "모자",
+   "벨트"
+  ],
+  "answerIndex": 3,
+  "id": 278
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "기로로의 동물옷은?",
+  "explanation": "우사기로.",
+  "source": "https://namu.wiki/w/%EA%B8%B0%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "개",
+   "학",
+   "고양이",
+   "토끼(우사기로)"
+  ],
+  "answerIndex": 3,
+  "id": 279
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "케로로의 동물옷은?",
+  "explanation": "이누케로.",
+  "source": "https://namu.wiki/w/%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "학",
+   "토끼",
+   "개(이누케로)",
+   "곰"
+  ],
+  "answerIndex": 2,
+  "id": 280
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "쿠루루의 동물옷은?",
+  "explanation": "동물옷 학.",
+  "source": "https://namu.wiki/w/%EC%BF%A0%EB%A3%A8%EB%A3%A8(%EA%B0%9C%EA%B5%AC%EB%A6%AC%20%EC%A4%91%EC%82%AC%20%EC%BC%80%EB%A1%9C%EB%A1%9C)",
+  "options": [
+   "너구리",
+   "개",
+   "토끼",
+   "학"
+  ],
+  "answerIndex": 3,
+  "id": 281
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "애니에서 케로로가 우승한 대회는?",
+  "explanation": "가사 명인, 우주 고구마 찹쌀떡 대회 우승.",
+  "source": "https://namu.wiki/w/%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "우주 고구마 찹쌀떡 대회",
+   "우주 수영대회",
+   "건프라 콘테스트",
+   "케론 사격대회"
+  ],
+  "answerIndex": 0,
+  "id": 282
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "3기 15화에서 케로로가 만든 카레의 향신료 종류 수는?",
+  "explanation": "65,535종 향신료 카레.",
+  "source": "https://namu.wiki/w/%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "100종",
+   "65,535종",
+   "9,999종",
+   "1,000종"
+  ],
+  "answerIndex": 1,
+  "id": 283
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "케로로가 나츠미를 이긴 종목이 아닌 것은?",
+  "explanation": "골프·탁구·수영에서 이겼어요.",
+  "source": "https://namu.wiki/w/%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "탁구",
+   "달리기",
+   "수영",
+   "골프"
+  ],
+  "answerIndex": 1,
+  "id": 284
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "3기 46화에서 기로로가 될 뻔한 것은?",
+  "explanation": "통보가 1개월 전 것이라 무효.",
+  "source": "https://namu.wiki/w/%EA%B8%B0%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "메가톤별 소대장",
+   "가루루 소대원",
+   "우주 경찰",
+   "케론군 대령"
+  ],
+  "answerIndex": 0,
+  "id": 285
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "케로로 소대 중 가장 마지막에 등장한 대원은?",
+  "explanation": "구 애니 13화, 원작 7권.",
+  "source": "https://namu.wiki/w/%EB%8F%84%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "쿠루루",
+   "타마마",
+   "기로로",
+   "도로로"
+  ],
+  "answerIndex": 3,
+  "id": 286
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "원작에서 도로로가 첫 등장한 권은?",
+  "explanation": "원작 7권.",
+  "source": "https://namu.wiki/w/%EB%8F%84%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "10권",
+   "1권",
+   "3권",
+   "7권"
+  ],
+  "answerIndex": 3,
+  "id": 287
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "타마마는 몇 번째로 등장한 케론인?",
+  "explanation": "두 번째 등장 케론인.",
+  "source": "https://namu.wiki/w/%ED%83%80%EB%A7%88%EB%A7%88",
+  "options": [
+   "첫 번째",
+   "세 번째",
+   "두 번째",
+   "네 번째"
+  ],
+  "answerIndex": 2,
+  "id": 288
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "후유키의 생일은?",
+  "explanation": "1992년 3월 28일, 12세.",
+  "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%ED%9B%84%EC%9C%A0%ED%82%A4",
+  "options": [
+   "1993년 3월 21일",
+   "1990년 12월 2일",
+   "1992년 12월 9일",
+   "1992년 3월 28일"
+  ],
+  "answerIndex": 3,
+  "id": 289
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "나츠미의 생일은?",
+  "explanation": "1990년 12월 2일, 14세.",
+  "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%EB%82%98%EC%B8%A0%EB%AF%B8",
+  "options": [
+   "1992년 3월 28일",
+   "1990년 12월 2일",
+   "1991년 7월 7일",
+   "1990년 3월 21일"
+  ],
+  "answerIndex": 1,
+  "id": 290
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "medium",
+  "question": "후유키의 말버릇은?",
+  "explanation": "\"중사! 우린 친구잖아!\"",
+  "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%ED%9B%84%EC%9C%A0%ED%82%A4",
+  "options": [
+   "크크크",
+   "게로게로~",
+   "중사! 우린 친구잖아!",
+   "바보 개구리!"
+  ],
+  "answerIndex": 2,
+  "id": 291
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "운동을 못하는 후유키가 유일하게 잘하는 운동은?",
+  "explanation": "볼링만 잘해요.",
+  "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%ED%9B%84%EC%9C%A0%ED%82%A4",
+  "options": [
+   "축구",
+   "탁구",
+   "볼링",
+   "수영"
+  ],
+  "answerIndex": 2,
+  "id": 292
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "니시자와 바이오가 공인한 후유키의 직함은?",
+  "explanation": "'우주 외교관'.",
+  "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%ED%9B%84%EC%9C%A0%ED%82%A4",
+  "options": [
+   "오컬트 박사",
+   "우주 탐정",
+   "우주 외교관",
+   "케론 대사"
+  ],
+  "answerIndex": 2,
+  "id": 293
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "나츠미가 자신 있는 요리는?",
+  "explanation": "자신 있는 요리 스튜.",
+  "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%EB%82%98%EC%B8%A0%EB%AF%B8",
+  "options": [
+   "스튜",
+   "오므라이스",
+   "카레",
+   "주먹밥"
+  ],
+  "answerIndex": 0,
+  "id": 294
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "나츠미의 헤어스타일은?",
+  "explanation": "트윈테일.",
+  "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%EB%82%98%EC%B8%A0%EB%AF%B8",
+  "options": [
+   "포니테일",
+   "땋은 머리",
+   "트윈테일",
+   "단발"
+  ],
+  "answerIndex": 2,
+  "id": 295
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "나츠미가 싫어하는 것이 아닌 것은?",
+  "explanation": "군고구마는 좋아하는 것이에요.",
+  "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%EB%82%98%EC%B8%A0%EB%AF%B8",
+  "options": [
+   "유령",
+   "군고구마",
+   "케로로",
+   "연체동물"
+  ],
+  "answerIndex": 1,
+  "id": 296
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "모모카의 반은?",
+  "explanation": "킷쇼 학원 중등부 1-B.",
+  "source": "https://namu.wiki/w/%EB%8B%88%EC%8B%9C%EC%9E%90%EC%99%80%20%EB%AA%A8%EB%AA%A8%EC%B9%B4",
+  "options": [
+   "3-C",
+   "2-B",
+   "1-A",
+   "킷쇼 학원 중등부 1-B"
+  ],
+  "answerIndex": 3,
+  "id": 297
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "니시자와 저택 입구에서 건물까지 차로 걸리는 시간은?",
+  "explanation": "차로 15분.",
+  "source": "https://namu.wiki/w/%EB%8B%88%EC%8B%9C%EC%9E%90%EC%99%80%20%EB%AA%A8%EB%AA%A8%EC%B9%B4",
+  "options": [
+   "5분",
+   "1시간",
+   "1분",
+   "15분"
+  ],
+  "answerIndex": 3,
+  "id": 298
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "모모카 이중인격은 누구에게서 유전됐을까요?",
+  "explanation": "엄마에게서 유전.",
+  "source": "https://namu.wiki/w/%EB%8B%88%EC%8B%9C%EC%9E%90%EC%99%80%20%EB%AA%A8%EB%AA%A8%EC%B9%B4",
+  "options": [
+   "폴",
+   "할아버지",
+   "엄마",
+   "아빠"
+  ],
+  "answerIndex": 2,
+  "id": 299
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "medium",
+  "question": "앙골 모아의 나이는?",
+  "explanation": "앙골족 2000살.",
+  "source": "https://namu.wiki/w/%EC%95%99%EA%B3%A8%20%EB%AA%A8%EC%95%84",
+  "options": [
+   "20살",
+   "10500살",
+   "200살",
+   "2000살"
+  ],
+  "answerIndex": 3,
+  "id": 300
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "모아가 좋아하는 것은? (케로로 말고)",
+  "explanation": "좋아하는 것 케로로, 활단층.",
+  "source": "https://namu.wiki/w/%EC%95%99%EA%B3%A8%20%EB%AA%A8%EC%95%84",
+  "options": [
+   "건프라",
+   "활단층",
+   "고구마",
+   "카레"
+  ],
+  "answerIndex": 1,
+  "id": 301
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "medium",
+  "question": "모아의 무기 이름은?",
+  "explanation": "무기 루시퍼 스피어.",
+  "source": "https://namu.wiki/w/%EC%95%99%EA%B3%A8%20%EB%AA%A8%EC%95%84",
+  "options": [
+   "대파",
+   "케론볼",
+   "루시퍼 스피어",
+   "실체화 펜"
+  ],
+  "answerIndex": 2,
+  "id": 302
+ },
+ {
+  "topic": "TMI·비하인드",
+  "difficulty": "hard",
+  "question": "모아가 지구 파괴에 늦은 이유는?",
+  "explanation": "낮잠으로 5년 늦게 깼어요.",
+  "source": "https://namu.wiki/w/%EC%95%99%EA%B3%A8%20%EB%AA%A8%EC%95%84",
+  "options": [
+   "길을 잃어서",
+   "낮잠 때문에 5년 늦게 깸",
+   "케로로가 막아서",
+   "우주선 고장"
+  ],
+  "answerIndex": 1,
+  "id": 303
+ },
+ {
+  "topic": "능력·특징",
+  "difficulty": "hard",
+  "question": "모아가 퍼렁별을 파괴하는 데 걸리는 시간은?",
+  "explanation": "2분 만에 파괴 가능.",
+  "source": "https://namu.wiki/w/%EC%95%99%EA%B3%A8%20%EB%AA%A8%EC%95%84",
+  "options": [
+   "2초",
+   "2일",
+   "2시간",
+   "2분"
+  ],
+  "answerIndex": 3,
+  "id": 304
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "모아가 카피한 아사미의 한국명은?",
+  "explanation": "아사미(다해).",
+  "source": "https://namu.wiki/w/%EC%95%99%EA%B3%A8%20%EB%AA%A8%EC%95%84",
+  "options": [
+   "다해",
+   "나라",
+   "한별",
+   "설화"
+  ],
+  "answerIndex": 0,
+  "id": 305
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "사부로가 쿠루루에게 받은 도구는?",
+  "explanation": "실체화 펜.",
+  "source": "https://namu.wiki/w/%ED%98%B8%EC%A1%B0%20%EB%AC%B4%EC%B8%A0%EB%AF%B8",
+  "options": [
+   "루시퍼 스피어",
+   "실체화 펜",
+   "파워 리미터",
+   "케론볼"
+  ],
+  "answerIndex": 1,
+  "id": 306
+ },
+ {
+  "topic": "캐릭터",
+  "difficulty": "hard",
+  "question": "DJ 623의 라디오 프로그램 이름은?",
+  "explanation": "'오레라디오'.",
+  "source": "https://namu.wiki/w/%ED%98%B8%EC%A1%B0%20%EB%AC%B4%EC%B8%A0%EB%AF%B8",
+  "options": [
+   "퍼렁별 라디오",
+   "케로라디오",
+   "623나이트",
+   "오레라디오"
+  ],
+  "answerIndex": 3,
+  "id": 307
+ },
+ {
+  "topic": "계급·소대",
+  "difficulty": "hard",
+  "question": "가루루 소대의 침략 등급은?",
+  "explanation": "침략등급 A.",
+  "source": "https://namu.wiki/w/%EA%B0%80%EB%A3%A8%EB%A3%A8",
+  "options": [
+   "C",
+   "A",
+   "B",
+   "S"
+  ],
+  "answerIndex": 1,
+  "id": 308
+ },
+ {
+  "topic": "계급·소대",
+  "difficulty": "medium",
+  "question": "가루루의 병과는?",
+  "explanation": "중위, 저격수.",
+  "source": "https://namu.wiki/w/%EA%B0%80%EB%A3%A8%EB%A3%A8",
+  "options": [
+   "공병",
+   "통신병",
+   "저격수",
+   "간호병"
+  ],
+  "answerIndex": 2,
+  "id": 309
+ },
+ {
+  "topic": "계급·소대",
+  "difficulty": "hard",
+  "question": "타마마의 병과는?",
+  "explanation": "이등병, 돌격병.",
+  "source": "https://namu.wiki/w/%ED%83%80%EB%A7%88%EB%A7%88",
+  "options": [
+   "암살병",
+   "저격수",
+   "기동보병",
+   "돌격병"
+  ],
+  "answerIndex": 3,
+  "id": 310
+ },
+ {
+  "topic": "계급·소대",
+  "difficulty": "hard",
+  "question": "기로로의 병과는?",
+  "explanation": "하사(오장), 기동보병.",
+  "source": "https://namu.wiki/w/%EA%B8%B0%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "작전참모",
+   "암살병",
+   "돌격병",
+   "기동보병"
+  ],
+  "answerIndex": 3,
+  "id": 311
+ },
+ {
+  "topic": "계급·소대",
+  "difficulty": "hard",
+  "question": "도로로의 병과는?",
+  "explanation": "병장, 암살병.",
+  "source": "https://namu.wiki/w/%EB%8F%84%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "돌격병",
+   "저격수",
+   "기동보병",
+   "암살병"
+  ],
+  "answerIndex": 3,
+  "id": 312
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "hard",
+  "question": "원작 일본 단행본은 2025년 12월 기준 몇 권?",
+  "explanation": "일본 35권, 한국 30권.",
+  "source": "https://namu.wiki/w/%EA%B0%9C%EA%B5%AC%EB%A6%AC%20%EC%A4%91%EC%82%AC%20%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "35권",
+   "20권",
+   "50권",
+   "30권"
+  ],
+  "answerIndex": 0,
+  "id": 313
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "hard",
+  "question": "한국 정식판 출판사는?",
+  "explanation": "한국 서울미디어코믹스.",
+  "source": "https://namu.wiki/w/%EA%B0%9C%EA%B5%AC%EB%A6%AC%20%EC%A4%91%EC%82%AC%20%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "학산문화사",
+   "소년한국",
+   "대원씨아이",
+   "서울미디어코믹스"
+  ],
+  "answerIndex": 3,
+  "id": 314
+ },
+ {
+  "topic": "작품·방송",
+  "difficulty": "hard",
+  "question": "원작 만화에서 침공 시점은 몇 년?",
+  "explanation": "만화 1998년, 애니 2004년.",
+  "source": "https://namu.wiki/w/%EA%B0%9C%EA%B5%AC%EB%A6%AC%20%EC%A4%91%EC%82%AC%20%EC%BC%80%EB%A1%9C%EB%A1%9C",
+  "options": [
+   "2004년",
+   "2010년",
+   "1999년",
+   "1998년"
+  ],
+  "answerIndex": 3,
+  "id": 315
+ },
+ {
+  "topic": "관계",
+  "difficulty": "medium",
+  "question": "나츠미가 좋아하는 것에 포함된 케론인은?",
+  "explanation": "좋아하는 것: 623, 기로로, 운동, 군고구마.",
+  "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%EB%82%98%EC%B8%A0%EB%AF%B8",
+  "options": [
+   "쿠루루",
+   "기로로",
+   "케로로",
+   "타마마"
+  ],
+  "answerIndex": 1,
+  "id": 316
  }
 ]
