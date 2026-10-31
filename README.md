@@ -5,4 +5,4 @@
 - **연습 모드**: 10문제, 문제마다 정답과 해설
 - **이벤트 모드**: 10문제, 끝날 때까지 정답 비공개, 5개 이상 맞히면 인증코드
 
-플레이: https://nadoha.github.io/Keroro-quiz/
+플레이: https://keroro-quiz.vercel.app/
