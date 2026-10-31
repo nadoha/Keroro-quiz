@@ -378,11 +378,11 @@
   "topic": "능력·특징",
   "difficulty": "hard",
   "question": "타루루의 필살기는?",
-  "explanation": "두 눈에서 발사하는 빔, 타루루 제로사이드EX·GX·DX.",
+  "explanation": "두 눈에서 발사하는 빔, 타루루 제노사이드(EX·GX·DX).",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "질투옥",
-   "타루루 제로사이드",
+   "타루루 제노사이드",
    "타마마 임팩트",
    "아마겟돈"
   ],
@@ -513,11 +513,11 @@
   "topic": "능력·특징",
   "difficulty": "medium",
   "question": "쿠루루 특유의 웃음소리는?",
-  "explanation": "늘 기분 나쁜 웃음 '크크크크'를 내요. (나무위키 표기는 '끄끄끄')",
+  "explanation": "오른손으로 입가를 가리고 '끄끄끄~' 하고 웃어요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "케로케로",
-   "크크크크",
+   "끄끄끄",
    "하하하",
    "호호호"
   ],
@@ -622,7 +622,7 @@
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "유나라",
-   "알리사",
+   "리사",
    "강한별",
    "권설화"
   ],
@@ -759,7 +759,7 @@
    "'죄송해요' 남발",
    "끝에 '케로' 붙이기",
    "끝에 사자성어 붙이기",
-   "'크크크' 웃기"
+   "'끄끄끄' 웃기"
   ],
   "answerIndex": 2,
   "id": 52
@@ -862,7 +862,7 @@
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "유나라",
-   "알리사",
+   "리사",
    "권설화",
    "홍미나"
   ],
@@ -879,7 +879,7 @@
    "강한별",
    "유나라",
    "권설화",
-   "알리사"
+   "리사"
   ],
   "answerIndex": 2,
   "id": 60
@@ -977,7 +977,7 @@
  {
   "topic": "캐릭터",
   "difficulty": "medium",
-  "question": "홍미나(홍미나)의 직업은?",
+  "question": "홍미나(아키)의 직업은?",
   "explanation": "홀로 만화잡지 편집자 일을 해요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
@@ -992,7 +992,7 @@
  {
   "topic": "능력·특징",
   "difficulty": "medium",
-  "question": "홍미나(홍미나)가 평소 타고 다니는 것은?",
+  "question": "홍미나(아키)가 평소 타고 다니는 것은?",
   "explanation": "평소 늘 오토바이를 타고 다녀요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
@@ -1007,7 +1007,7 @@
  {
   "topic": "관계",
   "difficulty": "medium",
-  "question": "케로로가 홍미나(홍미나)를 부르는 호칭은?",
+  "question": "케로로가 홍미나(아키)를 부르는 호칭은?",
   "explanation": "케로로가 부르는 호칭은 마님.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
@@ -1038,13 +1038,13 @@
   "topic": "관계",
   "difficulty": "medium",
   "question": "투니버스판에서 케로로가 강한별(나츠미)을 부르는 호칭은?",
-  "explanation": "한별이아씨(투니버스).",
+  "explanation": "일본판의 '도노(殿)'를 한국판에서는 '한별 아씨', '우주 도령'처럼 성별·지위에 따라 바꿔 불러요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "대장",
    "누님",
    "한별님",
-   "한별이아씨"
+   "한별 아씨"
   ],
   "answerIndex": 3,
   "id": 72
@@ -1098,11 +1098,11 @@
   "topic": "캐릭터",
   "difficulty": "medium",
   "question": "숫자 이름으로 불리는 자칭 우주탐정은?",
-  "explanation": "우주탐정 556는 자칭 우주탐정이에요.",
+  "explanation": "556은 자칭 우주탐정이에요. (투니버스판 본명은 '오오육', 원판 본명 '코고로')",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "623",
-   "우주탐정 556",
+   "556",
    "폴 스미스",
    "쿠루루"
   ],
@@ -1118,7 +1118,7 @@
   "options": [
    "라비",
    "모아",
-   "알리사",
+   "리사",
    "푸루루"
   ],
   "answerIndex": 0,
@@ -1133,7 +1133,7 @@
   "options": [
    "말하자면",
    "죄송해요",
-   "크크크",
+   "끄끄끄",
    "게로"
   ],
   "answerIndex": 1,
@@ -1142,7 +1142,7 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "알리사가 머리에 이고 다니는 어둠의 정령은?",
+  "question": "리사(아리사)가 머리에 이고 다니는 어둠의 정령은?",
   "explanation": "아버지격인 어둠의 정령 네브라.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
@@ -1157,14 +1157,14 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "알리사가 자칭하는 직업은?",
-  "explanation": "'다크존'에서 온 다크 헌터라 자칭해요.",
+  "question": "리사가 자칭하는 직업은?",
+  "explanation": "한국판 회차 제목 '리사의 어둠의 사냥꾼 할로윈 대소동'처럼 '어둠의 사냥꾼'(원판 다크 헌터)이라 자칭해요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "우주탐정",
    "닌자",
    "DJ",
-   "다크 헌터"
+   "어둠의 사냥꾼"
   ],
   "answerIndex": 3,
   "id": 80
@@ -1215,21 +1215,6 @@
   "id": 83
  },
  {
-  "topic": "캐릭터",
-  "difficulty": "hard",
-  "question": "유바우(니시자와 바이오)는 유나라네 가문의 무엇일까요?",
-  "explanation": "백수선이 유나라네 가문의 딸이고 유바우는 데릴사위예요.",
-  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
-  "options": [
-   "양자",
-   "집사 출신",
-   "장남",
-   "데릴사위"
-  ],
-  "answerIndex": 3,
-  "id": 84
- },
- {
   "topic": "능력·특징",
   "difficulty": "hard",
   "question": "권설화(코유키)가 철포환만큼 단단하게 만드는 것은?",
@@ -1262,21 +1247,6 @@
  {
   "topic": "행성·설정",
   "difficulty": "medium",
-  "question": "일본 원작에서 케론인들이 지구를 부르는 이름은? (투니버스판은 '퍼렁별')",
-  "explanation": "They mean to conquer 'Pekopon' (their name for Earth). (한국 투니버스판에서는 '퍼렁별')",
-  "source": "https://en.wikipedia.org/wiki/Sgt._Frog",
-  "options": [
-   "테라",
-   "앙골",
-   "케론",
-   "페코폰"
-  ],
-  "answerIndex": 3,
-  "id": 87
- },
- {
-  "topic": "행성·설정",
-  "difficulty": "medium",
   "question": "케로로가 빼앗긴 궁극의 무기는?",
   "explanation": "불시착 후 케론볼까지 빼앗겼어요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
@@ -1297,7 +1267,7 @@
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "케론볼",
-   "케로메트",
+   "루시퍼 스피어",
    "케론스타",
    "와카바 마크"
   ],
@@ -1423,21 +1393,6 @@
   ],
   "answerIndex": 2,
   "id": 97
- },
- {
-  "topic": "능력·특징",
-  "difficulty": "hard",
-  "question": "쿠루루의 별명은?",
-  "explanation": "nickname of 'Yellow Devil'.",
-  "source": "https://en.wikipedia.org/wiki/List_of_Sgt._Frog_characters",
-  "options": [
-   "블루 닌자",
-   "옐로 데빌",
-   "그린 고스트",
-   "레드 데몬"
-  ],
-  "answerIndex": 1,
-  "id": 98
  },
  {
   "topic": "능력·특징",
@@ -1652,21 +1607,6 @@
  {
   "topic": "작품·방송",
   "difficulty": "medium",
-  "question": "첫 극장판(2006) 제목은?",
-  "explanation": "《개구리 중사 케로로 - 최종병기 키루루입니다》.",
-  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
-  "options": [
-   "용사 케로로",
-   "케론볼의 비밀",
-   "천공대결전",
-   "최종병기 키루루입니다"
-  ],
-  "answerIndex": 3,
-  "id": 113
- },
- {
-  "topic": "작품·방송",
-  "difficulty": "medium",
   "question": "2014년 단편 시리즈 《케로로》의 화수는?",
   "explanation": "2014.3.22~9.6, 23화.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
@@ -1772,7 +1712,7 @@
  {
   "topic": "주제가",
   "difficulty": "medium",
-  "question": "1기 오프닝 곡은?",
+  "question": "1기 오프닝 곡은? (일본판 곡명 번역)",
   "explanation": "1기 오프닝 '케롯! 행진곡'.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
@@ -1787,7 +1727,7 @@
  {
   "topic": "주제가",
   "difficulty": "medium",
-  "question": "1기 첫 엔딩 곡은?",
+  "question": "1기 첫 엔딩 곡은? (일본판 곡명 번역)",
   "explanation": "(1기) '파마머리 중사'(アフロ軍曹), 노래 댄스☆맨.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
@@ -1802,7 +1742,7 @@
  {
   "topic": "주제가",
   "difficulty": "hard",
-  "question": "5기 오프닝 '헬로 다윈!'을 부른 그룹은?",
+  "question": "5기 오프닝 '헬로 다윈!'을 부른 그룹은? (일본판 곡명 번역)",
   "explanation": "노래 잼 프로젝트, 란티스.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
@@ -1817,7 +1757,7 @@
  {
   "topic": "주제가",
   "difficulty": "hard",
-  "question": "7기 오프닝 곡은?",
+  "question": "7기 오프닝 곡은? (일본판 곡명 번역)",
   "explanation": "(7기) 귀찮아 별 행진곡, 노래 케로로 소대.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
@@ -1832,7 +1772,7 @@
  {
   "topic": "주제가",
   "difficulty": "hard",
-  "question": "3기 오프닝 '인생 펴는 길'의 작곡가는?",
+  "question": "3기 오프닝 '인생 펴는 길'의 작곡가는? (일본판 곡명 번역)",
   "explanation": "작곡·편곡 고무로 데쓰야.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
@@ -2385,21 +2325,6 @@
   "id": 175
  },
  {
-  "topic": "TMI·비하인드",
-  "difficulty": "hard",
-  "question": "강우주(후유키) 대신 원래 기획에 있던 캐릭터의 이름은?",
-  "explanation": "1998년 기획 때 강한별의 원래 이름이 야마토 준이기도 해요.",
-  "source": "https://keroro.fandom.com/wiki/Natsumi_Hinata",
-  "options": [
-   "권설화",
-   "하루나",
-   "야마토 준",
-   "다해"
-  ],
-  "answerIndex": 2,
-  "id": 176
- },
- {
   "topic": "능력·특징",
   "difficulty": "medium",
   "question": "애니에서 강우주(후유키)가 케론볼을 보관하는 곳은?",
@@ -2613,13 +2538,13 @@
   "topic": "악당·적",
   "difficulty": "medium",
   "question": "케론인의 숙적으로 불리는 코브라 모습의 종족은?",
-  "explanation": "Viper는 케론인의 궁극의 적이에요.",
+  "explanation": "바이퍼는 케론인의 숙적인 코브라 모습의 종족이에요.",
   "source": "https://keroro.fandom.com/wiki/Viper",
   "options": [
    "앙골족",
-   "시라라",
+   "슈라라 군단",
    "바이퍼",
-   "뇨로로"
+   "네브라"
   ],
   "answerIndex": 2,
   "id": 196
@@ -2703,12 +2628,12 @@
   "topic": "극장판",
   "difficulty": "medium",
   "question": "케론군 최강의 파괴병기로 불리는 극장판 1편 캐릭터는?",
-  "explanation": "Keroro Gunso the Super Movie의 키루루.",
+  "explanation": "첫 극장판(2006)에 등장한 케론군 최종병기 키루루예요. (3기 26화 '키루루는 파멸의 사자 입니다'에도 등장)",
   "source": "https://keroro.fandom.com/wiki/Kiruru",
   "options": [
    "바이퍼",
-   "시라라",
-   "뇨로로",
+   "슈라라",
+   "네브라",
    "키루루"
   ],
   "answerIndex": 3,
@@ -2732,7 +2657,7 @@
  {
   "topic": "극장판",
   "difficulty": "hard",
-  "question": "알리사가 등장한 유일한 극장판은?",
+  "question": "리사가 등장한 유일한 극장판은?",
   "explanation": "Movie 5 only.",
   "source": "https://keroro.fandom.com/wiki/Alisa_Southerncross",
   "options": [
@@ -2747,7 +2672,7 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "알리사의 실제 나이는?",
+  "question": "리사의 실제 나이는?",
   "explanation": "겉모습 12~14세, 실제 300살 이상.",
   "source": "https://keroro.fandom.com/wiki/Alisa_Southerncross",
   "options": [
@@ -2762,7 +2687,7 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "애니에서 알리사의 정체는?",
+  "question": "애니에서 리사의 정체는?",
   "explanation": "species: Doll (anime).",
   "source": "https://keroro.fandom.com/wiki/Alisa_Southerncross",
   "options": [
@@ -2823,11 +2748,11 @@
   "topic": "캐릭터",
   "difficulty": "hard",
   "question": "토로로의 웃음소리는?",
-  "explanation": "pu pu pu.",
+  "explanation": "쿠루루와 비슷한 계통의 '푸푸푸~' 웃음이에요.",
   "source": "https://keroro.fandom.com/wiki/Tororo",
   "options": [
    "가라가라",
-   "크크크",
+   "끄끄끄",
    "하하하",
    "푸푸푸"
   ],
@@ -2868,13 +2793,13 @@
   "topic": "계급·소대",
   "difficulty": "hard",
   "question": "조루루와 도로로가 함께 속했던 암살 부대는?",
-  "explanation": "X1 assassin group.",
+  "explanation": "도로로는 흡혈부대 X-1에 배속되어 그곳에서 조루루를 만났어요.",
   "source": "https://keroro.fandom.com/wiki/Zoruru",
   "options": [
    "가루루 소대",
    "슈라라 군단",
    "케로로 소대",
-   "X1"
+   "흡혈부대 X-1"
   ],
   "answerIndex": 3,
   "id": 224
@@ -2987,21 +2912,6 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "홍미나의 일본 원작 이름 '아키(秋)'의 뜻은?",
-  "explanation": "Aki = Autumn.",
-  "source": "https://keroro.fandom.com/wiki/Aki_Hinata",
-  "options": [
-   "봄",
-   "여름",
-   "겨울",
-   "가을"
-  ],
-  "answerIndex": 3,
-  "id": 233
- },
- {
-  "topic": "캐릭터",
-  "difficulty": "hard",
   "question": "홍미나(아키)가 편집하는 잡지는?",
   "explanation": "Editor of Shonen Alpha.",
   "source": "https://keroro.fandom.com/wiki/Aki_Hinata",
@@ -3013,21 +2923,6 @@
   ],
   "answerIndex": 1,
   "id": 234
- },
- {
-  "topic": "캐릭터",
-  "difficulty": "hard",
-  "question": "원작 설정상 폴 스미스가 참전한 실제 전투는?",
-  "explanation": "Battle of Jangil Gol(1939).",
-  "source": "https://keroro.fandom.com/wiki/Paul_Moriyama",
-  "options": [
-   "이오지마",
-   "진주만",
-   "미드웨이 해전",
-   "할힌골(노몬한) 전투"
-  ],
-  "answerIndex": 3,
-  "id": 235
  },
  {
   "topic": "관계",
@@ -3279,7 +3174,7 @@
    "퍼렁별 최종 방어 라인",
    "케로몬의 악몽",
    "전장의 붉은 악마",
-   "옐로 데빌"
+   "X-1 흡혈부대 암살자"
   ],
   "answerIndex": 2,
   "id": 252
@@ -3292,9 +3187,9 @@
   "source": "https://namu.wiki/w/%EA%B0%80%EB%A3%A8%EB%A3%A8",
   "options": [
    "케로몬의 악몽",
-   "X-1 암살자",
+   "X-1 흡혈부대 암살자",
    "전장의 붉은 악마",
-   "붉은 혜성"
+   "퍼렁별 최종 방어 라인"
   ],
   "answerIndex": 0,
   "id": 253
@@ -3647,14 +3542,14 @@
  {
   "topic": "능력·특징",
   "difficulty": "hard",
-  "question": "기로로의 동물옷은?",
-  "explanation": "우사기로.",
+  "question": "케로로 소대가 동물 옷을 입을 때, 기로로가 입는 옷은?",
+  "explanation": "기로로는 토끼 옷을 입어요. (일본판 별칭 '우사기로')",
   "source": "https://namu.wiki/w/%EA%B8%B0%EB%A1%9C%EB%A1%9C",
   "options": [
    "개",
    "학",
    "고양이",
-   "토끼(우사기로)"
+   "토끼"
   ],
   "answerIndex": 3,
   "id": 279
@@ -3662,14 +3557,14 @@
  {
   "topic": "능력·특징",
   "difficulty": "hard",
-  "question": "케로로의 동물옷은?",
-  "explanation": "이누케로.",
+  "question": "케로로 소대가 동물 옷을 입을 때, 케로로가 입는 옷은?",
+  "explanation": "케로로는 귀가 처진 개 옷을 입어요. (일본판 별칭 '이누케로')",
   "source": "https://namu.wiki/w/%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "학",
    "토끼",
-   "개(이누케로)",
-   "곰"
+   "귀가 처진 개",
+   "점박이 고양이"
   ],
   "answerIndex": 2,
   "id": 280
@@ -3677,8 +3572,8 @@
  {
   "topic": "능력·특징",
   "difficulty": "hard",
-  "question": "쿠루루의 동물옷은?",
-  "explanation": "동물옷 학.",
+  "question": "케로로 소대가 동물 옷을 입을 때, 쿠루루가 입는 옷은?",
+  "explanation": "쿠루루는 학 옷을 입어요. 머리 위로 학의 목이 솟아 있어요.",
   "source": "https://namu.wiki/w/%EC%BF%A0%EB%A3%A8%EB%A3%A8(%EA%B0%9C%EA%B5%AC%EB%A6%AC%20%EC%A4%91%EC%82%AC%20%EC%BC%80%EB%A1%9C%EB%A1%9C)",
   "options": [
    "너구리",
@@ -3831,7 +3726,7 @@
   "explanation": "\"중사! 우린 친구잖아!\"",
   "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%ED%9B%84%EC%9C%A0%ED%82%A4",
   "options": [
-   "크크크",
+   "끄끄끄",
    "게로게로~",
    "중사! 우린 친구잖아!",
    "바보 개구리!"
@@ -4068,13 +3963,13 @@
   "topic": "캐릭터",
   "difficulty": "hard",
   "question": "DJ 623의 라디오 프로그램 이름은?",
-  "explanation": "'오레라디오'.",
+  "explanation": "투니버스판 이름은 '623의 마이 라디오'(원판 オレラジオ/오레 라디오). 회차 제목 '623의 MY 라디오에 나올래? 입니다'(2기 28-A).",
   "source": "https://namu.wiki/w/%ED%98%B8%EC%A1%B0%20%EB%AC%B4%EC%B8%A0%EB%AF%B8",
   "options": [
    "퍼렁별 라디오",
    "케로라디오",
    "623나이트",
-   "오레라디오"
+   "623의 마이 라디오"
   ],
   "answerIndex": 3,
   "id": 307
