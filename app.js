@@ -39,7 +39,7 @@ async function hash(s){if(crypto.subtle){const b=await crypto.subtle.digest("SHA
 function review(){return qs.map((q,k)=>`<div class="rv">${picks[k]===q.answerIndex?"⭕":"❌"} ${esc(q.question)}<br>정답: <b>${esc(q.options[q.answerIndex])}</b> — ${esc(q.explanation)} <a href="${esc(q.source)}">출처</a></div>`).join("")}
 async function copy(t){try{await navigator.clipboard.writeText(t);toast("복사했어요! 붙여넣기 해주세요")}catch(e){const a=document.createElement("textarea");a.value=t;document.body.appendChild(a);a.select();try{document.execCommand("copy");toast("복사했어요!")}catch(_){prompt("복사해 주세요",t)}a.remove()}}
 function shareText(extra){return `🐸 케로로 퀴즈 ${score}/10 맞혔다 게로!${extra||""}\n너도 도전해봐 👉 ${URL0}`}
-function result(){if(eventBlocked())return;$("#pfill").style.width="100%";show("result");scrollTo(0,0);const pass=score>=5;const R=$("#result");
+function result(){if(eventBlocked())return;kqStat("p");$("#pfill").style.width="100%";show("result");scrollTo(0,0);const pass=score>=5;const R=$("#result");
  const msg=scoreComment(score,qs.length);
  let h=`<div class="big">${score} / 10</div><p class="center">${msg}</p>`;
  if(mode==="event"){h+=pass?`<div class="cert"><p class="center"><b>🎉 합격! 이벤트 응모 자격 획득</b></p><input id="nick" maxlength="40" placeholder="닉네임 또는 인스타 @아이디"><button class="btn alt" id="mk">인증코드 받기</button><div id="certout"></div></div>`:`<p class="center">5개 이상 맞혀야 응모할 수 있어요. 다시 도전!</p>`}
@@ -57,3 +57,6 @@ function result(){if(eventBlocked())return;$("#pfill").style.width="100%";show("
   $("#certout").innerHTML=`<div class="code">${code.slice(0,4)}-${code.slice(4)}</div><p class="center">👤 <b>${esc(n)}</b> · ${score}/10 · ${esc(kst)}</p><p class="hint">📸 이 화면을 캡처해서 주최자 DM으로 보내주세요!</p><button class="btn ghost" id="cc">인증 내용 복사</button>`;
   $("#nick").disabled=true;$("#mk").remove();$("#cc").onclick=()=>copy(`[케로로 퀴즈 이벤트 인증]\n닉네임: ${n}\n점수: ${score}/10\n시각: ${kst}\n코드: ${code.slice(0,4)}-${code.slice(4)}\n(검증값: ${tss})`)}}
 })();
+
+function kqStat(e){try{fetch("/api/stats",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({e}),keepalive:true}).catch(()=>{})}catch(_){}}
+(function(){try{const d=new Date(Date.now()+324e5).toISOString().slice(0,10);if(localStorage.getItem("kq_v")!==d){localStorage.setItem("kq_v",d);kqStat("v")}}catch(_){}})();
