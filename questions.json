@@ -1606,36 +1606,6 @@
  },
  {
   "topic": "작품·방송",
-  "difficulty": "medium",
-  "question": "2014년 단편 시리즈 《케로로》의 화수는?",
-  "explanation": "2014.3.22~9.6, 23화.",
-  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
-  "options": [
-   "358화",
-   "51화",
-   "23화",
-   "12화"
-  ],
-  "answerIndex": 2,
-  "id": 114
- },
- {
-  "topic": "작품·방송",
-  "difficulty": "medium",
-  "question": "2026년 10월부터 방영 예정인 신작 제목은?",
-  "explanation": "종영 13년 만의 신작 《개구리 중사 케로로☆》.",
-  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
-  "options": [
-   "케로로 2026",
-   "케로로 리턴즈",
-   "개구리 중사 케로로☆",
-   "슈퍼 케로로"
-  ],
-  "answerIndex": 2,
-  "id": 115
- },
- {
-  "topic": "작품·방송",
   "difficulty": "hard",
   "question": "2008년 5월 구름인터렉티브가 서비스한 3D 대전액션게임은?",
   "explanation": "《개구리 중사 케로로 파이터》.",
@@ -2655,21 +2625,6 @@
   "id": 212
  },
  {
-  "topic": "극장판",
-  "difficulty": "hard",
-  "question": "리사가 등장한 유일한 극장판은?",
-  "explanation": "Movie 5 only.",
-  "source": "https://keroro.fandom.com/wiki/Alisa_Southerncross",
-  "options": [
-   "극장판 1편",
-   "극장판 5편",
-   "극장판 3편",
-   "극장판 2편"
-  ],
-  "answerIndex": 1,
-  "id": 213
- },
- {
   "topic": "캐릭터",
   "difficulty": "hard",
   "question": "리사의 실제 나이는?",
@@ -2848,21 +2803,6 @@
   ],
   "answerIndex": 1,
   "id": 227
- },
- {
-  "topic": "TMI·비하인드",
-  "difficulty": "hard",
-  "question": "권설화(코유키)가 330화에서 카레에 넣은 것은?",
-  "explanation": "slugs and newts.",
-  "source": "https://keroro.fandom.com/wiki/Koyuki_Azumaya",
-  "options": [
-   "민달팽이와 도롱뇽",
-   "고구마",
-   "초콜릿",
-   "낫토"
-  ],
-  "answerIndex": 0,
-  "id": 228
  },
  {
   "topic": "TMI·비하인드",
@@ -3542,29 +3482,29 @@
  {
   "topic": "능력·특징",
   "difficulty": "hard",
-  "question": "케로로 소대가 동물 옷을 입을 때, 기로로가 입는 옷은?",
-  "explanation": "기로로는 토끼 옷을 입어요. (일본판 별칭 '우사기로')",
+  "question": "케로로 소대가 동물 옷을 입었을 때, 토끼 옷을 입은 기로로를 부르는 별칭은?",
+  "explanation": "토끼 옷을 입은 기로로를 '토끼 기로로'(일본판 우사기로/ウサギロ)라고 불러요.",
   "source": "https://namu.wiki/w/%EA%B8%B0%EB%A1%9C%EB%A1%9C",
   "options": [
-   "개",
-   "학",
-   "고양이",
-   "토끼"
+   "강아지 케로로",
+   "토끼 기로로",
+   "학 쿠루루",
+   "반달곰 도로로"
   ],
-  "answerIndex": 3,
+  "answerIndex": 1,
   "id": 279
  },
  {
   "topic": "능력·특징",
   "difficulty": "hard",
-  "question": "케로로 소대가 동물 옷을 입을 때, 케로로가 입는 옷은?",
-  "explanation": "케로로는 귀가 처진 개 옷을 입어요. (일본판 별칭 '이누케로')",
+  "question": "케로로 소대가 동물 옷을 입었을 때, 귀가 처진 강아지 옷을 입은 케로로를 부르는 별칭은?",
+  "explanation": "귀가 처진 강아지 옷을 입은 케로로를 '강아지 케로로'(일본판 이누케로/イヌケロ)라고 불러요.",
   "source": "https://namu.wiki/w/%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
-   "학",
-   "토끼",
-   "귀가 처진 개",
-   "점박이 고양이"
+   "토끼 기로로",
+   "고양이 타마마",
+   "강아지 케로로",
+   "학 쿠루루"
   ],
   "answerIndex": 2,
   "id": 280
