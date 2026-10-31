@@ -23,3 +23,8 @@ input{width:100%;font-size:17px;padding:13px;border-radius:14px;border:2px solid
 
 .cover{display:block;width:100%;max-width:260px;margin:4px auto 0}
 .hero{display:block;width:100%;max-width:260px;height:auto;margin:0 auto;filter:drop-shadow(0 4px 6px #1b5e2033);animation:bob 2.6s ease-in-out infinite}@keyframes bob{50%{transform:translateY(-6px)}}@media (prefers-reduced-motion:reduce){.hero{animation:none}}
+
+.lbwrap{margin:18px 0 6px;padding:12px;border-radius:18px;background:#f1f8e9;border:2px solid #c5e1a5}.lbwrap h3,.reg h3{margin:0 0 6px;text-align:center;font-size:17px;color:#1b5e20}
+.lb{list-style:none;margin:0;padding:0}.lb li{display:grid;grid-template-columns:30px 1fr auto auto;gap:6px;align-items:center;padding:7px 4px;border-bottom:1px dashed #c5e1a5;font-size:14px}.lb li:last-child{border-bottom:0}
+.lb .rk{text-align:center;font-weight:800}.lb .nm{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0}.lb .sc{font-weight:800;color:#2e7d32}.lb .tm{font-size:12px;color:#5d7a5d;min-width:58px;text-align:right}.lb li.me{background:#fff8d6;border-radius:10px}
+.reg{border:3px dashed #3fa34d;border-radius:18px;padding:12px;background:#f9fff4;margin:12px 0}.reg #myboard{margin-top:8px}.rankmsg{font-size:16px}

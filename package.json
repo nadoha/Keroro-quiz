@@ -1,0 +1,6 @@
+{
+  "name": "keroro-quiz",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "dependencies": { "@vercel/blob": "^2.8.2" }
+}
