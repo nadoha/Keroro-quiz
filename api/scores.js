@@ -94,7 +94,25 @@ module.exports = async (req, res) => {
       });
       return res.status(out.deleted ? 200 : 404).json(out);
     }
-    res.setHeader("Allow", "GET, POST, DELETE");
+    if (req.method === "PATCH") {
+      const b = body(req);
+      const admin = process.env.LEADERBOARD_ADMIN_KEY;
+      const ak = Buffer.from(String(b.adminKey || "")), ad = Buffer.from(String(admin || ""));
+      const isAdmin = !!(admin && ak.length === ad.length && crypto.timingSafeEqual(ak, ad));
+      if (!isAdmin) return res.status(403).json({ error: "forbidden" });
+      if (!b.id) return res.status(400).json({ error: "bad request" });
+      const nk = cleanNick(b.n);
+      if (nk.err) return res.status(400).json({ error: nk.err });
+      const out = await mutate(data => {
+        const e = data.scores.find(x => x.id === String(b.id));
+        if (!e) return { noWrite: true, updated: false };
+        e.n = nk.n;
+        return { updated: true, entry: pub(e) };
+      });
+      res.setHeader("Cache-Control", "no-store");
+      return res.status(out.updated ? 200 : 404).json(out);
+    }
+    res.setHeader("Allow", "GET, POST, DELETE, PATCH");
     return res.status(405).json({ error: "method not allowed" });
   } catch (e) {
     console.error(e);
