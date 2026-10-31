@@ -15,7 +15,9 @@ if(!EVENT_OPEN&&eventFromUrl())history.replaceState(null,"",URL0);
 window.addEventListener("hashchange",()=>{if(!EVENT_OPEN&&eventFromUrl())denyEvent()});
 fetch("questions.json",{cache:"no-cache"}).then(r=>r.json()).then(d=>ALL=d).catch(()=>alert("문제를 불러오지 못했어요. 새로고침 해주세요."));
 function pick10(){const by={easy:[],medium:[],hard:[]};ALL.forEach(q=>by[q.difficulty].push(q));const sh=a=>a.map(v=>[Math.random(),v]).sort((a,b)=>a[0]-b[0]).map(v=>v[1]);
- const out=[...sh(by.easy).slice(0,3),...sh(by.medium).slice(0,4),...sh(by.hard).slice(0,3)];return out}
+ const seen=new Set(),take=(a,n)=>{const r=[];for(const q of sh(a)){const key=q.id+"|"+q.question;if(seen.has(key))continue;seen.add(key);r.push(q);if(r.length===n)break}return r};
+ const out=[...take(by.easy,3),...take(by.medium,4),...take(by.hard,3)];
+ return out.map(q=>{const order=sh(q.options.map((_,k)=>k));return {...q,options:order.map(k=>q.options[k]),answerIndex:order.indexOf(q.answerIndex)}})}
 document.querySelectorAll("[data-mode]").forEach(b=>b.onclick=()=>{const next=b.dataset.mode;if(next==="event"&&!EVENT_OPEN)return denyEvent();if(!ALL.length)return toast("문제 불러오는 중…");mode=next;if(eventBlocked())return;qs=pick10();i=0;score=0;picks=[];show("quiz");render();scrollTo(0,0)});
 function render(){if(eventBlocked())return;const q=qs[i];locked=false;$("#prog").textContent=`${i+1} / ${qs.length}`;$("#tag").textContent=`${mode==="event"?"🎁 이벤트":"케로로 능력고사"} · ${DL[q.difficulty]} · ${q.topic}`;
  $("#pfill").style.width=(i/qs.length*100)+"%";$("#qtext").textContent=q.question;$("#fb").classList.add("hidden");$("#next").classList.add("hidden");

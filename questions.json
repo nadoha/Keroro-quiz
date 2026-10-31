@@ -573,7 +573,7 @@
   "topic": "캐릭터",
   "difficulty": "medium",
   "question": "도로로의 원래 이름은?",
-  "explanation": "코유키를 만난 뒤 제로로에서 도로로로 개명했어요.",
+  "explanation": "권설화를 만난 뒤 제로로에서 도로로로 개명했어요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "코로로",
@@ -583,21 +583,6 @@
   ],
   "answerIndex": 1,
   "id": 39
- },
- {
-  "topic": "캐릭터",
-  "difficulty": "hard",
-  "question": "도로로가 평소 쓰는 1인칭은?",
-  "explanation": "에도시대 사무라이 말투로 1인칭은 셋샤.",
-  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
-  "options": [
-   "보쿠",
-   "와타시",
-   "셋샤(拙者)",
-   "오레"
-  ],
-  "answerIndex": 2,
-  "id": 40
  },
  {
   "topic": "캐릭터",
@@ -633,13 +618,13 @@
   "topic": "관계",
   "difficulty": "easy",
   "question": "도로로를 구출해 함께 사는 닌자 소녀는?",
-  "explanation": "닌자 마을에서 온 코유키가 도로로와 함께 살아요.",
+  "explanation": "닌자 마을에서 온 권설화가 도로로와 함께 살아요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
-   "모모카(유나라)",
-   "아리사(리사)",
-   "나츠미(강한별)",
-   "코유키(권설화)"
+   "유나라",
+   "알리사",
+   "강한별",
+   "권설화"
   ],
   "answerIndex": 3,
   "id": 43
@@ -648,12 +633,12 @@
   "topic": "관계",
   "difficulty": "easy",
   "question": "기로로가 반해버린 인물은?",
-  "explanation": "대파 하나로 함정을 다 피한 나츠미에게 반했어요.",
+  "explanation": "대파 하나로 함정을 다 피한 강한별에게 반했어요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
-   "코유키(권설화)",
+   "권설화",
    "푸루루",
-   "나츠미(강한별)",
+   "강한별",
    "모아"
   ],
   "answerIndex": 2,
@@ -662,7 +647,7 @@
  {
   "topic": "관계",
   "difficulty": "medium",
-  "question": "기로로가 나츠미의 함정을 피할 때 나츠미가 든 물건은?",
+  "question": "기로로가 강한별(나츠미)의 함정을 피할 때 강한별이 든 물건은?",
   "explanation": "대파 하나로 함정을 다 피해버렸어요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
@@ -678,13 +663,13 @@
   "topic": "관계",
   "difficulty": "medium",
   "question": "쿠루루와 뜻이 통하는 친구는?",
-  "explanation": "사부로와는 뜻이 통하는 친구예요.",
+  "explanation": "사빈과는 뜻이 통하는 친구예요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
-   "폴",
-   "556",
-   "사부로(사빈)",
-   "후유키(강우주)"
+   "폴 스미스",
+   "우주탐정 556",
+   "사빈",
+   "강우주"
   ],
   "answerIndex": 2,
   "id": 46
@@ -699,7 +684,7 @@
    "앙골 모아",
    "라비",
    "기로로",
-   "나츠미"
+   "강한별"
   ],
   "answerIndex": 0,
   "id": 47
@@ -713,8 +698,8 @@
   "options": [
    "앙골 모아",
    "푸루루",
-   "나츠미",
-   "코유키"
+   "강한별",
+   "권설화"
   ],
   "answerIndex": 0,
   "id": 48
@@ -798,13 +783,13 @@
   "topic": "캐릭터",
   "difficulty": "hard",
   "question": "앙골 모아가 카피한 여고생의 이름은?",
-  "explanation": "아사미(다해)라는 여고생 모습으로 다녀요.",
+  "explanation": "다해(아사미)라는 여고생 모습을 카피해서 다녀요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
-   "나츠미",
-   "코유키",
-   "모모카",
-   "아사미(다해)"
+   "강한별",
+   "권설화",
+   "유나라",
+   "다해"
   ],
   "answerIndex": 3,
   "id": 54
@@ -827,8 +812,8 @@
  {
   "topic": "캐릭터",
   "difficulty": "easy",
-  "question": "히나타 나츠미의 한국 더빙 이름은?",
-  "explanation": "히나타 나츠미 = 강한별.",
+  "question": "일본 원작 '히나타 나츠미'의 투니버스 더빙 이름은?",
+  "explanation": "히나타 나츠미 = 강한별(투니버스).",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "강한별",
@@ -842,8 +827,8 @@
  {
   "topic": "캐릭터",
   "difficulty": "easy",
-  "question": "히나타 후유키의 한국 더빙 이름은?",
-  "explanation": "히나타 후유키 = 강우주.",
+  "question": "일본 원작 '히나타 후유키'의 투니버스 더빙 이름은?",
+  "explanation": "히나타 후유키 = 강우주(투니버스).",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "강우주",
@@ -857,8 +842,8 @@
  {
   "topic": "캐릭터",
   "difficulty": "medium",
-  "question": "히나타 아키(엄마)의 한국 더빙 이름은?",
-  "explanation": "히나타 아키 = 홍미나.",
+  "question": "일본 원작 '히나타 아키'(엄마)의 투니버스 더빙 이름은?",
+  "explanation": "히나타 아키 = 홍미나(투니버스).",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "강한별",
@@ -872,12 +857,12 @@
  {
   "topic": "캐릭터",
   "difficulty": "easy",
-  "question": "니시자와 모모카의 한국 더빙 이름은?",
-  "explanation": "니시자와 모모카 = 유나라.",
+  "question": "일본 원작 '니시자와 모모카'의 투니버스 더빙 이름은?",
+  "explanation": "니시자와 모모카 = 유나라(투니버스).",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "유나라",
-   "리사",
+   "알리사",
    "권설화",
    "홍미나"
   ],
@@ -887,14 +872,14 @@
  {
   "topic": "캐릭터",
   "difficulty": "medium",
-  "question": "아즈마야 코유키의 한국 더빙 이름은?",
-  "explanation": "코유키 = 권설화.",
+  "question": "일본 원작 '아즈마야 코유키'의 투니버스 더빙 이름은?",
+  "explanation": "아즈마야 코유키 = 권설화(투니버스).",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "강한별",
    "유나라",
    "권설화",
-   "리사"
+   "알리사"
   ],
   "answerIndex": 2,
   "id": 60
@@ -902,11 +887,11 @@
  {
   "topic": "캐릭터",
   "difficulty": "medium",
-  "question": "사부로의 한국 더빙 이름은?",
-  "explanation": "사부로 = 사빈.",
+  "question": "일본 원작 '호조 무츠미(사부로)'의 투니버스 더빙 이름은?",
+  "explanation": "호조 무츠미(구작 애니 사부로) = 사빈(투니버스).",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
-   "폴",
+   "폴 스미스",
    "바우",
    "사빈",
    "우주"
@@ -917,8 +902,8 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "니시자와 바이오의 한국 더빙 이름은?",
-  "explanation": "니시자와 바이오 = 유바우.",
+  "question": "일본 원작 '니시자와 바이오'(유나라 아빠)의 투니버스 더빙 이름은?",
+  "explanation": "니시자와 바이오 = 유바우(투니버스).",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "폴 스미스",
@@ -932,8 +917,8 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "니시자와 오우카(모모카 엄마)의 한국 더빙 이름은?",
-  "explanation": "니시자와 오우카 = 백수선.",
+  "question": "일본 원작 '니시자와 오오카'(유나라 엄마)의 투니버스 더빙 이름은?",
+  "explanation": "니시자와 오오카 = 백수선.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "유나라",
@@ -947,8 +932,8 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "집사 폴 모리야마의 한국 이름은?",
-  "explanation": "폴 모리야마(한국명: 폴 스미스).",
+  "question": "일본 원작 집사 '폴 모리야마'의 투니버스 더빙 이름은?",
+  "explanation": "폴 모리야마 = 폴 스미스(투니버스).",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "폴 스미스",
@@ -961,24 +946,9 @@
  },
  {
   "topic": "캐릭터",
-  "difficulty": "medium",
-  "question": "아리사 서전크로스의 한국 더빙 이름은?",
-  "explanation": "아리사 = 리사.",
-  "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
-  "options": [
-   "다해",
-   "모아",
-   "리사",
-   "라비"
-  ],
-  "answerIndex": 2,
-  "id": 65
- },
- {
-  "topic": "캐릭터",
   "difficulty": "easy",
-  "question": "나츠미는 중학교 몇 학년?",
-  "explanation": "나츠미는 중학교 2학년.",
+  "question": "강한별(나츠미)은 중학교 몇 학년?",
+  "explanation": "강한별은 중학교 2학년.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "2학년",
@@ -992,8 +962,8 @@
  {
   "topic": "캐릭터",
   "difficulty": "easy",
-  "question": "후유키는 중학교 몇 학년?",
-  "explanation": "후유키는 중학교 1학년.",
+  "question": "강우주(후유키)는 중학교 몇 학년?",
+  "explanation": "강우주는 중학교 1학년.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "초6",
@@ -1007,7 +977,7 @@
  {
   "topic": "캐릭터",
   "difficulty": "medium",
-  "question": "히나타 아키의 직업은?",
+  "question": "홍미나(홍미나)의 직업은?",
   "explanation": "홀로 만화잡지 편집자 일을 해요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
@@ -1022,7 +992,7 @@
  {
   "topic": "능력·특징",
   "difficulty": "medium",
-  "question": "히나타 아키가 평소 타고 다니는 것은?",
+  "question": "홍미나(홍미나)가 평소 타고 다니는 것은?",
   "explanation": "평소 늘 오토바이를 타고 다녀요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
@@ -1037,7 +1007,7 @@
  {
   "topic": "관계",
   "difficulty": "medium",
-  "question": "케로로가 히나타 아키를 부르는 호칭은?",
+  "question": "케로로가 홍미나(홍미나)를 부르는 호칭은?",
   "explanation": "케로로가 부르는 호칭은 마님.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
@@ -1067,7 +1037,7 @@
  {
   "topic": "관계",
   "difficulty": "medium",
-  "question": "투니버스판에서 케로로가 나츠미를 부르는 호칭은?",
+  "question": "투니버스판에서 케로로가 강한별(나츠미)을 부르는 호칭은?",
   "explanation": "한별이아씨(투니버스).",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
@@ -1082,7 +1052,7 @@
  {
   "topic": "관계",
   "difficulty": "medium",
-  "question": "투니버스판에서 케로로가 후유키를 부르는 호칭은?",
+  "question": "투니버스판에서 케로로가 강우주(후유키)를 부르는 호칭은?",
   "explanation": "그를 '우주 도령'(투니버스)이라 불러요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
@@ -1097,14 +1067,14 @@
  {
   "topic": "관계",
   "difficulty": "easy",
-  "question": "나츠미가 짝사랑하는 학교 선배는?",
+  "question": "강한별(나츠미)이 짝사랑하는 학교 선배는?",
   "explanation": "같은 학교 선배 사빈을 짝사랑해요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
-   "폴",
-   "사부로(사빈)",
+   "폴 스미스",
+   "사빈",
    "가루루",
-   "556"
+   "우주탐정 556"
   ],
   "answerIndex": 1,
   "id": 74
@@ -1112,13 +1082,13 @@
  {
   "topic": "캐릭터",
   "difficulty": "medium",
-  "question": "사부로의 비밀 정체인 DJ 이름은?",
-  "explanation": "사부로 = 유명 DJ 623. 나츠미는 애니에서 이를 몰라요.",
+  "question": "사빈(사부로)의 비밀 정체인 DJ 이름은?",
+  "explanation": "사빈 = 유명 DJ 623. 강한별은 애니에서 이를 몰라요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "777",
    "623",
-   "556",
+   "우주탐정 556",
    "DJ 케로"
   ],
   "answerIndex": 1,
@@ -1127,13 +1097,13 @@
  {
   "topic": "캐릭터",
   "difficulty": "medium",
-  "question": "숫자로도 불리는 자칭 우주탐정은?",
-  "explanation": "코고로(556)는 자칭 우주탐정.",
+  "question": "숫자 이름으로 불리는 자칭 우주탐정은?",
+  "explanation": "우주탐정 556는 자칭 우주탐정이에요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "623",
-   "코고로(556)",
-   "폴",
+   "우주탐정 556",
+   "폴 스미스",
    "쿠루루"
   ],
   "answerIndex": 1,
@@ -1142,13 +1112,13 @@
  {
   "topic": "관계",
   "difficulty": "medium",
-  "question": "코고로(556)의 동생이자 조수는?",
+  "question": "우주탐정 556의 동생이자 조수는?",
   "explanation": "동생 라비가 조수예요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "라비",
    "모아",
-   "리사",
+   "알리사",
    "푸루루"
   ],
   "answerIndex": 0,
@@ -1172,7 +1142,7 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "아리사가 머리에 이고 다니는 어둠의 정령은?",
+  "question": "알리사가 머리에 이고 다니는 어둠의 정령은?",
   "explanation": "아버지격인 어둠의 정령 네브라.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
@@ -1187,7 +1157,7 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "아리사가 자칭하는 직업은?",
+  "question": "알리사가 자칭하는 직업은?",
   "explanation": "'다크존'에서 온 다크 헌터라 자칭해요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
@@ -1202,13 +1172,13 @@
  {
   "topic": "관계",
   "difficulty": "easy",
-  "question": "모모카가 좋아하는 사람은?",
-  "explanation": "평범한 여자애로 대해준 후유키에게 반했어요.",
+  "question": "유나라(모모카)가 좋아하는 사람은?",
+  "explanation": "평범한 여자애로 대해준 강우주에게 반했어요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
-   "폴",
-   "후유키(강우주)",
-   "사부로",
+   "폴 스미스",
+   "강우주",
+   "사빈",
    "케로로"
   ],
   "answerIndex": 1,
@@ -1217,8 +1187,8 @@
  {
   "topic": "캐릭터",
   "difficulty": "medium",
-  "question": "니시자와 바이오가 따로 지내는 고성은 어느 나라에?",
-  "explanation": "스코틀랜드의 고성에서 지내요.",
+  "question": "유바우(니시자와 바이오)가 따로 지내는 고성은 어느 나라에?",
+  "explanation": "유바우는 스코틀랜드의 고성에서 지내요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "스코틀랜드",
@@ -1232,8 +1202,8 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "폴이 니시자와 바이오에게 충성을 맹세한 계기는?",
-  "explanation": "격투대회에서 바이오에게 패배한 뒤 충성을 맹세했어요.",
+  "question": "폴 스미스가 유바우(니시자와 바이오)에게 충성을 맹세한 계기는?",
+  "explanation": "격투대회에서 유바우에게 패배한 뒤 충성을 맹세했어요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "격투대회에서 패배",
@@ -1247,8 +1217,8 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "니시자와 바이오는 니시자와 가문의 무엇일까요?",
-  "explanation": "오우카가 니시자와 가문의 딸이고 바이오는 데릴사위예요.",
+  "question": "유바우(니시자와 바이오)는 유나라네 가문의 무엇일까요?",
+  "explanation": "백수선이 유나라네 가문의 딸이고 유바우는 데릴사위예요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
    "양자",
@@ -1262,7 +1232,7 @@
  {
   "topic": "능력·특징",
   "difficulty": "hard",
-  "question": "코유키가 철포환만큼 단단하게 만드는 것은?",
+  "question": "권설화(코유키)가 철포환만큼 단단하게 만드는 것은?",
   "explanation": "주먹밥을 철포환만큼 단단하게 만들어요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
@@ -1284,7 +1254,7 @@
    "다크존",
    "앙골별",
    "케론별",
-   "페코폰"
+   "퍼렁별"
   ],
   "answerIndex": 2,
   "id": 86
@@ -1292,7 +1262,7 @@
  {
   "topic": "행성·설정",
   "difficulty": "medium",
-  "question": "일본 원작에서 케론인들이 지구를 부르는 이름은?",
+  "question": "일본 원작에서 케론인들이 지구를 부르는 이름은? (투니버스판은 '퍼렁별')",
   "explanation": "They mean to conquer 'Pekopon' (their name for Earth). (한국 투니버스판에서는 '퍼렁별')",
   "source": "https://en.wikipedia.org/wiki/Sgt._Frog",
   "options": [
@@ -1953,13 +1923,13 @@
   "topic": "관계",
   "difficulty": "medium",
   "question": "타마마가 지구 생활을 배운 집은?",
-  "explanation": "니시자와 가에서 배워서 모든 집이 대저택인 줄 알았어요.",
+  "explanation": "유나라네 집에서 배워서 모든 집이 대저택인 줄 알았어요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
-   "사부로의 집",
-   "코유키의 오두막",
-   "니시자와 가",
-   "히나타 가"
+   "사빈의 집",
+   "권설화의 오두막",
+   "유나라네 집",
+   "우주네 집"
   ],
   "answerIndex": 2,
   "id": 131
@@ -1967,7 +1937,7 @@
  {
   "topic": "캐릭터",
   "difficulty": "easy",
-  "question": "히나타 남매의 엄마가 케로로를 어떻게 여겼을까요?",
+  "question": "강우주·강한별 남매의 엄마가 케로로를 어떻게 여겼을까요?",
   "explanation": "우주개구리 케로로를 귀여운 애완동물로 여기고 받아줬어요.",
   "source": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EA%B5%AC%EB%A6%AC_%EC%A4%91%EC%82%AC_%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
@@ -2027,36 +1997,6 @@
  {
   "topic": "TMI·비하인드",
   "difficulty": "hard",
-  "question": "케로로가 우승했다고 주장한 대회는?",
-  "explanation": "95화에서 556회 우주 수수께끼 대회 우승을 주장하지만 거짓말인 듯해요.",
-  "source": "https://keroro.fandom.com/wiki/Keroro",
-  "options": [
-   "우주 요리 대회",
-   "제556회 우주 수수께끼 대회",
-   "우주 노래자랑",
-   "케론 사격대회"
-  ],
-  "answerIndex": 1,
-  "id": 136
- },
- {
-  "topic": "TMI·비하인드",
-  "difficulty": "hard",
-  "question": "원작 만화에서 케로로가 장마철에 착용해야 하는 것은?",
-  "explanation": "습도가 높은 장마철엔 '파워 리미터'를 차야 해요(9권).",
-  "source": "https://keroro.fandom.com/wiki/Keroro",
-  "options": [
-   "헤드폰",
-   "케론볼",
-   "파워 리미터",
-   "우비"
-  ],
-  "answerIndex": 2,
-  "id": 137
- },
- {
-  "topic": "TMI·비하인드",
-  "difficulty": "hard",
   "question": "케로로의 체지방률은?",
   "explanation": "혈액형 O형, 체지방률 30%.",
   "source": "https://keroro.fandom.com/wiki/Keroro",
@@ -2083,81 +2023,6 @@
   ],
   "answerIndex": 2,
   "id": 139
- },
- {
-  "topic": "TMI·비하인드",
-  "difficulty": "hard",
-  "question": "DS 게임에서 케로로가 좋아하는 음식으로 나온 원작자 고향(구마모토)의 간식은?",
-  "explanation": "3·4번째 DS 게임에서 이키나리 당고로 나와요.",
-  "source": "https://keroro.fandom.com/wiki/Keroro",
-  "options": [
-   "다코야키",
-   "카스텔라",
-   "모찌 아이스",
-   "이키나리 당고"
-  ],
-  "answerIndex": 3,
-  "id": 140
- },
- {
-  "topic": "TMI·비하인드",
-  "difficulty": "hard",
-  "question": "케로로·도로로·기로로가 1등을 한 댄스 대회는?",
-  "explanation": "Kerorobics Dancing 1위.",
-  "source": "https://keroro.fandom.com/wiki/Keroro",
-  "options": [
-   "건프라 댄스",
-   "케로로빅스",
-   "우주 디스코",
-   "케론 탱고"
-  ],
-  "answerIndex": 1,
-  "id": 141
- },
- {
-  "topic": "TMI·비하인드",
-  "difficulty": "hard",
-  "question": "케로로가 버릴 소년 알파 잡지에 붓는 것은?",
-  "explanation": "남이 주워 읽지 못하게 캔커피를 부어요.",
-  "source": "https://keroro.fandom.com/wiki/Keroro",
-  "options": [
-   "카레",
-   "물",
-   "캔커피",
-   "간장"
-  ],
-  "answerIndex": 2,
-  "id": 142
- },
- {
-  "topic": "TMI·비하인드",
-  "difficulty": "hard",
-  "question": "ADV판 영어 더빙에서 원래 케로로 역으로 캐스팅된 성우는?",
-  "explanation": "Vic Mignogna가 15화를 녹음했지만 미공개, Funimation판은 Todd Haberkorn.",
-  "source": "https://keroro.fandom.com/wiki/Keroro",
-  "options": [
-   "토드 하버콘",
-   "루크 쇼",
-   "크리스 패튼",
-   "빅 미뇨냐"
-  ],
-  "answerIndex": 3,
-  "id": 143
- },
- {
-  "topic": "TMI·비하인드",
-  "difficulty": "hard",
-  "question": "Funimation 영어판 케로로 성우는?",
-  "explanation": "Funimation이 Todd Haberkorn으로 재캐스팅했어요.",
-  "source": "https://keroro.fandom.com/wiki/Keroro",
-  "options": [
-   "J. 마이클 테이텀",
-   "토드 하버콘",
-   "빅 미뇨냐",
-   "크리스 패튼"
-  ],
-  "answerIndex": 1,
-  "id": 144
  },
  {
   "topic": "능력·특징",
@@ -2193,12 +2058,12 @@
   "topic": "TMI·비하인드",
   "difficulty": "hard",
   "question": "기로로의 첫 키스 상대는? (265화)",
-  "explanation": "265화에서 사부로와 첫 키스.",
+  "explanation": "265화에서 사빈과 첫 키스.",
   "source": "https://keroro.fandom.com/wiki/Giroro",
   "options": [
-   "나츠미",
+   "강한별",
    "푸루루",
-   "사부로",
+   "사빈",
    "케로로"
   ],
   "answerIndex": 2,
@@ -2221,21 +2086,6 @@
  },
  {
   "topic": "능력·특징",
-  "difficulty": "hard",
-  "question": "기로로가 할 줄 아는 신호법은?",
-  "explanation": "Giroro knows semaphore.",
-  "source": "https://keroro.fandom.com/wiki/Giroro",
-  "options": [
-   "수기신호(세마포어)",
-   "모스 부호만",
-   "봉화",
-   "휘파람 신호"
-  ],
-  "answerIndex": 0,
-  "id": 149
- },
- {
-  "topic": "능력·특징",
   "difficulty": "medium",
   "question": "기로로가 잘 키우고 잘 굽는 작물은?",
   "explanation": "고구마 농사 달인(131화).",
@@ -2248,51 +2098,6 @@
   ],
   "answerIndex": 0,
   "id": 150
- },
- {
-  "topic": "TMI·비하인드",
-  "difficulty": "hard",
-  "question": "원작 만화에서 기로로의 술 실력은?",
-  "explanation": "만화에서 기로로는 술 한 방울에 혼수상태에 빠져요.",
-  "source": "https://keroro.fandom.com/wiki/Giroro",
-  "options": [
-   "술을 좋아함",
-   "한 방울에 혼수상태",
-   "말술",
-   "보통"
-  ],
-  "answerIndex": 1,
-  "id": 151
- },
- {
-  "topic": "TMI·비하인드",
-  "difficulty": "hard",
-  "question": "케로로 소대원 중 일본판에서 특별한 어미 없이 말하는 유일한 대원은?",
-  "explanation": "케로로 '데아리마스', 타마마 '데스', 쿠루루 '다제', 도로로 '데고자루'.",
-  "source": "https://keroro.fandom.com/wiki/Giroro",
-  "options": [
-   "도로로",
-   "기로로",
-   "타마마",
-   "케로로"
-  ],
-  "answerIndex": 1,
-  "id": 152
- },
- {
-  "topic": "TMI·비하인드",
-  "difficulty": "hard",
-  "question": "일본판 도로로의 말끝 어미는?",
-  "explanation": "도로로는 'degozaru'로 끝나요.",
-  "source": "https://keroro.fandom.com/wiki/Giroro",
-  "options": [
-   "~데스",
-   "~데아리마스",
-   "~다제",
-   "~데고자루"
-  ],
-  "answerIndex": 3,
-  "id": 153
  },
  {
   "topic": "TMI·비하인드",
@@ -2430,21 +2235,6 @@
   "id": 162
  },
  {
-  "topic": "TMI·비하인드",
-  "difficulty": "hard",
-  "question": "원작자 초기 설정에서 쿠루루 모자의 색은?",
-  "explanation": "주황 대신 크고 흰 모자였어요.",
-  "source": "https://keroro.fandom.com/wiki/Kururu",
-  "options": [
-   "작고 검은 모자",
-   "크고 하얀 모자",
-   "빨간 모자",
-   "파란 모자"
-  ],
-  "answerIndex": 1,
-  "id": 163
- },
- {
   "topic": "능력·특징",
   "difficulty": "hard",
   "question": "쿠루루가 카레 말고 관심을 보인 음식은?",
@@ -2473,21 +2263,6 @@
   ],
   "answerIndex": 0,
   "id": 165
- },
- {
-  "topic": "TMI·비하인드",
-  "difficulty": "hard",
-  "question": "쿠루루가 버튼을 누를 때 외치는 말은?",
-  "explanation": "'ポチト!' 개그.",
-  "source": "https://keroro.fandom.com/wiki/Kururu",
-  "options": [
-   "발사!",
-   "게로!",
-   "포치토!",
-   "크크!"
-  ],
-  "answerIndex": 2,
-  "id": 166
  },
  {
   "topic": "TMI·비하인드",
@@ -2533,21 +2308,6 @@
   ],
   "answerIndex": 2,
   "id": 169
- },
- {
-  "topic": "TMI·비하인드",
-  "difficulty": "hard",
-  "question": "원작자 초기 디자인에서 도로로는 어떤 모습이었나요?",
-  "explanation": "잠수부 같은 슈트에 눈이 완전히 하얬어요.",
-  "source": "https://keroro.fandom.com/wiki/Dororo",
-  "options": [
-   "잠수부 같은 어두운 수트",
-   "하얀 망토",
-   "사무라이 갑옷",
-   "해적 복장"
-  ],
-  "answerIndex": 0,
-  "id": 170
  },
  {
   "topic": "TMI·비하인드",
@@ -2627,14 +2387,14 @@
  {
   "topic": "TMI·비하인드",
   "difficulty": "hard",
-  "question": "후유키 대신 원래 기획에 있던 캐릭터의 이름은?",
-  "explanation": "1998년 기획 때 나츠미의 원래 이름이 야마토 준이기도 해요.",
+  "question": "강우주(후유키) 대신 원래 기획에 있던 캐릭터의 이름은?",
+  "explanation": "1998년 기획 때 강한별의 원래 이름이 야마토 준이기도 해요.",
   "source": "https://keroro.fandom.com/wiki/Natsumi_Hinata",
   "options": [
-   "코유키",
+   "권설화",
    "하루나",
    "야마토 준",
-   "아사미"
+   "다해"
   ],
   "answerIndex": 2,
   "id": 176
@@ -2642,8 +2402,8 @@
  {
   "topic": "능력·특징",
   "difficulty": "medium",
-  "question": "애니에서 후유키가 케론볼을 보관하는 곳은?",
-  "explanation": "후유키는 케론볼을 서랍에 보관해요.",
+  "question": "애니에서 강우주(후유키)가 케론볼을 보관하는 곳은?",
+  "explanation": "강우주는 케론볼을 서랍에 보관해요.",
   "source": "https://keroro.fandom.com/wiki/Fuyuki_Hinata",
   "options": [
    "냉장고",
@@ -2657,8 +2417,8 @@
  {
   "topic": "TMI·비하인드",
   "difficulty": "hard",
-  "question": "324화 침략 성공률 테스트에서 후유키의 점수는?",
-  "explanation": "후유키 100%, 나츠미 75%.",
+  "question": "324화 침략 성공률 테스트에서 강우주(후유키)의 점수는?",
+  "explanation": "강우주 100%, 강한별 75%.",
   "source": "https://keroro.fandom.com/wiki/Fuyuki_Hinata",
   "options": [
    "100%",
@@ -2672,7 +2432,7 @@
  {
   "topic": "TMI·비하인드",
   "difficulty": "hard",
-  "question": "후유키의 일본 성우는 몇 화부터 쿠와시마 호코로 바뀌었을까요?",
+  "question": "강우주(후유키)의 일본 성우는 몇 화부터 쿠와시마 호코로 바뀌었을까요?",
   "explanation": "232화부터 교체.",
   "source": "https://keroro.fandom.com/wiki/Fuyuki_Hinata",
   "options": [
@@ -2687,7 +2447,7 @@
  {
   "topic": "TMI·비하인드",
   "difficulty": "medium",
-  "question": "후유키가 밤늦게까지 하는 게임기는?",
+  "question": "강우주(후유키)가 밤늦게까지 하는 게임기는?",
   "explanation": "Nintendo DS.",
   "source": "https://keroro.fandom.com/wiki/Fuyuki_Hinata",
   "options": [
@@ -2702,7 +2462,7 @@
  {
   "topic": "TMI·비하인드",
   "difficulty": "hard",
-  "question": "나츠미의 별자리는?",
+  "question": "강한별(나츠미)의 별자리는?",
   "explanation": "Sagittarius.",
   "source": "https://keroro.fandom.com/wiki/Natsumi_Hinata",
   "options": [
@@ -2717,7 +2477,7 @@
  {
   "topic": "TMI·비하인드",
   "difficulty": "hard",
-  "question": "나츠미의 전투력은?",
+  "question": "강한별(나츠미)의 전투력은?",
   "explanation": "Natsumi's combat power is over 400.",
   "source": "https://keroro.fandom.com/wiki/Natsumi_Hinata",
   "options": [
@@ -2732,29 +2492,14 @@
  {
   "topic": "TMI·비하인드",
   "difficulty": "hard",
-  "question": "초등학생 시절 나츠미의 별명은?",
-  "explanation": "후유키를 괴롭히는 애들을 때려 'Devil Summer'.",
+  "question": "2026 리메이크에서 원작 강한별(나츠미) 성우 사이토 치와가 맡은 역은?",
+  "explanation": "엄마 홍미나 역을 맡았어요.",
   "source": "https://keroro.fandom.com/wiki/Natsumi_Hinata",
   "options": [
-   "데빌 서머",
-   "바보 나츠",
-   "핑크 데빌",
-   "레드 코멧"
-  ],
-  "answerIndex": 0,
-  "id": 183
- },
- {
-  "topic": "TMI·비하인드",
-  "difficulty": "hard",
-  "question": "2026 리메이크에서 원작 나츠미 성우 사이토 치와가 맡은 역은?",
-  "explanation": "엄마 아키 역을 맡았어요.",
-  "source": "https://keroro.fandom.com/wiki/Natsumi_Hinata",
-  "options": [
-   "코유키",
+   "권설화",
    "모아",
-   "나츠미",
-   "히나타 아키(엄마)"
+   "강한별",
+   "홍미나(엄마)"
   ],
   "answerIndex": 3,
   "id": 184
@@ -2762,8 +2507,8 @@
  {
   "topic": "TMI·비하인드",
   "difficulty": "medium",
-  "question": "모모카와 후유키가 둘이서만 활동하는 킷쇼학원 동아리는?",
-  "explanation": "Kissho Academy Occult Club.",
+  "question": "유나라(모모카)와 강우주(후유키)가 둘이서만 활동하는 미리내 중학교(킷쇼학원) 동아리는?",
+  "explanation": "오컬트 동아리(원작 만화에서는 만화부). 투니버스판 학교 이름은 미리내 중학교.",
   "source": "https://keroro.fandom.com/wiki/Momoka_Nishizawa",
   "options": [
    "만화부",
@@ -2777,7 +2522,7 @@
  {
   "topic": "TMI·비하인드",
   "difficulty": "hard",
-  "question": "모모카의 혈액형은?",
+  "question": "유나라(모모카)의 혈액형은?",
   "explanation": "Momoka's blood type is A.",
   "source": "https://keroro.fandom.com/wiki/Momoka_Nishizawa",
   "options": [
@@ -2792,22 +2537,7 @@
  {
   "topic": "TMI·비하인드",
   "difficulty": "hard",
-  "question": "영어판 만화에서 모모카의 원래 이름은?",
-  "explanation": "Momoko로 번역됐어요.",
-  "source": "https://keroro.fandom.com/wiki/Momoka_Nishizawa",
-  "options": [
-   "피치",
-   "모모미",
-   "모모",
-   "모모코"
-  ],
-  "answerIndex": 3,
-  "id": 187
- },
- {
-  "topic": "TMI·비하인드",
-  "difficulty": "hard",
-  "question": "모모카가 유창하게 하는 언어가 아닌 것은?",
+  "question": "유나라(모모카)가 유창하게 하는 언어가 아닌 것은?",
   "explanation": "일본어·프랑스어·영어.",
   "source": "https://keroro.fandom.com/wiki/Momoka_Nishizawa",
   "options": [
@@ -2818,51 +2548,6 @@
   ],
   "answerIndex": 3,
   "id": 188
- },
- {
-  "topic": "TMI·비하인드",
-  "difficulty": "hard",
-  "question": "모아의 휴대폰으로 루시퍼 스피어를 꺼내는 입력 커맨드는?",
-  "explanation": "1999년 7월 예언을 뜻해요.",
-  "source": "https://keroro.fandom.com/wiki/Angol_Mois",
-  "options": [
-   "55555",
-   "20040",
-   "12345",
-   "19997"
-  ],
-  "answerIndex": 3,
-  "id": 189
- },
- {
-  "topic": "TMI·비하인드",
-  "difficulty": "hard",
-  "question": "모아가 루시퍼 스피어로만 열 수 있는 물건은?",
-  "explanation": "거대 일기장은 루시퍼 스피어로만 열려요.",
-  "source": "https://keroro.fandom.com/wiki/Angol_Mois",
-  "options": [
-   "보물상자",
-   "금고",
-   "케론볼",
-   "거대한 일기장"
-  ],
-  "answerIndex": 3,
-  "id": 190
- },
- {
-  "topic": "TMI·비하인드",
-  "difficulty": "hard",
-  "question": "소울칼리버 IV에 나온 모아와 닮은 캐릭터는?",
-  "explanation": "요시자키 미네가 디자인한 Angol Fear.",
-  "source": "https://keroro.fandom.com/wiki/Angol_Mois",
-  "options": [
-   "앙골 피어",
-   "타키",
-   "소피티아",
-   "앙골 모아 2"
-  ],
-  "answerIndex": 0,
-  "id": 191
  },
  {
   "topic": "TMI·비하인드",
@@ -2957,21 +2642,6 @@
  {
   "topic": "악당·적",
   "difficulty": "hard",
-  "question": "바이퍼가 웃을 때 반복하는 말은?",
-  "explanation": "'가라'를 반복해요.",
-  "source": "https://keroro.fandom.com/wiki/Viper",
-  "options": [
-   "크크",
-   "게로",
-   "푸푸",
-   "가라(ガラ)"
-  ],
-  "answerIndex": 3,
-  "id": 198
- },
- {
-  "topic": "악당·적",
-  "difficulty": "hard",
   "question": "343화에서 밝혀진 바이퍼의 식성은?",
   "explanation": "현실의 코브라가 개구리를 먹듯.",
   "source": "https://keroro.fandom.com/wiki/Viper",
@@ -2983,66 +2653,6 @@
   ],
   "answerIndex": 1,
   "id": 199
- },
- {
-  "topic": "악당·적",
-  "difficulty": "medium",
-  "question": "습기를 좋아하고 케론인을 삼키는 노란 우주 식물은?",
-  "explanation": "Nyororo는 노란 우주 식물이에요.",
-  "source": "https://keroro.fandom.com/wiki/Nyororo",
-  "options": [
-   "바이퍼",
-   "뇨로로",
-   "니로로",
-   "키루루"
-  ],
-  "answerIndex": 1,
-  "id": 200
- },
- {
-  "topic": "악당·적",
-  "difficulty": "hard",
-  "question": "뇨로로가 변이하기 전의 무해한 식물 이름은?",
-  "explanation": "10만 년 전 니로로가 변이.",
-  "source": "https://keroro.fandom.com/wiki/Nyororo",
-  "options": [
-   "니로로",
-   "뇨뇨",
-   "뉴로로",
-   "로로"
-  ],
-  "answerIndex": 0,
-  "id": 201
- },
- {
-  "topic": "악당·적",
-  "difficulty": "hard",
-  "question": "164화에서 밝혀진 뇨로로의 비밀은?",
-  "explanation": "꼬리가 입이에요.",
-  "source": "https://keroro.fandom.com/wiki/Nyororo",
-  "options": [
-   "케론인 친척",
-   "꼬리가 입, 얼굴은 엉덩이",
-   "눈이 3개",
-   "사실 로봇"
-  ],
-  "answerIndex": 1,
-  "id": 202
- },
- {
-  "topic": "악당·적",
-  "difficulty": "hard",
-  "question": "뇨로로의 실제 생물 모티브는?",
-  "explanation": "Lamprey.",
-  "source": "https://keroro.fandom.com/wiki/Nyororo",
-  "options": [
-   "뱀",
-   "칠성장어",
-   "해파리",
-   "지렁이"
-  ],
-  "answerIndex": 1,
-  "id": 203
  },
  {
   "topic": "무기·아이템",
@@ -3073,66 +2683,6 @@
   ],
   "answerIndex": 2,
   "id": 205
- },
- {
-  "topic": "무기·아이템",
-  "difficulty": "hard",
-  "question": "생각한 것을 실체화하는 케론볼 버튼은?",
-  "explanation": "Realization 버튼.",
-  "source": "https://keroro.fandom.com/wiki/Kero_Ball",
-  "options": [
-   "전기 버튼",
-   "실체화 버튼",
-   "메가폰 버튼",
-   "포획 버튼"
-  ],
-  "answerIndex": 1,
-  "id": 206
- },
- {
-  "topic": "악당·적",
-  "difficulty": "hard",
-  "question": "슈라라의 원래 이름은?",
-  "explanation": "203화에서 정체는 동급생 시라라.",
-  "source": "https://keroro.fandom.com/wiki/Shurara",
-  "options": [
-   "카라라",
-   "미라라",
-   "키루루",
-   "시라라"
-  ],
-  "answerIndex": 3,
-  "id": 207
- },
- {
-  "topic": "악당·적",
-  "difficulty": "hard",
-  "question": "시라라가 케로로에게 원한을 품은 이유는?",
-  "explanation": "반창고를 케로로가 떼어버렸어요.",
-  "source": "https://keroro.fandom.com/wiki/Shurara",
-  "options": [
-   "케론볼을 뺏어서",
-   "건프라를 부숴서",
-   "푸루루가 붙여준 별 반창고를 떼서",
-   "시험을 망쳐서"
-  ],
-  "answerIndex": 2,
-  "id": 208
- },
- {
-  "topic": "무기·아이템",
-  "difficulty": "hard",
-  "question": "시라라가 써서 힘을 얻은 금은색 헬멧은?",
-  "explanation": "Keromet.",
-  "source": "https://keroro.fandom.com/wiki/Shurara",
-  "options": [
-   "케로메트",
-   "케론스타",
-   "루시퍼 스피어",
-   "파워 리미터"
-  ],
-  "answerIndex": 0,
-  "id": 209
  },
  {
   "topic": "악당·적",
@@ -3182,7 +2732,7 @@
  {
   "topic": "극장판",
   "difficulty": "hard",
-  "question": "아리사가 등장한 유일한 극장판은?",
+  "question": "알리사가 등장한 유일한 극장판은?",
   "explanation": "Movie 5 only.",
   "source": "https://keroro.fandom.com/wiki/Alisa_Southerncross",
   "options": [
@@ -3197,7 +2747,7 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "아리사의 실제 나이는?",
+  "question": "알리사의 실제 나이는?",
   "explanation": "겉모습 12~14세, 실제 300살 이상.",
   "source": "https://keroro.fandom.com/wiki/Alisa_Southerncross",
   "options": [
@@ -3212,7 +2762,7 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "애니에서 아리사의 정체는?",
+  "question": "애니에서 알리사의 정체는?",
   "explanation": "species: Doll (anime).",
   "source": "https://keroro.fandom.com/wiki/Alisa_Southerncross",
   "options": [
@@ -3223,21 +2773,6 @@
   ],
   "answerIndex": 3,
   "id": 215
- },
- {
-  "topic": "TMI·비하인드",
-  "difficulty": "hard",
-  "question": "첫 등장에서 후유키가 말한 아리사의 냄새는?",
-  "explanation": "osmanthus.",
-  "source": "https://keroro.fandom.com/wiki/Alisa_Southerncross",
-  "options": [
-   "카레 냄새",
-   "금목서 향",
-   "장미 향",
-   "비 냄새"
-  ],
-  "answerIndex": 1,
-  "id": 216
  },
  {
   "topic": "캐릭터",
@@ -3268,21 +2803,6 @@
   ],
   "answerIndex": 2,
   "id": 218
- },
- {
-  "topic": "관계",
-  "difficulty": "hard",
-  "question": "어린 케로로 일행을 지켜준 형 같은 친구는?",
-  "explanation": "elder friend Joriri.",
-  "source": "https://keroro.fandom.com/wiki/Pururu",
-  "options": [
-   "쿠루루",
-   "조리리",
-   "가루루",
-   "시라라"
-  ],
-  "answerIndex": 1,
-  "id": 219
  },
  {
   "topic": "캐릭터",
@@ -3392,7 +2912,7 @@
  {
   "topic": "TMI·비하인드",
   "difficulty": "hard",
-  "question": "코유키의 혈액형은?",
+  "question": "권설화(코유키)의 혈액형은?",
   "explanation": "Koyuki's blood type is B.",
   "source": "https://keroro.fandom.com/wiki/Koyuki_Azumaya",
   "options": [
@@ -3407,7 +2927,7 @@
  {
   "topic": "TMI·비하인드",
   "difficulty": "hard",
-  "question": "코유키가 330화에서 카레에 넣은 것은?",
+  "question": "권설화(코유키)가 330화에서 카레에 넣은 것은?",
   "explanation": "slugs and newts.",
   "source": "https://keroro.fandom.com/wiki/Koyuki_Azumaya",
   "options": [
@@ -3422,7 +2942,7 @@
  {
   "topic": "TMI·비하인드",
   "difficulty": "hard",
-  "question": "코유키가 처음 피자를 먹은 화는?",
+  "question": "권설화(코유키)가 처음 피자를 먹은 화는?",
   "explanation": "episode 317.",
   "source": "https://keroro.fandom.com/wiki/Koyuki_Azumaya",
   "options": [
@@ -3437,7 +2957,7 @@
  {
   "topic": "TMI·비하인드",
   "difficulty": "hard",
-  "question": "사부로가 처음 TV에 나온 작품은?",
+  "question": "사빈(사부로)이 처음 TV에 나온 작품은?",
   "explanation": "Seven of Seven에서 라디오 진행자로.",
   "source": "https://keroro.fandom.com/wiki/Saburo",
   "options": [
@@ -3452,7 +2972,7 @@
  {
   "topic": "TMI·비하인드",
   "difficulty": "hard",
-  "question": "사부로가 163~190화 동안 몇 번 나왔을까요?",
+  "question": "사빈(사부로)이 163~190화 동안 몇 번 나왔을까요?",
   "explanation": "163~190화 완전 결장.",
   "source": "https://keroro.fandom.com/wiki/Saburo",
   "options": [
@@ -3465,24 +2985,9 @@
   "id": 231
  },
  {
-  "topic": "TMI·비하인드",
-  "difficulty": "hard",
-  "question": "난폭 운전으로 생긴 아키의 별명은?",
-  "explanation": "샤아 아즈나블 패러디 'The Red Comet'.",
-  "source": "https://keroro.fandom.com/wiki/Aki_Hinata",
-  "options": [
-   "옐로 데빌",
-   "다이너마이트 걸",
-   "데빌 서머",
-   "붉은 혜성"
-  ],
-  "answerIndex": 3,
-  "id": 232
- },
- {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "아키라는 이름의 뜻은?",
+  "question": "홍미나의 일본 원작 이름 '아키(秋)'의 뜻은?",
   "explanation": "Aki = Autumn.",
   "source": "https://keroro.fandom.com/wiki/Aki_Hinata",
   "options": [
@@ -3497,7 +3002,7 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "아키가 편집하는 잡지는?",
+  "question": "홍미나(아키)가 편집하는 잡지는?",
   "explanation": "Editor of Shonen Alpha.",
   "source": "https://keroro.fandom.com/wiki/Aki_Hinata",
   "options": [
@@ -3512,7 +3017,7 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "원작 설정상 폴이 참전한 실제 전투는?",
+  "question": "원작 설정상 폴 스미스가 참전한 실제 전투는?",
   "explanation": "Battle of Jangil Gol(1939).",
   "source": "https://keroro.fandom.com/wiki/Paul_Moriyama",
   "options": [
@@ -3527,7 +3032,7 @@
  {
   "topic": "관계",
   "difficulty": "medium",
-  "question": "폴과 친근한 라이벌 관계인 소대원은?",
+  "question": "폴 스미스와 친근한 라이벌 관계인 소대원은?",
   "explanation": "Giroro - Rival.",
   "source": "https://keroro.fandom.com/wiki/Paul_Moriyama",
   "options": [
@@ -3797,7 +3302,7 @@
  {
   "topic": "능력·특징",
   "difficulty": "medium",
-  "question": "나츠미의 이명은?",
+  "question": "강한별(나츠미)의 이명은?",
   "explanation": "'퍼렁별 최종 방어 라인'.",
   "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%EB%82%98%EC%B8%A0%EB%AF%B8",
   "options": [
@@ -4052,36 +3557,6 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "타마마가 후유키를 부르는 애칭은?",
-  "explanation": "후유키 '훗키', 나츠미 '낫치', 모모카 '모못치'.",
-  "source": "https://namu.wiki/w/%ED%83%80%EB%A7%88%EB%A7%88",
-  "options": [
-   "우주군",
-   "훗키",
-   "후유땅",
-   "훗치"
-  ],
-  "answerIndex": 1,
-  "id": 271
- },
- {
-  "topic": "캐릭터",
-  "difficulty": "hard",
-  "question": "타마마가 나츠미를 부르는 애칭은?",
-  "explanation": "나츠미 '낫치'.",
-  "source": "https://namu.wiki/w/%ED%83%80%EB%A7%88%EB%A7%88",
-  "options": [
-   "나츠땅",
-   "나츠뽀",
-   "한별이",
-   "낫치"
-  ],
-  "answerIndex": 3,
-  "id": 272
- },
- {
-  "topic": "캐릭터",
-  "difficulty": "hard",
   "question": "타마마라는 이름의 유래는?",
   "explanation": "おたまじゃくし에서.",
   "source": "https://namu.wiki/w/%ED%83%80%EB%A7%88%EB%A7%88",
@@ -4247,7 +3722,7 @@
  {
   "topic": "TMI·비하인드",
   "difficulty": "hard",
-  "question": "케로로가 나츠미를 이긴 종목이 아닌 것은?",
+  "question": "케로로가 강한별(나츠미)을 이긴 종목이 아닌 것은?",
   "explanation": "골프·탁구·수영에서 이겼어요.",
   "source": "https://namu.wiki/w/%EC%BC%80%EB%A1%9C%EB%A1%9C",
   "options": [
@@ -4322,7 +3797,7 @@
  {
   "topic": "캐릭터",
   "difficulty": "medium",
-  "question": "후유키의 생일은?",
+  "question": "강우주(후유키)의 생일은?",
   "explanation": "1992년 3월 28일, 12세.",
   "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%ED%9B%84%EC%9C%A0%ED%82%A4",
   "options": [
@@ -4337,7 +3812,7 @@
  {
   "topic": "캐릭터",
   "difficulty": "medium",
-  "question": "나츠미의 생일은?",
+  "question": "강한별(나츠미)의 생일은?",
   "explanation": "1990년 12월 2일, 14세.",
   "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%EB%82%98%EC%B8%A0%EB%AF%B8",
   "options": [
@@ -4352,7 +3827,7 @@
  {
   "topic": "캐릭터",
   "difficulty": "medium",
-  "question": "후유키의 말버릇은?",
+  "question": "강우주(후유키)의 말버릇은?",
   "explanation": "\"중사! 우린 친구잖아!\"",
   "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%ED%9B%84%EC%9C%A0%ED%82%A4",
   "options": [
@@ -4367,7 +3842,7 @@
  {
   "topic": "능력·특징",
   "difficulty": "hard",
-  "question": "운동을 못하는 후유키가 유일하게 잘하는 운동은?",
+  "question": "운동을 못하는 강우주(후유키)가 유일하게 잘하는 운동은?",
   "explanation": "볼링만 잘해요.",
   "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%ED%9B%84%EC%9C%A0%ED%82%A4",
   "options": [
@@ -4382,7 +3857,7 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "니시자와 바이오가 공인한 후유키의 직함은?",
+  "question": "유바우(니시자와 바이오)가 공인한 강우주(후유키)의 직함은?",
   "explanation": "'우주 외교관'.",
   "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%ED%9B%84%EC%9C%A0%ED%82%A4",
   "options": [
@@ -4397,7 +3872,7 @@
  {
   "topic": "능력·특징",
   "difficulty": "medium",
-  "question": "나츠미가 자신 있는 요리는?",
+  "question": "강한별(나츠미)이 자신 있는 요리는?",
   "explanation": "자신 있는 요리 스튜.",
   "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%EB%82%98%EC%B8%A0%EB%AF%B8",
   "options": [
@@ -4412,7 +3887,7 @@
  {
   "topic": "능력·특징",
   "difficulty": "medium",
-  "question": "나츠미의 헤어스타일은?",
+  "question": "강한별(나츠미)의 헤어스타일은?",
   "explanation": "트윈테일.",
   "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%EB%82%98%EC%B8%A0%EB%AF%B8",
   "options": [
@@ -4427,7 +3902,7 @@
  {
   "topic": "능력·특징",
   "difficulty": "hard",
-  "question": "나츠미가 싫어하는 것이 아닌 것은?",
+  "question": "강한별(나츠미)이 싫어하는 것이 아닌 것은?",
   "explanation": "군고구마는 좋아하는 것이에요.",
   "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%EB%82%98%EC%B8%A0%EB%AF%B8",
   "options": [
@@ -4442,14 +3917,14 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "모모카의 반은?",
-  "explanation": "킷쇼 학원 중등부 1-B.",
+  "question": "유나라(모모카)의 반은?",
+  "explanation": "원작 기준 킷쇼학원 중등부(투니버스: 미리내 중학교) 1학년 B반.",
   "source": "https://namu.wiki/w/%EB%8B%88%EC%8B%9C%EC%9E%90%EC%99%80%20%EB%AA%A8%EB%AA%A8%EC%B9%B4",
   "options": [
-   "3-C",
-   "2-B",
-   "1-A",
-   "킷쇼 학원 중등부 1-B"
+   "3학년 C반",
+   "2학년 B반",
+   "1학년 A반",
+   "1학년 B반"
   ],
   "answerIndex": 3,
   "id": 297
@@ -4457,7 +3932,7 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "니시자와 저택 입구에서 건물까지 차로 걸리는 시간은?",
+  "question": "유나라네 저택 입구에서 건물까지 차로 걸리는 시간은?",
   "explanation": "차로 15분.",
   "source": "https://namu.wiki/w/%EB%8B%88%EC%8B%9C%EC%9E%90%EC%99%80%20%EB%AA%A8%EB%AA%A8%EC%B9%B4",
   "options": [
@@ -4472,11 +3947,11 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "모모카 이중인격은 누구에게서 유전됐을까요?",
-  "explanation": "엄마에게서 유전.",
+  "question": "유나라(모모카) 이중인격은 누구에게서 유전됐을까요?",
+  "explanation": "나무위키: 이면의 유나라(이중인격)는 엄마에게서 유전됐어요.",
   "source": "https://namu.wiki/w/%EB%8B%88%EC%8B%9C%EC%9E%90%EC%99%80%20%EB%AA%A8%EB%AA%A8%EC%B9%B4",
   "options": [
-   "폴",
+   "폴 스미스",
    "할아버지",
    "엄마",
    "아빠"
@@ -4562,8 +4037,8 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "모아가 카피한 아사미의 한국명은?",
-  "explanation": "아사미(다해).",
+  "question": "모아가 카피한 다해(아사미)의 한국명은?",
+  "explanation": "다해.",
   "source": "https://namu.wiki/w/%EC%95%99%EA%B3%A8%20%EB%AA%A8%EC%95%84",
   "options": [
    "다해",
@@ -4577,7 +4052,7 @@
  {
   "topic": "캐릭터",
   "difficulty": "hard",
-  "question": "사부로가 쿠루루에게 받은 도구는?",
+  "question": "사빈(사부로)이 쿠루루에게 받은 도구는?",
   "explanation": "실체화 펜.",
   "source": "https://namu.wiki/w/%ED%98%B8%EC%A1%B0%20%EB%AC%B4%EC%B8%A0%EB%AF%B8",
   "options": [
@@ -4727,7 +4202,7 @@
  {
   "topic": "관계",
   "difficulty": "medium",
-  "question": "나츠미가 좋아하는 것에 포함된 케론인은?",
+  "question": "강한별(나츠미)이 좋아하는 것에 포함된 케론인은?",
   "explanation": "좋아하는 것: 623, 기로로, 운동, 군고구마.",
   "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%ED%83%80%20%EB%82%98%EC%B8%A0%EB%AF%B8",
   "options": [
